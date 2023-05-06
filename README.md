@@ -35,6 +35,9 @@ AlphaFold2 is a deep learning system that predicts protein structures from amino
 AlphaFold generated 5 structures for the antibody, which in decreasing order of confidence are 
 
 1. [Rank 1](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_unrelaxed_rank_001_alphafold2_ptm_model_3_seed_000.pdb)
+
+<img src="https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/SCFVSTRUCTUREPREDICTION_4F267_UNRELAXED_RANK_001_ALPHAFOLD2_PTM_MODEL_3_SEED_000.PDB.png"  width="150" height="150">
+
 2. [Rank 2](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_unrelaxed_rank_002_alphafold2_ptm_model_4_seed_000.pdb)
 3. [Rank 3](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_unrelaxed_rank_003_alphafold2_ptm_model_5_seed_000.pdb)
 4. [Rank 4](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_unrelaxed_rank_004_alphafold2_ptm_model_1_seed_000.pdb)
@@ -84,7 +87,10 @@ Templates from PDB showed a much higher expected quality.
 
 On checking alignment of `6Y6C` with our target sequence, it turned out that the best template for our antibody is chain-C of `6Y6C`. We then used modeller to produce the following structures for the antibody, in decreasing order of confidence.
 
-1. [Rank 1](https://github.com/iGEMIISc/scFv-Modelling/blob/main/modeller/TvLDH.B99990001.pdb) (This model was further also run through an energy optimizer)
+1. [Rank 1](https://github.com/iGEMIISc/scFv-Modelling/blob/main/modeller/TvLDH.B99990001.pdb) (This model was further also run through an energy optimizer) 
+
+<img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/modeller/TVLDH.B99990001.PDB.png"  width="150" height="150">
+
 2. [Rank 2](https://github.com/iGEMIISc/scFv-Modelling/blob/main/modeller/TvLDH.B99990002.pdb)
 3. [Rank 3](https://github.com/iGEMIISc/scFv-Modelling/blob/main/modeller/TvLDH.B99990003.pdb)
 4. [Rank 4](https://github.com/iGEMIISc/scFv-Modelling/blob/main/modeller/TvLDH.B99990004.pdb)
