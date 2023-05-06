@@ -1,0 +1,792 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<!--Converted with LaTeX2HTML 2008 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Footnotes</TITLE>
+<META NAME="description" CONTENT="Footnotes">
+<META NAME="keywords" CONTENT="manual">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="manual.css">
+<LINK REL="STYLESHEET" HREF="pygments.css">
+
+<LINK REL="previous" HREF="node517.html">
+<LINK REL="up" HREF="manual.html">
+</HEAD>
+
+<BODY >
+
+<DL>
+<DT><A NAME="foot3294">... alignment.</A><A
+ HREF="node18.html#tex2html34"><SUP><SPAN CLASS="arabic">2</SPAN>.<SPAN CLASS="arabic">1</SPAN></SUP></A></DT>
+<DD>If the residue type is defined in
+<TT>'modlib/restyp.lib'</TT> you can use the 1-letter code that is specified there,
+but if in doubt use '.', since that matches everything.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot3112">... assigned</A><A
+ HREF="node23.html#tex2html41"><SUP><SPAN CLASS="arabic">2</SPAN>.<SPAN CLASS="arabic">2</SPAN></SUP></A></DT>
+<DD>After
+uppercase letters A-Z are used, chain IDs 0 through 9 are assigned, then
+lowercase letters a-z. If your protein contains more than 62 chains, the
+remaining chains are given no IDs.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot3296">... restraints</A><A
+ HREF="node24.html#tex2html43"><SUP><SPAN CLASS="arabic">2</SPAN>.<SPAN CLASS="arabic">3</SPAN></SUP></A></DT>
+<DD>The
+restraints include bond, angle and dihedral angle restraints.
+The SG &mdash; SG atom pair also becomes an excluded atom pair that is not checked
+for an atom-atom overlap. The <SPAN CLASS="MATH"><IMG
+ WIDTH="19" HEIGHT="28" ALIGN="MIDDLE" BORDER="0"
+ SRC="img19.png"
+ ALT="$ \chi_i$"></SPAN>
+ dihedral angle restraints will depend
+on the conformation of the equivalent disulfides in the template structure,
+as described in [<A
+ HREF="node516.html#SalOve94">&#352;ali &amp; Overington, 1994</A>].
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot8237">...
+exception</A><A
+ HREF="node103.html#tex2html75"><SUP><SPAN CLASS="arabic">5</SPAN>.<SPAN CLASS="arabic">1</SPAN></SUP></A></DT>
+<DD>M<SMALL>ODELLER</SMALL> can raise the following Python exceptions:
+<TT>ZeroDivisionError</TT><A NAME="8438"></A>, <TT>IOError</TT><A NAME="8440"></A>, <TT>MemoryError</TT><A NAME="8442"></A>, <TT>EOFError</TT><A NAME="8444"></A>,
+<TT>TypeError</TT><A NAME="8446"></A>, <TT>NotImplementedError</TT><A NAME="8448"></A>, <TT>UnicodeError</TT><A NAME="8450"></A>, <TT>IndexError</TT><A NAME="8452"></A>, and <TT>ValueError</TT><A NAME="8454"></A>.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot8412">... name</A><A
+ HREF="node104.html#tex2html76"><SUP><SPAN CLASS="arabic">5</SPAN>.<SPAN CLASS="arabic">2</SPAN></SUP></A></DT>
+<DD>All M<SMALL>ODELLER</SMALL> <A NAME="tex2html77"
+  HREF="https://www.python.org/">Python</A> classes are
+named using CamelCase, such as <TT>Model</TT>, <TT>Alignment</TT>, or
+<TT>AutoModel</TT>. Previous versions of M<SMALL>ODELLER</SMALL> used lowercase names,
+such as <TT>model</TT>, <TT>alignment</TT>, or <TT>automodel</TT>. These lowercase names
+are still available but are deprecated.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot8413">... special.</A><A
+ HREF="node104.html#tex2html81"><SUP><SPAN CLASS="arabic">5</SPAN>.<SPAN CLASS="arabic">3</SPAN></SUP></A></DT>
+<DD>On Unix/Linux systems, M<SMALL>ODELLER</SMALL> assumes that your filesystem
+also stores filenames in UTF-8. This is usually the case on modern systems;
+however, you can change the encoding by setting the <TT>G_FILENAME_ENCODING</TT>
+environment variable.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot14936">... numbers</A><A
+ HREF="node181.html#tex2html105"><SUP><SPAN CLASS="arabic">6</SPAN>.<SPAN CLASS="arabic">1</SPAN></SUP></A></DT>
+<DD>for mmCIF format,
+author-provided residue numbers (<TT>_atom_site.auth_seq_id</TT>) are used if
+available rather than the canonical sequence id
+(<TT>_atom_site.label_seq_id</TT>)
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot15700">... library</A><A
+ HREF="node191.html#tex2html112"><SUP><SPAN CLASS="arabic">6</SPAN>.<SPAN CLASS="arabic">2</SPAN></SUP></A></DT>
+<DD>If no atoms in the first
+chain have coordinates, internal coordinate generation is seeded by placing the
+first atom at the origin, the second along the x axis, and the third in the xy
+plane. If no atoms in subsequent chains have coordinates, the first atom is
+placed 2 angstroms along each of the x, y and z axes from the last atom in the
+previous chain, and the second and third atoms placed in the same way as for
+the first chain.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot16035">... communication)</A><A
+ HREF="node198.html#tex2html120"><SUP><SPAN CLASS="arabic">6</SPAN>.<SPAN CLASS="arabic">3</SPAN></SUP></A></DT>
+<DD>
+Fractional surface area of a residue X is given as the calculated surface area
+divided by that of the residue in an extended tripeptide Ala-X-Ala
+conformation.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot18267">...
+scores</A><A
+ HREF="node206.html#tex2html125"><SUP><SPAN CLASS="arabic">6</SPAN>.<SPAN CLASS="arabic">4</SPAN></SUP></A></DT>
+<DD>The mean and standard deviation of the DOPE score of a given
+protein is estimated from its sequence. The mean score of a random protein
+conformation is estimated by a weighted sum of protein composition over the
+20 standard amino acid residue types, where each weight corresponds to the
+expected change in the score by inserting a specific type of amino acid
+residue. The weights are estimated from a separate training set of
+1,686,320 models generated by MODPIPE.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot21288">...
+</A><A
+ HREF="node230.html#tex2html131"><SUP><SPAN CLASS="arabic">6</SPAN>.<SPAN CLASS="arabic">5</SPAN></SUP></A></DT>
+<DD>The target distances were all obtained from a regular <SPAN CLASS="MATH">&alpha;</SPAN>
+-helix in
+one of the high-resolution myoglobin structures.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot25784">...http://www.ks.uiuc.edu/Research/vmd/.
+</A><A
+ HREF="node274.html#tex2html160"><SUP><SPAN CLASS="arabic">6</SPAN>.<SPAN CLASS="arabic">6</SPAN></SUP></A></DT>
+<DD>Note that binary trajectory files are machine dependent; it is up
+to the visualization software to do any necessary byte-swapping.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot29778">... files</A><A
+ HREF="node317.html#tex2html190"><SUP><SPAN CLASS="arabic">6</SPAN>.<SPAN CLASS="arabic">7</SPAN></SUP></A></DT>
+<DD>This won't work in combination
+with <I CLASS="sans">write_whole_pdb</I><A NAME="29868"></A> = <TT>False</TT> for structures
+that were added to the alignment with <B><A HREF="node303.html#CMD:Alignment.appendmodel">Alignment.append_model()</A></B><A NAME="29872"></A>, since
+such inputs may not have an atom file to extract the directory from. In this
+case the outputs will end up in the current directory.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot29781">...
+out</A><A
+ HREF="node317.html#tex2html191"><SUP><SPAN CLASS="arabic">6</SPAN>.<SPAN CLASS="arabic">8</SPAN></SUP></A></DT>
+<DD>Any structures that were added with <B><A HREF="node303.html#CMD:Alignment.appendmodel">Alignment.append_model()</A></B><A NAME="29881"></A>
+will need to have their corresponding atom files available, so that the
+originals can be reread at this point.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot30203">... files</A><A
+ HREF="node318.html#tex2html200"><SUP><SPAN CLASS="arabic">6</SPAN>.<SPAN CLASS="arabic">9</SPAN></SUP></A></DT>
+<DD>This won't work in combination
+with <I CLASS="sans">write_whole_pdb</I><A NAME="30752"></A> = <TT>False</TT> for structures
+that were added to the alignment with <B><A HREF="node303.html#CMD:Alignment.appendmodel">Alignment.append_model()</A></B><A NAME="30756"></A>, since
+such inputs may not have an atom file to extract the directory from. In this
+case the outputs will end up in the current directory.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot30206">...
+out</A><A
+ HREF="node318.html#tex2html201"><SUP><SPAN CLASS="arabic">6</SPAN>.<SPAN CLASS="arabic">10</SPAN></SUP></A></DT>
+<DD>Any structures that were added with <B><A HREF="node303.html#CMD:Alignment.appendmodel">Alignment.append_model()</A></B><A NAME="30765"></A>
+will need to have their corresponding atom files available, so that the
+originals can be reread at this point.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot33813">... model</A><A
+ HREF="node331.html#tex2html206"><SUP><SPAN CLASS="arabic">6</SPAN>.<SPAN CLASS="arabic">11</SPAN></SUP></A></DT>
+<DD>residue numbers in mmCIF refer to
+author-provided values, if available (e.g. <TT>atom_site.auth_seq_id</TT>),
+otherwise to <TT>label_seq_id</TT>.
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot34526">...<TT>'m'</TT></A><A
+ HREF="node342.html#tex2html212"><SUP><SPAN CLASS="arabic">6</SPAN>.<SPAN CLASS="arabic">12</SPAN></SUP></A></DT>
+<DD>Note that <TT>'m.chains['A'].residues['10']'</TT> in most cases is
+the same as <TT>'m.residues['10:A']'</TT>. However, if there are multiple chains in
+the model called 'A' the first syntax will return residue 10 in the first chain
+called A (and so will fail if that chain does not contain this residue) whereas
+the second will look for the first residue numbered 10 in any of the A chains.
+(Generally speaking, you should avoid having duplicate chain IDs or residue
+numbers!)
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+<DT><A NAME="foot46249">... code</A><A
+ HREF="node501.html#tex2html267"><SUP>B.<SPAN CLASS="arabic">1</SPAN></SUP></A></DT>
+<DD>
+for PDB format, this is a 1-letter chain ID; for mmCIF format, this is the
+author-provided chain/asym ID (<TT>_atom_site.auth_asym_id</TT>) if available,
+otherwise the canonical asym ID (<TT>_atom_site.label_asym_id</TT>), both of
+which can be multiple characters in length
+
+<PRE>.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+</PRE>
+</DD>
+</DL>
+</BODY>
+</HTML>

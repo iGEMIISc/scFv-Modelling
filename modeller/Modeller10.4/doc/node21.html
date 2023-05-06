@@ -1,0 +1,136 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<!--Converted with LaTeX2HTML 2008 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Building a model from multiple templates</TITLE>
+<META NAME="description" CONTENT="Building a model from multiple templates">
+<META NAME="keywords" CONTENT="manual">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="manual.css">
+<LINK REL="STYLESHEET" HREF="pygments.css">
+
+<LINK REL="next" HREF="node22.html">
+<LINK REL="previous" HREF="node20.html">
+<LINK REL="up" HREF="node17.html">
+<LINK REL="next" HREF="node22.html">
+</HEAD>
+
+<BODY >
+
+<DIV CLASS="navigation"><!--Navigation Panel-->
+<A NAME="tex2html1727"
+  HREF="node22.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next" SRC="next.png"></A> 
+<A NAME="tex2html1721"
+  HREF="node17.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up" SRC="up.png"></A> 
+<A NAME="tex2html1715"
+  HREF="node20.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous" SRC="prev.png"></A> 
+<A NAME="tex2html1723"
+  HREF="node1.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents" SRC="contents.png"></A> 
+<A NAME="tex2html1725"
+  HREF="node517.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index" SRC="index.png"></A> 
+<BR>
+<B> Next:</B> <A NAME="tex2html1728"
+  HREF="node22.html">Building an all hydrogen</A>
+<B> Up:</B> <A NAME="tex2html1722"
+  HREF="node17.html">More advanced usage</A>
+<B> Previous:</B> <A NAME="tex2html1716"
+  HREF="node20.html">Getting a very fast</A>
+ &nbsp; <B>  <A NAME="tex2html1724"
+  HREF="node1.html">Contents</A></B> 
+ &nbsp; <B>  <A NAME="tex2html1726"
+  HREF="node517.html">Index</A></B> 
+<BR>
+<BR></DIV>
+<!--End of Navigation Panel-->
+
+<H2><A NAME="SECTION00724000000000000000"></A>
+<A NAME="SECTION:model-multiple"></A>
+<BR>
+Building a model from multiple templates
+</H2>
+
+<P>
+It is straightforward a to build a model using information from multiple
+templates &mdash; simply provide an alignment between all of the templates and
+your target sequence, and list all of the templates in the <I CLASS="sans">knowns</I><A NAME="3480"></A>
+argument, as demonstrated below. M<SMALL>ODELLER</SMALL> will automatically combine the
+templates; there is no need to superpose the structures (although you can
+request that this is done by setting <I CLASS="sans"><A HREF="node53.html#MEMB:AutoModel.initialmalign3d">AutoModel.initial_malign3d</A></I><A NAME="3485"></A>).
+
+<P>
+
+  <DL>
+<DT><STRONG>Example: <A NAME="tex2html38"
+  HREF="../examples/automodel/model-multiple.py">examples/automodel/model-multiple.py</A></STRONG></DT>
+<DD> <BR>  <div class="pygments"><pre><span class="c"># Comparative modeling with multiple templates</span>
+<span class="kn">from</span> <span class="nn">modeller</span> <span class="kn">import</span> <span class="o">*</span>              <span class="c"># Load standard Modeller classes</span>
+<span class="kn">from</span> <span class="nn">modeller.automodel</span> <span class="kn">import</span> <span class="o">*</span>    <span class="c"># Load the AutoModel class</span>
+
+<span class="n">log</span><span class="o">.</span><span class="n">verbose</span><span class="p">()</span>    <span class="c"># request verbose output</span>
+<span class="n">env</span> <span class="o">=</span> <span class="n">Environ</span><span class="p">()</span>  <span class="c"># create a new MODELLER environment to build this model in</span>
+
+<span class="c"># directories for input atom files</span>
+<span class="n">env</span><span class="o">.</span><span class="n">io</span><span class="o">.</span><span class="n">atom_files_directory</span> <span class="o">=</span> <span class="p">[</span><span class="s">&#39;.&#39;</span><span class="p">,</span> <span class="s">&#39;../atom_files&#39;</span><span class="p">]</span>
+
+<span class="n">a</span> <span class="o">=</span> <span class="n">AutoModel</span><span class="p">(</span><span class="n">env</span><span class="p">,</span>
+              <span class="n">alnfile</span>  <span class="o">=</span> <span class="s">&#39;align-multiple.ali&#39;</span><span class="p">,</span> <span class="c"># alignment filename</span>
+              <span class="n">knowns</span>   <span class="o">=</span> <span class="p">(</span><span class="s">&#39;5fd1&#39;</span><span class="p">,</span> <span class="s">&#39;1bqx&#39;</span><span class="p">),</span>     <span class="c"># codes of the templates</span>
+              <span class="n">sequence</span> <span class="o">=</span> <span class="s">&#39;1fdx&#39;</span><span class="p">)</span>               <span class="c"># code of the target</span>
+<span class="n">a</span><span class="o">.</span><span class="n">starting_model</span><span class="o">=</span> <span class="mi">1</span>                 <span class="c"># index of the first model</span>
+<span class="n">a</span><span class="o">.</span><span class="n">ending_model</span>  <span class="o">=</span> <span class="mi">1</span>                 <span class="c"># index of the last model</span>
+                                    <span class="c"># (determines how many models to calculate)</span>
+<span class="n">a</span><span class="o">.</span><span class="n">make</span><span class="p">()</span>                            <span class="c"># do the actual comparative modeling</span>
+</pre></div>
+  
+</DD>
+</DL>  <BR>
+<P>
+
+<DL>
+<DT><STRONG>Example: <A NAME="tex2html39"
+  HREF="../examples/automodel/align-multiple.ali">examples/automodel/align-multiple.ali</A></STRONG></DT>
+<DD> <BR>
+<BR>
+<PRE  CLASS="verbatim">C; A multiple alignment in the PIR format; used in tutorial
+
+&gt;P1;5fd1
+structureX:5fd1:1    :A:106  :A:ferredoxin:Azotobacter vinelandii: 1.90: 0.19
+AFVVTDNCIKCKYTDCVEVCPVDCFYEGPNFLVIHPDECIDCALCEPECPAQAIFSEDEVPEDMQEFIQLNAELA
+EVWPNITEKKDPLPDAEDWDGVKGKLQHLER*
+
+&gt;P1;1bqx
+structureN:1bqx:   1 :A: 77  :A:ferredoxin:Bacillus schlegelii:-1.00:-1.00
+AYVITEPCIGTKCASCVEVCPVDCIHEGEDQYYIDPDVCIDCGACEAVCPVSAIYHEDFVPEEWKSYIQKNRDFF
+KK-----------------------------*
+
+&gt;P1;1fdx
+sequence:1fdx:1    : :54   : :ferredoxin:Peptococcus aerogenes: 2.00:-1.00
+AYVINDSC--IACGACKPECPVNIIQGS--IYAIDADSCIDCGSCASVCPVGAPNPED-----------------
+-------------------------------*
+</PRE>
+</DD>
+</DL>  <BR>
+<P>
+<BR><HR>
+<ADDRESS>
+root
+2022-10-28
+</ADDRESS>
+</BODY>
+</HTML>

@@ -1,0 +1,3801 @@
+
+>P1;TvLDH
+sequence:TvLDH:    0: :    0: :::-1.00:-1.00
+MPLLLLLPLLWAGALAEVQLLESGGGLVQPGGSLRLSCAASGFTFSYYGMGWVRQAPGKGLEWVSGISYSGSGTY
+YADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDYVGNLDYWGQGTLVTVSSGGGGSGGGGSGGGGSDI
+QMTQSPSSLSASVGDRVTITCRASQSISSYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISS
+LQPEDFATYYCQQSDTPSTFGQGTKLEIKRTDYKDHDGDYK*
+
+>P1;32c2A
+structure:32c2A:    1: :  113: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPASLAVSLGQRATISCRASKSVSTYMHWNQQKPGQPPRLLIYLVSNLESGVPARFSGSGSGTDFTLNIHP
+VEEEDAATYYCQHIREPLTFGGGTKLEIKRAD---------*
+
+>P1;32c2B
+structure:32c2B:    1: :  119: :::-1.00:-1.00
+----------------DVQLQESGPGLVKPSQSLSLTCTVTGYSISSYAWNWIRQFPGNKLEWMGYISYSGS-TS
+YNPSLKSRISITRDTSKNQFFLQLSSVTTEDTATYYCARGYYGHSPVWGAGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;12e8L
+structure:12e8L:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSQKFMSTSVGDRVSITCKASQNVGTAVAWYQQKPGQSPKLMIYSASNRYTGVPDRFTGSGSGTDFTLTISN
+MQSEDLADYFCQQSSYPLTFGAGTKLELKRAD---------*
+
+>P1;12e8H
+structure:12e8H:    1: :  120: :::-1.00:-1.00
+----------------EVQLQQSGAEVVRSGASVKLSCTASGFNIKDYYIHWVKQRPEKGLEWIGWIDPEIGDTE
+YVPKFQGKATMTADTSSNTAYLQLSSLTSEDTAVYYCGHDYRGRFPYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;43c9A
+structure:43c9A:    1: :  113: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+VMTQTPSSLAMSVGQKVTMSCKSSQSLKNYLAWYQQKPGQSPKLLVYFASTRESGVPDRFIGSGSGTDFTLTISS
+VQAEDQADYFCQQHRAPRTFGGGTKLEIK------------*
+
+>P1;43c9B
+structure:43c9B:    2: :  118: :::-1.00:-1.00
+----------------QVQLVESGPGLVAPSQSLSITCTVSGISLSRYNVHWVRQSPGKGLEWL-GMIWGGGSIE
+YNPALKSRLSISKDNSKSQIFLKMNSLQTDDSAMYYCSYGYGGDFSYWGQGTLVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1orsA
+structure:1orsA:    2: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+VLTQSPAIMSASLGDRVTMTCTASSSVSSYLHWYQQKPGSSPKLWIYSTSNLASGVPARFSGSGSGTSYSLTISS
+MEAEDAATYYCHQFHRSLTFGSGTKLEIKRAD---------*
+
+>P1;25c8H
+structure:25c8H:    1: :  119: :::-1.00:-1.00
+----------------EVQLQQSGAELVKPGASVKLSCTASGFNIKDTYMHWVKQKPEQGLEWIAQIDPANGNTK
+YDPKFQGKATITADTSSNTAYLHLSSLTSEDSAVYYCAADYYGHGDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1a0qL
+structure:1a0qL:    1: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+ELTQSPSSLSASLGGKVTITCKASQDIKKYIGWYQHKPGKQPRLLIHYTSTLLPGIPSRFRGSGSGRDYSFSISN
+LEPEDIATYYCLQYYNLRTFGGGTKLEIKRAD---------*
+
+>P1;1a0qH
+structure:1a0qH:    1: :  114: :::-1.00:-1.00
+-----------------VQLQESDAELVKPGASVKISCKASGYTFTDHVIHWVKQKPEQGLEWIGYISPGNGDIK
+YNEKFKGKATLTADKSSSTAYMQLNSLTSEDSAVYLCKRGYY--VDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1a14H
+structure:1a14H:    1: :  120: :::-1.00:-1.00
+----------------QVQLQQSGAELVKPGASVRMSCKASGYTFTNYNMYWVKQSPGQGLEWI-GIFYPGNGTS
+YNQKFKDKATLTADKSSNTAYMQLSSLTSEDSAVYYCARSYDGGFDYWGQGTTVTV-------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1a14L
+structure:1a14L:    1: :  102: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+ELTQTTSSLSASLGDRVTISCRASQDISNYLNWYQQNPDGTVKLLIYYTSNLHSEVPSRFSGSGSGTDYSLTISN
+LEQEDIATYFCQQDFTPFTFGGGT-----------------*
+
+>P1;1a2yA
+structure:1a2yA:    1: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPASLSASVGETVTITCRASGNIHNYLAWYQQKQGKSPQLLVYYTTTLADGVPSRFSGSGSGTQYSLKINS
+LQPEDFGSYYCQHFSTPRTFGGGTKLEIK------------*
+
+>P1;1a2yB
+structure:1a2yB:    1: :  116: :::-1.00:-1.00
+----------------QVQLQESGPGLVAPSQSLSITCTVSGFSLTGYGVNWVRQPPGKGLEWL-GMIWGDGNTD
+YNSALKSRLSISKDNSKSQVFLKMNSLHTDDTARYYCARERDYRLDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1rurL
+structure:1rurL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQAAFSNPVTLGASASISCRSSKSLLNHMYWYLQKPGQSPQLLIYQMSKLASGAPDRFSGSGSGTDFTLRISR
+VEAEDVGVYYCAQNELPYTFGGGTKLEIKRAD---------*
+
+>P1;1rurH
+structure:1rurH:    1: :  119: :::-1.00:-1.00
+----------------EVQLEESGPELVRPGTSVKISCKASGYTFTNYWLGWVKQRPGHGFEWIGDIYPGGVYTT
+NNEKFRGKAILTADTSSSTAYMQLSSLTSEDSAVYFCARGYYTGGDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1a3rL
+structure:1a3rL:    1: :  116: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSPSSLTVTTGEKVTMTCKSSQSLKNYLTWYQQKPGQSPKLLIYWASTRESGVPDRFTGSGSGTDFTLSISG
+VQAEDLAVYYCQNNNYPLTFGAGTKLELKRAD---------*
+
+>P1;1a3rH
+structure:1a3rH:    1: :  117: :::-1.00:-1.00
+-----------------VQLQQSGAELVRPGASVKLSCTTSGFNIKDIYIHWVKQRPEQGLEWIGRLDPANGYTK
+YDPKFQGKATITVDTSSNTAYLHLSSLTSEDTAVYYCDGYYYYDMDYWGPGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1a4jL
+structure:1a4jL:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EL
+VMTQTPLSLPVSLGDQASISCRSSQSLNTYLHWYLQKPGQSPKLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYFCSQSHVPPTFGGGTKLEIKRT----------*
+
+>P1;1a4jH
+structure:1a4jH:    1: :  216: :::-1.00:-1.00
+----------------QVQLLESGPELKKPGETVKISCKASGYTFTNYGMNWVKQAPGKGLKWMGWITYTGEPT-
+YADDFKGRFAFSLETSASTAYLQINNLKNEDTATYFCAERLRRTFDYWGAGTTVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPS----NTKVDKK------------*
+
+>P1;1a5fH
+structure:1a5fH:    1: :  208: :::-1.00:-1.00
+----------------EVALQQSGAELVKPGASVKLSCAASGFTIKDAYMHWVKQKPEQGLEWIGRIDSGSSNTN
+YDPTFKGKATITADDSSNTAYLQMSSLTSEDTAVYYCARVYA--MDYWGQGTSVTVSSA----------------
+-KTTPPSGSAAQTNSMVTLGC----LVKGYF--------PEPVTVTWNSGSLSSGVHT-FPAVLQSDLYTLSSSV
+SVPTSTETVTCNVAHAPSS----TKVDKK------------*
+
+>P1;1a6tA
+structure:1a6tA:    4: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LSQSPAILSASPGEKVIMTCSPSSSV-SYMQWYQQKPGSSPKPWIYSTSNLASGVPGRFSGGGSGTSFSLTISG
+VEAEDAATYYCQQSSHPLTFGGGTKLELKRAD---------*
+
+>P1;1a6tB
+structure:1a6tB:    1: :  117: :::-1.00:-1.00
+----------------EVQLQQSGPDLVKPGASVKISCKASGYSFSTYYMHWVKQSHGKSLEWIGRVDPDNGGTS
+FNQKFKGKAILTVDKSSSTAYMELGSLTSEDSAVYYCARDYY--FDFWGQGTSLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1oaqL
+structure:1oaqL:    8: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+------SALTTSPGETVTLTCRSSTTTSNYANWVQEKPDHLFTGLIGGTNNRAPGVPARFSGSLIGNKAALTITG
+AQTEDEAIYFCAWYSNHLVFGGGTKLTV-------------*
+
+>P1;1a6vH
+structure:1a6vH:    1: :  118: :::-1.00:-1.00
+----------------QVQLQQPGAELVKPGASVKLSCKASGYTFTSYWMHWVKQRPGRGLEWIGRIDPNSGGTK
+YNEKFKSKATLTVDKPSSTAYMQLSSLTSEDSAVYYCARDYYGSFDYWGQGTTVTV-------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;2mcg1
+structure:2mcg1:    3: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQPPSA-SGSLGQSVTISCTGTSSDYNYVSWYQQHAGKAPKVIIYEVNKRPSGVPDRFSGSKSGNTASLTVSG
+LQAEDEADYYCSEGSDNFVFGTGTKVTV-------------*
+
+>P1;1ac6A
+structure:1ac6A:    3: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VTQTEGQVALSEEDFLTIHCNYSASGYPALFWYVQYPGEGPQFLFRASRDKEKGSSRGFEANKEATSFHLQKAS
+VQESDSAVYYCALSNNKLTFGAGTKLTIK------------*
+
+>P1;1ai1L
+structure:1ai1L:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSPASLVVSLGQRATISCRASESVDSYMHWYQQKPGQPPKVLIYIASNLESGVPARFSGSGSRTDFTLTIDP
+VEADDAATYYCQQNEDPPTFGAGTKLEMRRAD---------*
+
+>P1;1ai1H
+structure:1ai1H:    1: :  121: :::-1.00:-1.00
+----------------QVKLQESGPAVIKPSQSLSLTCIVSGFTRTNYCWHWIRQAPGKGLEWMGRICYEGS-IY
+YSPSIKSRSTISRDTSLNKFFIQLISVTNEDTAMYYCSREYETYFDVWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ad0A
+structure:1ad0A:    4: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQSPSSLSVSVGDRVTITCRASSSV-TYIHWYQQKPGLAPKSLIYATSNLASGVPSRFSGSGSGTDYTFTISS
+LQPEDIATYYCQHSSKPPTFGQGTKVEVKRT----------*
+
+>P1;1ad0B
+structure:1ad0B:    1: :  121: :::-1.00:-1.00
+----------------EVQLLESGGGLVQPGGSLRLSCATSGFTFTDYYMNWVRQAPGKGLEWLGFIGNKANGTE
+YSASVKGRFTISRDKSKSTLYLQMNTLQAEDSAIYYCTRDLRFYFDYWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ad9L
+structure:1ad9L:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSTLSASVGDRVTITCRSSKSLDTFLYWFQQKPGKAPKLLMYRMSNLASGVPSRFSGSGSGTEFTLTISS
+LQPDDFATYYCMQHEYPFTFGQGTKVEVKRT----------*
+
+>P1;1ad9H
+structure:1ad9H:    1: :  120: :::-1.00:-1.00
+----------------EIQLVQSGAEVKKPGSSVKVSCKASGYTFTDYYINWMRQAPGQGLEWIGWIDPGSGNTK
+YNEKFKGRATLTVDTSTNTAYMELSSLRSEDTAFYFCAREYYYAMDYWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1w72L
+structure:1w72L:    4: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQ-PPSVSVAPGQTARITCGGNNIGSRSVHWYQQKPGQAPVLVVYDDSDRPSGIPERFSGSNSGNMATLTISR
+VEAGDEADYYCQVWDSRTVFGGGTDLTV-------------*
+
+>P1;1adqH
+structure:1adqH:    1: :  128: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGRSLRLSCVTSGFTFDDYAMHWVRQSPGKGLEWVSGISWNTGTII
+YADSVKGRFIISRDNAKNSLYLQMNSLRVEDTALYYCARSYVVAAEYWGQGILVTVSSGSASA------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mjuL
+structure:1mjuL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQAAPSVPVTPGESVSISCRSSKSLNTYLYWFLQRPGQSPQLLIYRMSNLASGVPDRFSGSGSGTAFTLRISR
+VEAEDVGVYYCQHLEYPFTFGAGTKLELKRAD---------*
+
+>P1;1ae6H
+structure:1ae6H:    1: :  120: :::-1.00:-1.00
+----------------QIQLQQSGPELVKPGASVKISCKASGYTFTDYYINWMKQKPGQGLEWIGWIDPGSGNTK
+YNEKFKGKATLTVDTSSSTAYMQLSSLTSEDTAVYFCAREYYYAMDYWGQGTSVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1h0dA
+structure:1h0dA:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPASLAVSLGQRATISCRASESVDNYMSWFQQKPGQPPKLLIYAASNQGSGVPARFSGSGSGTDFSLNIHP
+MEEDDTAMYFCQQSEVPLTFGAGTKLELKRAD---------*
+
+>P1;1afvH
+structure:1afvH:    1: :  120: :::-1.00:-1.00
+----------------QVQLQQPGSVLVRPGASVKLSCKASGYTFTSSWIHWAKQRPGQGLEWIGEIHPNSGNTN
+YNEKFKGKATLTVDTSSSTAYVDLSSLTSEDSAVYYCARWRYGSFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1k6qL
+structure:1k6qL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+KMTQSPSSMSASLGESVTITCKASRDIKSYLSWYQQKPWKSPKTLIYYATSLADGVPSRFSGSGSGQDYSLTISS
+LESDDTATYYCQHGESPFTFGSGTKLELKRAD---------*
+
+>P1;1k6qH
+structure:1k6qH:    1: :  117: :::-1.00:-1.00
+----------------EVQLQQSGAELVRPGALVKLSCKASGFNIKDYYMHWVKQRPEQGLELIGWIDPENGNTI
+YDPKFQDKASITADTSSNTAYLQLSSLTSEDTAVYYCARDTAAYFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1aifL
+structure:1aifL:    1: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QLTQSPAFMAASPGEKVTITCSVSSSISSNLHWYQQKSETSPKPWIYGTSNLASGVPVRFSGSGSGTSYSLTISS
+MEAEDAATYYCQQNSYPYTFGGGTKLEIKRAD---------*
+
+>P1;1aifH
+structure:1aifH:    1: :  121: :::-1.00:-1.00
+----------------EVKLQESGGGLVQPGGSMKLSCVASGFTFNNYWMSWVRQSPEKGLEWVAEIRLNSDATH
+YAESVKGKFIISRDDSKSRLYLQMNSLRAEDTGIYYCVLRFYYAVDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1um5L
+structure:1um5L:    2: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASLGERVSLTCRASQEISGYLYWLQQKPDGTIKRLIYAGSTLDSGVPKRFSGSRSGSDYSLTISS
+LESEDFADYYCQYASYPRTFGGGTKVEIKRT----------*
+
+>P1;1gafH
+structure:1gafH:    1: :  215: :::-1.00:-1.00
+----------------QVQLQQSGAELVKPGASVKLSCTASGFNIKDTYMHWVKQRPKQGLEWIGRIDPANVDTK
+YDPKFQDKATITADTSSKTTYLQLSSLTSEDTAVYYCA-SYYG--IYWGQGTTLTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1cd8
+structure:1cd8:    2: :   94: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+QFRVSPLDRTWNLGETVELKCQVLLSPTSGCSWLFQPRGAAPTFLLYLSQNKPKAATQRFSGKRLGDTFVLTLSD
+FRRENEGYYFC------------------------------*
+
+>P1;1ao7D
+structure:1ao7D:    2: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+EVEQNSGPLSVPEGAIASLNCTYSDRGSQSFFWYRQYSGKSPELIIYSNGDKEDG---RFTANKASQYVSLLIRD
+SQPSDSATYLCTDSWGKLQFGAGTQVVV-------------*
+
+>P1;1bd2E
+structure:1bd2E:    2: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VTQTPKFQVLKTGQSMTLQC-AQDMNHEYMSWYRQDPGMGLRLIHYAGITDQGEVPNGYNVSRSTTDFPLRLLS
+AAPSQTSVYFCASSYPEQYFGPGTRLTV-------------*
+
+>P1;1mvuA
+structure:1mvuA:    1: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSPSSLTVTAGEKVTMSCKSSQSLKNYLTWYQQKPGQPPKLLIYWASTRESGVPDRFTGSGSGTDFTLTISS
+VQAEDLAVYYCQNDSYPLTFGAGTKLE--------------*
+
+>P1;1mvuB
+structure:1mvuB:    1: :  121: :::-1.00:-1.00
+----------------EVQLQQSGAELVRPGASVKLSCTASGFNIKDDFMHWVKQRPEQGLEWIGRIDPANDNTK
+YAPKFQDKATIIADTSSNTAYLQLSSLTSEDTAVYYCARSYYSPLDVWGAGTTVTVPS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1aqkL
+structure:1aqkL:    3: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQ-PPSVSGAPGQRVTISCTGSNSAGFTVHWYQHLPGTAPKLLIFANTNRPSGVPDRFSGSKSGTSASLAITG
+LQAEDEADYYCQSYDSSARFGGGTRLTV-------------*
+
+>P1;1aqkH
+structure:1aqkH:    1: :  223: :::-1.00:-1.00
+-----------------VQLVESGGGVVQPGRSLRLSCAASGFTFNNYAIHWVRQAPGKGLEWVAFISYDGSKNY
+YADSVKGRFTISRDNSKNTLFLQMNSLRPEDTAIYYCARVLFQQLDIWGQGTMVTVSS--------ASTKGPSVF
+PL--APSSKSTS-GGTAALGCLVK-------DYFPQ-----PVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1mqkH
+structure:1mqkH:    1: :  118: :::-1.00:-1.00
+----------------EVKLQESGGDLVQPGGSLKLSCAASGFTFSSYTMSWVRQTPEKRLEWVASINNGGGRTY
+YPDTVKGRFTISRDNAKNTLYLQMSSLKSEDTAMYYCVREYYYAMDYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mqkL
+structure:1mqkL:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+ELTQTPVSLSASVGETVTITCRASENIYSYLAWYQQKQGKSPQFLVYNAKTLGEGVPSRFSGSGSGTQFSLKINS
+LLPEDFGSYYCQHGTPPLTFGGGTKLEIKR-----------*
+
+>P1;1bwwA
+structure:1bwwA:    3: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCQASQDIIKYLNWYQQKPGKAPKLLIYEASNLQAGVPSRFSGSGSGTDYTFTISS
+LQPEDIATYYCQQQSLPYTFGQGTKLQI-------------*
+
+>P1;1d5iL
+structure:1d5iL:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+KMTQSPSSMYASLGERVTITCKASQDINSYLSWFQQKPGKSPKTLIYRANRLVDGVPSRFSGSGSGQDYSLTISS
+LEYEDMGIYYCLQYDEPYTFGSGTKLEIKRT----------*
+
+>P1;1d5iH
+structure:1d5iH:    1: :  221: :::-1.00:-1.00
+----------------QVQLQQSGAELMKPGASVKISCKATGYTFSSYWIEWVKQRPGHGLEWIGEILPGSGSTN
+YNEKFKGKATFTADTSSNTAYMQLSSLTSEDSAVYYCARGYFYDGDYWGQGTSVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1jguL
+structure:1jguL:    1: :  116: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EV
+VMTQSPLSLPVSLGDQASISCRSSQSLNTYLHWYLQKPGQSPKLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYFCSQSTPPLTFGAGTKLELKRAD---------*
+
+>P1;1axtH
+structure:1axtH:    1: :  118: :::-1.00:-1.00
+----------------EVKLEESGGGLVQPGGSMKLSCVVSGLTFSRFWMSWVRQSPEKGLEWVAEIRLKSDATH
+YAESVKGKFTISRDDSKSRLYLQMNSLRTEDTGIYYC-KIYFYSFSYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ay1L
+structure:1ay1L:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPAIMSASPGEKVTMTCSASSSV-SYMYWYQQKPGSSPRLLIYDSTNLASGVPVRFSGSGSGTSYSLTISR
+MEAEDAATYYCQQWSTPLTFGAGTKLELKRAD---------*
+
+>P1;1ay1H
+structure:1ay1H:    1: :  119: :::-1.00:-1.00
+----------------EVQLQESGPGLVKPYQSLSLSCTVTGYSISDYAWNWIRQFPGNKLEWMGYITYSGT-TD
+YNPSLKSRISITRDTSKNQFFLQLNSVTTEDTATYYCARYYYGYFDVWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1b0wA
+structure:1b0wA:    1: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCQASQDISDYLIWYQQKLGKAPNLLIYDASTLETGVPSRFSGSGSGTEYTFTISS
+LQPEDIATYYCQQDDLPYTFGQGTKVEIKR-----------*
+
+>P1;1t3fA
+structure:1t3fA:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSTLSASVGDRVTITCKASENVDTYVSWYQQKPGKAPKLLIYGASNRYTGVPSRFSGSGSGTDFTLTISS
+LQPDDFATYYCGQSNYPFTFGQGTKVEVKRT----------*
+
+>P1;1b2wH
+structure:1b2wH:    1: :  217: :::-1.00:-1.00
+-----------------VQLVQSGGGVVQPGRSLKLSCLASGYIFTSSWINWVKQRPGRGLEWIGRIDPSDGEVH
+YNQDFKDRFTISRDKSKNTLYLQMNSLRPEDTAVYYCARGFLPWFADWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1b4jL
+structure:1b4jL:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------NI
+VMTQSPKSMYVSIGERVTLSCKASENVDTYVSWYQQKPEQSPKLLIYGASNRYTGVPDRFTGSGSATDFTLTISS
+VQAEDLADYHCGQSNYPFTFGSGTKLEIKRT----------*
+
+>P1;1b4jH
+structure:1b4jH:    1: :  217: :::-1.00:-1.00
+-----------------VQLQQPGADLVMPGAPVKLSCLASGYIFTSSWINWVKQRPGRGLEWIGRIDPSDGEVH
+YNQDFKDKATLTVDKSSSTAYIQLNSLTSEDSAVYYCARGFLPWFADWGQGTLVTVSA--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1b6dA
+structure:1b6dA:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCQASQDISSYLNWYQQKPGKAPKLLIHAASSLETGVPSRFSGSGSGTDFSFTISS
+LQPEDLATYYCQQYDSPLTFGGGTKVEIKRT----------*
+
+>P1;1b88A
+structure:1b88A:    3: :  102: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+QVRQSPQSLTVWEGETAILNCSYENSAFDYFPWYQQFPGEGPALLISILSVSNKKEDGRFTFNKREKKLSLHIAD
+SQPGDSATYFCAAS---ASFGDNSKL---------------*
+
+>P1;1bafH
+structure:1bafH:    1: :  114: :::-1.00:-1.00
+----------------DVQLQESGPGLVKPSQSQSLTCTVTGYSISDYAWNWIRQFPGNKLEWMGYMSYSGS-TR
+YNPSLRSRISITRDTSKNQFFLQLKSVTTEDTATYFCARGW--PLAYWGQGTQVSVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1bbjL
+structure:1bbjL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPASLSVSVGETVTITCRASENIYSNLAWYQQKQGKSPQLLVYAATNLADGVPSRFSGSGSGTQYSLKINS
+LQSEDFGSYYCQHFGTPYTFGGGTRLEIKRAD---------*
+
+>P1;1bbjH
+structure:1bbjH:    1: :  113: :::-1.00:-1.00
+-----------------VQLQQSDAELVKPGASVKISCKASGYTFTDHAIHWAKQKPEQGLEWIGYISPGNDDIK
+YNEKFKGKATLTADKSSSTAYMQLNSLTSEDSAVYFCKRSYYG---HWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1bd2D
+structure:1bd2D:    2: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+QVKQNSPSLSVQEGRISILNCDYTNSMFDYFLWYKKYPAEGPTFLISISSIKDKNADGRFTVNKSAKHLSLHIVP
+SQPGDSAVYFCMEGAQKLVFGQGTRLTI-------------*
+
+>P1;1bec
+structure:1bec:    2: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VTQSPRNKVAVTGGKVTLSCQQTNNHNN-MYWYRQDTGHGLRLIHYAGSTEKGDIPDGYKASPSQEQFSLILEL
+ATPSQTSVYFCRGSYAEQFFGPGTRLTV-------------*
+
+>P1;1ce1L
+structure:1ce1L:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCKASQNIDKYLNWYQQKPGKAPKLLIYNTNNLQTGVPSRFSGSGSGTDFTFTISS
+LQPEDIATYYCQHISRPRTFGQGTKVEIKRT----------*
+
+>P1;1ce1H
+structure:1ce1H:    1: :  220: :::-1.00:-1.00
+----------------QVQLQESGPGLVRPSQTLSLTCTVSGFTFTDFYMNWVRQPPGRGLEWIGFIRDKAKGTE
+YNPSVKGRVTMLVDTSKNQFSLRLSSVTAADTAVYYCARETAAPFDYWGQGSLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVE--------------*
+
+>P1;1bfoA
+structure:1bfoA:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+KMTQSPSFLSASVGDRVTLNCKASQNIDKYLNWYQQKLGESPKLLIYNTNNLQTGIPSRFSGSGSGTDFTLTISS
+LQPEDVATYFCQHISRPRTFGTGTKLELKRAN---------*
+
+>P1;1bfoB
+structure:1bfoB:    1: :  121: :::-1.00:-1.00
+----------------EVKLLESGGGLVQPGGSMRLSCAGSGFTFTDFYMNWIRQPAGKAPEWLGFIRDKAKGTE
+YNPSVKGRFTISRDNTQNMLYLQMNTLRAEDTATYYCARETAAPFDYWGQGVMVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1bfvL
+structure:1bfvL:    1: :  113: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+ELTQSPPSLPVSLGDQVSISCRSSQSLVSYLHWYLQKPGQSPKLVIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VAAEDLGLYFCSQSSVPLTFGSGTKLEIKR-----------*
+
+>P1;1bfvH
+structure:1bfvH:    1: :  119: :::-1.00:-1.00
+----------------QVQLQESGGGLVNLGGSMTLSCVASGFTFNTYYMSWVRQTPEKTLELVAAINSDGEPIY
+YPDTLKGRVTISRDNAKKTLYLQMSSLNFEDTALYYCARNYVYGMDYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1bj1L
+structure:1bj1L:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCSASQDISNYLNWYQQKPGKAPKVLIYFTSSLHSGVPSRFSGSGSGTDFTLTISS
+LQPEDFATYYCQQSTVPWTFGQGTKVEIKRT----------*
+
+>P1;1bj1H
+structure:1bj1H:    1: :  218: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGGSLRLSCAASGYTFTNYGMNWVRQAPGKGLEWVGWITYTGEPTY
+AAD-FKRRFTFSLDTSKSTAYLQMNSLRAEDTAVYYCAKHYYGSFDVWGQGTLVTVSSAS---------------
+--TKGPSVFPLAPSGTAALGC----LVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1bjmA
+structure:1bjmA:    3: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQPPSA-SGTPGQRVTISCSGSSSNENSVTWYQHLSGTAPKLLIYEDNSRASGVSDRFSASKSGTSASLAISG
+LQPEDETDYYCAAWDDSAVFGTGTKVTV-------------*
+
+>P1;1kelL
+structure:1kelL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+LMTQTPLSLPVSLGDQASISCRFSQSINTYLEWYLQKSGQSPKLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYYCQGSHVPRTFGGGTKLEIKRAD---------*
+
+>P1;1blnB
+structure:1blnB:    1: :  119: :::-1.00:-1.00
+----------------EVILVESGGGLVKPGGSLKLSCAASGFTFSSYTMSWVRQTPEKRLEWVATISSGGGNTY
+YPDSVKGRFTISRDNAKNNLYLQMSSLRSEDTALYYCARYYRYEAWFWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1dqqA
+structure:1dqqA:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPATLSVTPGDSVSLSCRASQSISNNLHWYQQKSHESPRLLIKYASQSISGIPSRFSGSGSGTDFTLSINS
+VETEDFGMYFCQQSNSPYTFGGGTKLEIKRAD---------*
+
+>P1;1bm3H
+structure:1bm3H:    1: :  114: :::-1.00:-1.00
+----------------EVQLVQSGGGLVNPGRSLKLSCAASGFTFSSYGMSWVRQTPEKRLEWVAAISGGGTYIH
+YPDSVKGRFTISRDNAKNNLYLQMSSLRSEDTALYYCTRH---AMDHWGQGTSVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1hi6A
+structure:1hi6A:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+KMTQSPSSMYTSLGERVTITCKASQDINSFLTWFLQKPGKSPKTLIYRANRLMIGVPSRFSGSGSGQTYSLTISS
+LEYEDMGIYYCQYDDFPLTFGAGTKLDLKRAD---------*
+
+>P1;1hi6B
+structure:1hi6B:    3: :  112: :::-1.00:-1.00
+------------------QLQQSGAELVRPGASVKLSCKALGYIFTDYEIHWVKQTPVHGLEWIGGIHPGSSGTA
+YNQKFKGKATLTADKSSTTAFMELSSLTSEDSAVYYCTRK-----DYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1r3jB
+structure:1r3jB:    1: :  118: :::-1.00:-1.00
+----------------QVQLQQPGAELVKPGASVKLSCKASGYTFTSDWIHWVKQRPGHGLEWIGEIIPSYGRAN
+YNEKIQKKATLTADKSSSTAFMQLSSLTSEDSAVYYCARERDGYFAVWGAGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1r3jA
+structure:1r3jA:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+LLTQSPAILSVSPGERVSFSCRASQSIGTDIHWYQQRTNGSPRLLIKYASESISGIPSRFSGSGSGTDFTLSINS
+VESEDIANYYCQQSNRPFTFGSGTKLEIKRAD---------*
+
+>P1;1yqvL
+structure:1yqvL:    2: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPAIMSASPGEKVTMTCSASSSV-NYMYWYQQKSGTSPKRWIYDTSKLASGVPVRFSGSGSGTSYSLTISS
+METEDAATYYCQQWGRNPTFGGGTKLEIKRAD---------*
+
+>P1;1yqvH
+structure:1yqvH:    1: :  116: :::-1.00:-1.00
+----------------EVQLQQSGAELMKPGASVKISCKASGYTFSDYWIEWVKQRPGHGLEWIGEILPGSGSTN
+YHERFKGKATFTADTSSSTAYMQLNSLTSEDSGVYYCLH---GNYDFWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1bvkA
+structure:1bvkA:    1: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCRASGNIHNYLAWYQQKPGKAPKLLIYYTTTLADGVPSRFSGSGSGTDYTFTISS
+LQPEDIATYYCQHFSTPRTFGQGTKVEIKR-----------*
+
+>P1;1bvkB
+structure:1bvkB:    1: :  116: :::-1.00:-1.00
+----------------QVQLQESGPGLVRPSQTLSLTCTVSGFSLTGYGVNWVRQPPGRGLEWI-GMIWGDGNTD
+YNSALKSRVTMLKDTSKNQFSLRLSSVTAADTAVYYCARERDYRLDYWGQGSLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1bwmA
+structure:1bwmA:   14: :  246: :::-1.00:-1.00
+------------------------------GGKVTLSC---NQTNNHNNMYWYRQDTGHGLRLIH-YSYGAGSTE
+KGDIPDG-YKASRPSQENSLILELAT--PSQTSVYFCASGGQGRAEFFGPGTRLTVRSGGGGSGGGGSGGSGAQQ
+QVRQSPQSLTVWEGETTILNCSYEDSTFDYFPWYRQFPGKSPALLIAISLVSNKKEDGRFTFNKREKKLSLHITD
+SQPGDSATYFCAASFNKLTFGAGTRLAV-------------*
+
+>P1;1bz7A
+structure:1bz7A:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQITSSLSVSLGDRVIISCRASQDIGNFLNWYQQKPDGSLKLLIYYTSRLQSGVPSRFSGWGSGTDYSLTISN
+LEEEDIATFFCQQGKTPYTFGGGTKLEIKRT----------*
+
+>P1;1bz7B
+structure:1bz7B:    1: :  211: :::-1.00:-1.00
+----------------DVQLVESGGGLVQPGGSRKLSCAASGFTFSNFGMHWVRQAPEKGLEWVAYISSGGSSIN
+YADTVKGRFTISRDNPKNTLFLQMTSLRSEDTAIYYCTRGGTGTFDYWGQGATLIVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVHTFPAVLQSGSVVTVPSSS
+LGTQ---TYICNVNHKPS-----------------------*
+
+>P1;1bzqK
+structure:1bzqK:    1: :  123: :::-1.00:-1.00
+----------------QVQLVESGGGLVQAGGSLRLSCAASGYAYTYIYMGWFRQAPGKEREGVAAMDSGGGGTL
+YADSVKGRFTISRDKGKNTVYLQMDSLKPEDTATYYCARD--RTYGQWGQGTQVTVSSRG---------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1uacL
+structure:1uacL:    1: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPATLSVTPGNSVSLSCRASQSIGNNLHWYQQKSHESPRLLIKYASQSISGIPSRFSGSGSGTDFTLSINS
+VETEDFGMYFCQQSNSPYTFGGGTKLEIK------------*
+
+>P1;1uacH
+structure:1uacH:    1: :  113: :::-1.00:-1.00
+----------------DVQLQESGPSLVKPSQTLSLTCSVTGDSITSDYWSWIRKFPGNRLEYMGYVSSFGS-TF
+YNPSLKSRISITRDTSKNQYYLDLNSVTTEDTATYYCA-NWDG--DYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1c12A
+structure:1c12A:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+ELTQSPSSMSVSLGDTVSITCHASQGISSNIGWLQQKPGKSFKGLIYHGTNLEDGVPSRFSGSGSGADYSLTISS
+LESEDFADYYCQYVQFPFTFGSGTKLEIKRAD---------*
+
+>P1;1c12B
+structure:1c12B:    1: :  121: :::-1.00:-1.00
+----------------QVQLQESGPGLVKPSQSLSLTCTVTGYSISDYAWNWIRQFPGNKLEWMGYISYSGS-TS
+YSPSLKSRISLTRDTSKNQFFLQLNSVTTEDTATYYCVTSLTWLLSYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1c1eL
+structure:1c1eL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EL
+VMTQTPLSLPVSLGDQASISCRSSQSLNTYLHWYLQKPGQSPKFLIYKVSNRFSGVPDRFGGSGSGTDFILKISR
+VEAEDLGVYFCQSTHFFPTFGGGTKLEIKSAD---------*
+
+>P1;1c1eH
+structure:1c1eH:    1: :  119: :::-1.00:-1.00
+----------------QIQLVQSGPELKKPGETVKISCKASGYMFTNYGMNWVKQAPGKALKLMGWINYTGEST-
+FADDFKGRFAFFLETSATTAYLQINNLKNEDMATYFCARTIVRAMDYWGQGTSLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1c5cH
+structure:1c5cH:    1: :  213: :::-1.00:-1.00
+----------------QVQLLEPGTELVKPGASVKLSCRASGYSFTSYWMHWVKQRPGQGLEWIGLIDPSNGRTN
+FNDKFKSRATLTVDTSSSTAYMQLSSLTSEDSAVYYCVR-----IAYWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1c5dL
+structure:1c5dL:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPPSLSASLGDKVTITCQASQDINKYIAWYQQKPGKAPRQLIRYTSILVLGTPSRFSGSGSGRDFSFSISN
+VASEDIASYYCLQYGNLYTFGAGTKLEIKRAD---------*
+
+>P1;1c5dH
+structure:1c5dH:    1: :  117: :::-1.00:-1.00
+----------------EVKLLESGPGLVQPSQTLSLTCTVSGFPLTTNGVSWVRQPPGKGLEWIAAIS-SGGSPY
+YNSALKSRLSINRDTSKSQVFLKMNSLQTEDTAIYFCTREDGWNFDYWGPGTMVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1nbvH
+structure:1nbvH:    1: :  121: :::-1.00:-1.00
+----------------EVQPVETGGGLVQPKGSLKLSCAASGFSFNTNAMNWVRQAPGKGLEWVARIRSKSNATY
+YADSVKDRFTISRDDSQNMLYLQMNNLKTEDTAMYYCVRDQTGTFAYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1pewA
+structure:1pewA:    3: :  106: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-MLNQPHSVSESPGKTVTISCRSSGNISNYVQWYQQ---SAPITVIYEDNQRPSGVPDRFAGSRSSNSASLTISG
+LKTEDEADYYCQSYDARNVFGGGTRLTV-------------*
+
+>P1;1cdy
+structure:1cdy:    9: :   88: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-------------GDTVELTCTASQKKSIQFHWKNSNQGNQGSFLTKSPSKLNDRADSRRSLWDQG-NFPLIIKN
+LKIEDSDTYICEVED--------------------------*
+
+>P1;2cd0A
+structure:2cd0A:    4: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQ-PHSVSESPGKTVTISCRSSGSINNYVHWYQQRPGSSPTTVIFEDDHRPSGVPDRFSGSTSSNSASLTISG
+LKTEDEADYYCQSYDNNQVFGGGTKLTV-------------*
+
+>P1;1cf8L
+structure:1cf8L:    1: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPTIMSVSPGEKVTLTCSASSSVSSYVYWYQQKPGSSPKVWIYSTSNLASGVPARFSGSGSGTSYSLTISS
+MEAEDAASYFCQWSSFPYTFGGGTKLELKRAD---------*
+
+>P1;1cf8H
+structure:1cf8H:    1: :  116: :::-1.00:-1.00
+----------------DVQLQESGPGLVKPSQSLSLTCTVTGYSISGYAWNWIRQFPGNKLEWMGYIRYSGD-TR
+YNPSLKSRISITRDTSKNQFFLQLNSVTTEDTATYYCAIGY-GNSDYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;2cgrH
+structure:2cgrH:    2: :  116: :::-1.00:-1.00
+-----------------VQLLESGAELMKPGASVQISCKATGYTFSEYWIEWVKERPGHGLEWIGEILPGSGRTN
+YREKFKGKATFTADTSSNTAYMQLSSLTSEDSAVYYCTRGY-SSMDYWGQGTSVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1cicA
+structure:1cicA:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSHKFMSTSVGDRVSITCKASQDVRIAVAWYQQKPGQSPKLLIYWASTRHTGVPDRFTGSGSGTDFTLTISN
+VQSEDLADYFCQHCGSPFTFGSGTKLEIKRAD---------*
+
+>P1;1cicB
+structure:1cicB:    1: :  117: :::-1.00:-1.00
+----------------QVQLQQPGSELVRPGASVKLSCKASGYTFTNYWMHWVKQRPGQGLEWIGNI-YPGSGSN
+YDEKFKSKATLTVDTSSSTAYMQLSGLTSEDSAVYYCARGLAFYFDHWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1wejL
+structure:1wejL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPASLSASVGETVTITCRASGNIHNYLAWYQQKQGKSPQLLVYNAKTLADGVPSRFSGSGSGTQYSLKINS
+LQPEDFGSYYCQHFSTPWTFGGGTKLEIKRAD---------*
+
+>P1;1cicD
+structure:1cicD:    1: :  116: :::-1.00:-1.00
+----------------QVQLKESGPGLVAPSQSLSITCTVSGFSLTGYGVNWVRQPPGKGLEWL-GMIWGDGNTD
+YNSALKSRLSISKDNSKSQVFLKMNSLHTDDTARYYCARERDYRLDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mwaA
+structure:1mwaA:    3: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VTQPDARVTVSEGASLQLRCKYSYSATPYLFWYVQYPRQGLQLLLYSGDPVVQGVEAEFSKSNS--SFHLRKAS
+VHWSDSAVYFCAVSGFASTFGSGTKV---------------*
+
+>P1;2ck0L
+structure:2ck0L:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QLTQSPSSLAVSAGEKVTMNCKSSQNLKNYLAWYRQKPGQSPKLLIYWASTRGSGVPDRFTGSGSGTDFTLTISS
+VQAEDLAVYYCKQSYNLYTFGGGTKLEIKRAD---------*
+
+>P1;2ck0H
+structure:2ck0H:    1: :  120: :::-1.00:-1.00
+----------------QVQLQESGGGLVQPRGSLKLSCAASGFTFNTDAMNWVRQAPGKGLEWVARIRSKGFATY
+YADSVRDRFTISRDDSQSMLYLQMNNLKTEDTGIYYCVRGRDGEMDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;2pcpA
+structure:2pcpA:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+LMTQTPLSLPVSLGDQASISCRSSQTINTYLEWYLQKPGQSPKLLIYKVTNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYYCQGTHAPYTFGGGTKLEIKRAD---------*
+
+>P1;1n4xH
+structure:1n4xH:    1: :  120: :::-1.00:-1.00
+----------------EVQLQQSGPELKKPGETVKISCKATNYAFTDYSMHWVKQAPGGDLKYVGWINTETDEPT
+FADDFKGRFAFSLDTSTSTAFLQINNLKNEDTATYFCVRDYGEIFTYWGQGTTVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1cloL
+structure:1cloL:    4: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LSQSPAILSASPGEKVTMTCRASSSV-TYIHWYQQKPGSSPKSWIYATSNLASGVPARFSGSGSGTSYSLTISR
+VEAEDAATYYCQHSSKPPTFGGGTKLEIKRAD---------*
+
+>P1;1cloH
+structure:1cloH:    1: :  121: :::-1.00:-1.00
+----------------EVKLVESGGGLVQPGGSLRLSCATSGFTFTDYYMNWVRQPPGKALEWLGFIGNKANGTE
+YSASVKGRFTISRDKSQSILYLQMNTLRAEDSATYYCTRDLRFYFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1clyL
+structure:1clyL:    2: :  112: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-MTQIPVSLPVSLGDQASISCRSSQIINTYLEWYLQKPGQSPQLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYYCQGSHVPFTFGSGTKLEIKRT----------*
+
+>P1;1clyH
+structure:1clyH:    1: :  209: :::-1.00:-1.00
+----------------EVNLVESGGGLVQPGGSLKVSCVTSGFTFSDYYMYWVRQTPEKRLEWVAYISQGGDITD
+YPDTVKGRFTISRDNAKNSLYLQMSRLKSEDTAMYYCARDDGAWFAYWGQGTLVTVSV--------ASTKGPSVF
+PL--APSSKSTS-GGTAALGCLVK-------DYFPQ-----PVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPS-----------------------*
+
+>P1;1clzH
+structure:1clzH:    1: :  118: :::-1.00:-1.00
+----------------EVNLVESGGGLVQPGGSLKVSCVTSGFTFSDYYMYWVRQTPEKRLEWVAYISQGGDITD
+YPDTVKGRFTISRDNAKNSLYLQMSRLKSEDTAMYYCARDDGAWFAYWGQGTLVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1cr9L
+structure:1cr9L:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+VMTQTPLSLSVTIGQPASISCKSSQSLKTYLIWVFQRPGQSPKRLIFLVSKRDSGVPDRFTGSGSGTDFTLKISR
+VEAEDVGVYYCQGTHFPHTVGGGTKLEIARAD---------*
+
+>P1;1cr9H
+structure:1cr9H:    1: :  114: :::-1.00:-1.00
+----------------KVKLQQSGAELVRSGASVKLSCTASGFNIKDYYIQWVKQRPEQGLEWIGWIDPENGNSE
+YAPRFQGKATMTADTLSNTAYLQLSSLTSEDTAVYYCNADL---HDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ct8A
+structure:1ct8A:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EL
+VMTQTPATLSVTPGDSVSLSCRASQSVSNKLHWYQQKSHESPRLLIKFASQSIPGIPSRFSGSGSGSDFTLSINS
+VETEDFGIYFCHQTGRPLTFGAGTKLELKRAD---------*
+
+>P1;1ct8B
+structure:1ct8B:    1: :  118: :::-1.00:-1.00
+----------------QVKLLESGAVLVKPGASVKLSCKTSGFTFSSSYINWLKQKPGQSLEWIAWIYAGSGGTV
+YNQHFTDKARLTVDTSSSTAYMQFSSLTTEDSAIYYCARRYDEGFAYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1d9kA
+structure:1d9kA:    1: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+QVRQSPQSLTVWEGETTILNCSYEDSTFDYFPWYRQFPGKSPALLIAISLVSNKKEDGRFTFNKREKKLSLHITD
+SQPGDSATYFCAASFNKLTFGAGTRLAV-------------*
+
+>P1;1d9kB
+structure:1d9kB:    2: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VTQSPRNKVAVTGGKVTLSCNQTNNHNN-MYWYRQDTGHGLRLIHYAGSTEKGDIPDGYKASPSQENFSLILEL
+ATPSQTSVYFCAQGRAEQFFGPGTRLTV-------------*
+
+>P1;1dbbL
+structure:1dbbL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+VMTQIPLSLPVNLGDQASISCRSSQSLNTYLHWYLQKPGQSPKLLMYKVSNRFYGVPDRFSGSGSGTDFTLKISR
+VEAEDLGIYFCSQSSVPPTFGGGTKLEIKRAD---------*
+
+>P1;1dbbH
+structure:1dbbH:    1: :  119: :::-1.00:-1.00
+----------------QIQLVQSGPELKKPGETVKISCKASGYAFTNYGVNWVKEAPGKELKWMGWINYTGEPT-
+YVDDFKGRFAFSLETSASTAYLEINNLKNEDTATYFCTRDYVNYFDVWGAGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1deeA
+structure:1deeA:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCRTSQSISSYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGSGTDFTLTISS
+LQPEDFATYYCQQSSAPRTFGQGTKVEIKRT----------*
+
+>P1;1deeB
+structure:1deeB:    1: :  126: :::-1.00:-1.00
+----------------QVQLVESGGGVVQPGKSLRLSCAASGFTFSGYGMHWVRQAPGKGLEWVALISYDESNKY
+YADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAKDPTAPNDYWGQGTLVTVSSGSASA------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1dfbL
+structure:1dfbL:    1: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSTLSASVGDRVTITCRASQSISRWLAWYQQKPGKVPKLLIYKASSLESGVPSRFSGSGSGTEFTLTISS
+LQPDDFATYYCQQYNSYS-FGPGTKVDIKRT----------*
+
+>P1;1dfbH
+structure:1dfbH:    1: :  227: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGRSLRLSCAASGFTFNDYAMHWVRQAPGKGLEWVSGISWDSSSIG
+YADSVKGRFTISRDNAKNSLYLQMNSLRAEDMALYYCGRDYYDSFDIWGQGTMVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1dl7H
+structure:1dl7H:    1: :  112: :::-1.00:-1.00
+----------------QVQLKESGPGLVAPSQSLSITCTVSGFSLTGYGVNWVRQPPGKGLEWL-GMIWGDGSTD
+YNSALKSRLNISKDKSKSQVFLRMYSLQTDDTARYYCARDYG---PYWGQGTLVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1dlfL
+structure:1dlfL:    1: :  113: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+VMTQTPLSLPVSLGNQASISCRSSQSLNTYLHWYLQKPGQSPKLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYFCSQSHVPFTFGSGTKLEIKR-----------*
+
+>P1;1dlfH
+structure:1dlfH:    1: :  120: :::-1.00:-1.00
+----------------EVKLEESGGGLVQPGGSMKLSCATSGFTFSDAWMDWVRQSPEKGLEWVAEIKANNHATY
+YAESVKGRFTISRDDSKRRVYLQMNTLRAEDTGIYYCTGIYYHYFAYWGQGTLVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1dn0A
+structure:1dn0A:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EI
+VLTQSPATLSLSPGERATLSCGASQSVSSYLAWYQQKPGQAPRLLIYDASSRATGIPDRFSGSGSGTDFTLTISR
+LEPEDFAVYYCQQGSSPLTFGGGTKVEIKRT----------*
+
+>P1;1dn0B
+structure:1dn0B:    1: :  125: :::-1.00:-1.00
+----------------EVQLQQWGAGLLKPSETLSLTCAVYGGSFSDYYWSWIRQPPGKGLEWIGEINHSGS-TN
+YNPSLKSRVTISVDTSKNQFSLKLSSVTAADTAVYYCARDTSGHYNYWGQGTLVTVSSGSASA------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1dqdL
+structure:1dqdL:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLSQSPAIMSASPGEKVTITCSASSSV-SYMHWFQQKPGTSPKLCIYTTSNLASGVPARFSGSGSGTSYSLTISR
+MEAEDAATYYCQQRSTPPTFGSGTKLEIKRAD---------*
+
+>P1;1dqdH
+structure:1dqdH:    1: :  122: :::-1.00:-1.00
+----------------EVQLQESGPSLVKPSQTLSLTCSVTGDSITSGYWNWIRKFPGNKLEYMGYISYSGS-TY
+YNPSLKSRLSITRDTSRNQYYLQLKSVTPEDTATYYCASGYYGSMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1dqqB
+structure:1dqqB:    1: :  113: :::-1.00:-1.00
+----------------EVQLQESGPSLVKPSQTLSLTCSVTGDSVTSDYWSWIRKFPGNKLEYMGYISYSGS-TY
+YHPSLKSRISITRDTSKNQYYLQLNSVTTEDTATYYCA-SWGG--DVWGAGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1dqlL
+structure:1dqlL:    1: :  106: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCRASQDIRNDLGWYQQKPGKAPKKLIYAASSLQSGVPSRFSGSGSGTDFTLTISS
+LQPEDFATYYCLQQNSNWTFGQGTKVDIK------------*
+
+>P1;1dqlH
+structure:1dqlH:    1: :  122: :::-1.00:-1.00
+-----------------VQLVESGGGLVQPGGSLRLSCAASGFTFSSYAMHWVRQAPGKGLEWVAVISSDGGNKY
+YTDSVKGRFTISRNDSKNTLYLQMNSLRTEDTAVFYCARGNPGGGDYWGQGTMVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1dsfL
+structure:1dsfL:    1: :  112: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+VMTQTPLSLPVSLGDQASISCRSSQNLKTYLHWFLQKPGQSPTLLIYKVSNRFSGVPDRFSGSGSGTDFILKISR
+VEAEDLGVYFCSQSHVPLTFGCGTKLELK------------*
+
+>P1;1dsfH
+structure:1dsfH:    1: :  119: :::-1.00:-1.00
+------------------QLVESGGGLVKPGGSLKLSCAASGFIFSDNYMYWVRQTPEKCLEWVATISDGGTYID
+YSDSVKGRFTISRDNAKNNLYLQMSSLRSEDTGMYYCGRDY-APFTYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1dvfC
+structure:1dvfC:    1: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QLTQSPSSLSASLGDRVTISCRASQDISNYLNWYQQKPDGTVKLLIYYTSRLHSGVPSRFSGSGSGTDYSLTISN
+LEQEDIATYFCQQGNTPWTFGGGTKLEIK------------*
+
+>P1;1dvfD
+structure:1dvfD:    1: :  120: :::-1.00:-1.00
+----------------QVQLQQSGTELVKSGASVKLSCTASGFNIKDTHMNWVKQRPEQGLEWIGRIDPANGNIQ
+YDPKFRGKATITADTSSNTAYLQL-SLTSEDTAVYYCATKVIGAMDYWGQGTTLTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1dzbA
+structure:1dzbA:    1: :  224: :::-1.00:-1.00
+----------------QVKLQQSGAELVKPGASVKLSCTASGFNIKDTYMHWVKQRPEQGLEWIGRIDPANGNTK
+YDPKFQGKATITADTSSNTAYLQLSSLTSEDTAVYYCAR-WDWYFDVWGQGTTVTVSSG--------------DI
+ELTQSPSSMYTSLGERVTITCKASQDINSYLRWFQQKPGKSPKTLIYYATSLADGVPSRFSGSGSGQDYSLTISS
+LESDDTTTYYCQHGESPYTFGGGTKLEIK------------*
+
+>P1;1e4xH
+structure:1e4xH:    1: :  114: :::-1.00:-1.00
+----------------QVQLQQPGAELVKPGASVKLSCKASGFTFTNYWMHWVKQRPGQGLEWIGEILPSNGRTN
+YNEKFKTKATLTVDKSSNTAYMQLSSLTSEDSAVYYCAR---SPSDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1e4xL
+structure:1e4xL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQTPSSLSASLGDRVTISCRASQDISHYLNWFQQKPDGTVKLLIYYTSTLHSGVPSRFSGSGSGTDYSLTISN
+LEEEDIAFYFCQQGGAPFTFGSGTKLAIKRAD---------*
+
+>P1;1e6oH
+structure:1e6oH:    1: :  120: :::-1.00:-1.00
+----------------EVQLQQSGAELARPGASVKMSCKASGYTFTSYTMHWVKQRPGQGLEWIGYINPSSGYSN
+YNQKFKDKATLTADKSSSTAYMQLSSLTSEDSAVYYCSRPVVRNFDYWGQGSTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1e6oL
+structure:1e6oL:    1: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EI
+VLTQSPAITAASLGQKVTITCSASSSV-SYMHWYQQKSGTSPKPWIYEISKLASGVPARFSGSGSGTSYSLTISS
+MEAEDAAIYYCQQWNYPFTFGSGTKLEIKRAD---------*
+
+>P1;1eapB
+structure:1eapB:    1: :  119: :::-1.00:-1.00
+----------------EVQLQESGTELVKPGASVKISCKASGYISTDHAIHWVKQRPEQGLEWIGYISPGNGDIK
+YNEKFKVKATLTADQSSSTAYMQLNSLTSEDSAVYFCKRSYYGSVDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1eeqA
+structure:1eeqA:    1: :  113: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPDSLAVSLGERATINCKSSQSVKNYLAWYQQKPGQPPKLLIYWASTRESGVPDRFSGSGSGTDFTLTISS
+LQAEDVAVYYCQQYSHPYSFGQGTKLEIK------------*
+
+>P1;1egjL
+structure:1egjL:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------NI
+VLTQSPASLAVSLGQRATISCRANESVYSYMHWYQQKPGQPPKLLIYLASNLASGVPARFSGSGSRTDFTLTIDP
+VETDDAATYYCQQNEDPWTFGGGTKLEIKRGD---------*
+
+>P1;1egjH
+structure:1egjH:    1: :  119: :::-1.00:-1.00
+----------------EVQLQQSGPELVKPGTSVKMSCKASGYTFTDYYMKWVKHSHGKSLEWIGDINPSNGGTL
+YNQKFKGKATLTVDKSSSTASMQLSRLTSEDSAVYYCSRDGIGGFAYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ehlH
+structure:1ehlH:    1: :  120: :::-1.00:-1.00
+----------------EVQLQQSGTVLARPGASVKMSCKASGYSFTSFWMHWVKQRPGQGLEWIGTIYPGNSDTS
+YNQKFKGKAKLTAVTSASTAYMEVSSLTNEDSAVYYCTRKYYA-LDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ejoL
+structure:1ejoL:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPASLAVSLGQRATISCRASESVDSYMHWYQQKPGQPPKLLIYRASNLESGIPARFSGSGSRTDFTLTINP
+VEADDVATYYCQQSEDPLTFGAGTKLELKRAD---------*
+
+>P1;1ejoH
+structure:1ejoH:    3: :  119: :::-1.00:-1.00
+-------------------LVESGGDLVKPGGSLKLSCAASGFTFSSYTMSWVRQTPEKRLEWVATISSGGAYTY
+YPDSVKGRFTISDDNAESTLYLQMSSLRSEDTAMYYCVRDSDVGFASWGHRTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ek3A
+structure:1ek3A:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSPDSLAVSPGERATINCKSSQNLSSFLAWYQQKPGQPPKLLIYWASSRESGVPDRFSGSGSGTDFTLTISS
+LQAEDVAVYYCQQYSTPPTFGGGTKVEIKR-----------*
+
+>P1;1emtL
+structure:1emtL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQTTSSLSASLGDRVTFSCSASQDISNYLNWYQQKPDGTIKLLIYYTSSLRSGVPSRFSGSGSGTDYSLTINN
+LEPEDIATYFCQQSRLPFTFGSGTKLEIKRAD---------*
+
+>P1;1emtH
+structure:1emtH:    1: :  113: :::-1.00:-1.00
+----------------QVHLQESGPELVRPGASVKISCKTSGYVFSSSWMNWVKQRPGQGLKWIGRI-YPGNGTN
+YNEKFKGKATLTADKSSNTAYMQLSSLTSVDSAVYFCATSSA----YWGQGTLLTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1eo8L
+structure:1eo8L:    2: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+ILTQSPAIMSASPGEKVTMTCSASSDI-SYMHWYQQKSDTSPKIWIYDTSKLASGVPARFSGSGSGTSYSLTIST
+MEAEDAATYYCHQRSSYPTFGGGTKLEIKRAD---------*
+
+>P1;1eo8H
+structure:1eo8H:    1: :  118: :::-1.00:-1.00
+----------------QVQLQQSGAELMKPGPSVKISCKATGYSFSTYFIEWIRQRPGHGLEWIGEILPGSDNTN
+FNEKFKDRATFTADTPSNTAYMQLSSLTSEDSAVYYCARP-TGRLSYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1sm3L
+structure:1sm3L:    1: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+VVTQE-SALTTSPGETVTLTCRSSTTTSNYANWVQEKPDHLFTGLIGGTNNRAPGVPARFSGSLIGDKAALTITG
+AQTEDEAIYFCAWYSNHWVFGGGTKLTV-------------*
+
+>P1;1etzH
+structure:1etzH:    1: :  126: :::-1.00:-1.00
+----------------QVTLKESGPGILQPSQTLSLTCSFSGFSLSTSGMGWIRQPSGEGLEWLADIWWNDK-KY
+YNPSLKSRLTVSKDTSSNQVFLKITSVDTSDTATYHCARRYYGSFDNWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ezvX
+structure:1ezvX:    1: :  122: :::-1.00:-1.00
+----------------EVKLQESGAGLVQPSQSLSLTCSVTGYSISGYYWNWIRLFPGNKLEWVGYISNVGDNN-
+YNPSLKDRLSITRDTSKNQFFLKLNSVTTEDTATYYCAREYYSAMDYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ezvY
+structure:1ezvY:    1: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+ELTQTPVSLAASLGDRVTISCRASQDINNFLNWYQQKPDGTIKLLIYYTSRLHAGVPSRFSGSGSGTDYSLTISN
+LEPEDIATYFCQHHKFPWTFGAGTKLEIK------------*
+
+>P1;1iqwL
+structure:1iqwL:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPASLAVSLGQRATISCKASQSVDSYMNWYQQKPGQPPKLLIYAASNLESGIPARFSGSGSGTDFTLNIHP
+VEEEDAATYYCQQSEDPRTFGGGTKLEIKRAD---------*
+
+>P1;1f11B
+structure:1f11B:    1: :  119: :::-1.00:-1.00
+----------------EVQLQQSGPELVKPGASVKMSCKASGYTFTDYYMKWVKQSHGKSLEWIGDINPNNGGTG
+YNQKFKGKATLTVDKSSSTAYMQLNSLTSEDSAVYYCANDYTYGFAYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mamL
+structure:1mamL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQTTSSLSASLGDRVTISCRASQDIYNYLNWYQQKPDGTVKLLIYYTSRLHSGVPSRFSGSGSGTDYSLTISN
+LNQEDMATYICQQGNTPFTFGSGTKLEIKRAD---------*
+
+>P1;1faiH
+structure:1faiH:    1: :  124: :::-1.00:-1.00
+----------------QVQLQQSGAELVRAGSSVKMSCKASGYTFTSYGVNWVKQRPGQGLEWIGYINPGKGYLS
+YNEKFKGKTTLTVDRSSSTAYMQLRSLTSEDAAVYFCARSFYGGFDSWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1f2xK
+structure:1f2xK:    1: :  126: :::-1.00:-1.00
+----------------QVQLVESGGGSVQAGGSLRLSCAASGYTVSTYCMGWFRQAPGKEREGVATI--LGGSTY
+YGDSVKGRFTISQDNAKNTVYLQMNSLKPEDTAIYYCAGSTVADYHYRGQGTQVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1f3dL
+structure:1f3dL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+LMTQTPLSLPVSLGDQVSISCRSSQSIKTYLEWHLQKPGQSPKLLIYKVSKRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYYCQGSHVPYTFGGGTKLEIKRAD---------*
+
+>P1;1f3dH
+structure:1f3dH:    1: :  115: :::-1.00:-1.00
+----------------EIQLQQSGPELVKPGASVKVSCKASGYSFIDYNIHWVKQSHGKSLEWIGYIPYSG-GTT
+FNQKFKGKATLTVDKSSSTAFMHLNSLTFEDSAVYYCANDYDG--VYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1f3rB
+structure:1f3rB:    1: :  249: :::-1.00:-1.00
+----------------QVQLLESGPGLVRPSETLSLTCTVSGFSLTSFSVSWVRHPSGKGPEWMGRMWYDGY-TA
+YNSALKSRLSISRDTSKNQVFLKMNSLQTDDTGTYYCTRDLYGGFDFWGPGTMVTVSSGGGGSGGGGSGGGGSDI
+KLTQSPSLLSASVGDRVTLSCKGSQNINNYLAWYQQKLGEAPKLLIYNTNSLQTGIPSRFSGSGSGTDYTLTISS
+LQPEDVATYFCYQYNNGYTFGAGTKLELKAAEQK-------*
+
+>P1;1f4wL
+structure:1f4wL:    8: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+------SALTTSPGETVTLTCRSSTTTSNYANWVQEKPDHLFTGLIGATNNRAAGVPVRFSGSLIGGKAALTITG
+AQTEDEAIYFCALWYSGHVFGGGTKLTV-------------*
+
+>P1;1f4wH
+structure:1f4wH:    1: :  117: :::-1.00:-1.00
+----------------EVQLEESGGGLVTPGGSLRLSCAASGYVFSTYDMSWVRQTPEKRLEWVAFISSGGGRTS
+YPDTVKGRFTISRDDAKNTLYLQMSSLQSEDTAMYYCTRHFYAVLDYWGRGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1f58L
+structure:1f58L:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPASLAVSLGQRATISCKASQGVASFMNWYQQKPGQPPKLLIFAASTLESGIPARFSGRGSGTDFTLNIHP
+VEEEDAATYYCQQSEDPLTFGAGTKLELKRAD---------*
+
+>P1;1f58H
+structure:1f58H:    1: :  126: :::-1.00:-1.00
+----------------DVQLQQSGPDLVKPSQSLSLTCTVTGYSISGYSWHWIRQFPGNKLEWMGYIHYS-AGTN
+YNPSLKSRISITRDTSKNQFFLQLNSVTTEDTATYYCAREYYYAMDCWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;2f5bL
+structure:2f5bL:    2: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------L
+QLTQSPSSLSASVGDRITITCRASQGVTSALAWYRQKPGSPPQLLIYDASSLESGVPSRFSGSGSGTEFTLTIST
+LRPEDFATYYCQQLHYPHTFGGGTRVDVRRT----------*
+
+>P1;2f5bH
+structure:2f5bH:    2: :  230: :::-1.00:-1.00
+-----------------ITLKESGPPLVKPTQTLTLTCSFSGFSLSDFGVGWIRQPPGKALEWLA-IIYSDDDKR
+YSPSLNTRLTITKDTSKNQVVLVMTRVSPVDTATYFCARGPVNAMDVWGQGITVTISS--------TSTKGPSVF
+PLAPSSAGGAAALG------C----LVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYTCNVNHKPSNTKVDKRVEPK------------*
+
+>P1;1f6lL
+structure:1f6lL:    1: :  106: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPASLSASVGETVTITCRASENIYSYLAWYQQKQGKSPQLLVYNAKTLAEGVPSRFSGSGSGTQFSLKINS
+LQPEDFGSYYCQHHGTPFTFGSGTKLEI-------------*
+
+>P1;1yejL
+structure:1yejL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSPLTLSVTIGQPASISCKSSQSLKTYLNWLLQRPGQSPKRLIHLVSKLDSGVPDRITGSGSGTDFTLKISR
+VEAADLGVYYCQGTHFPYTFGGGTKLEILRAD---------*
+
+>P1;1f8tH
+structure:1f8tH:    2: :  118: :::-1.00:-1.00
+-----------------VQLQESGPGLVKPSQSLSLTCTVTGYSISDYAWNWIRQFPGNKLEWMGYITYSGS-TG
+YNPSLKSRISITRDTSKNQFFLQLNSVTTEDTATYYCASDYTW-FTYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1flrH
+structure:1flrH:    1: :  116: :::-1.00:-1.00
+----------------EVKLDETGGGLVQPGRPMKLSCVASGFTFSDYWMNWVRQSPEKGLEWVAQIRNKNYETY
+YSDSVKGRFTISRDDS--SVYLQMNNLRVEDMGIYYCTGSYYG-MDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;6fabL
+structure:6fabL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQIPSSLSASLGDRVSISCRASQDINNFLNWYQQKPDGTIKLLIYFTSRSQSGVPSRFSGSGSGTDYSLTISN
+LEQEDIATYFCQQGNAPRTFGGGTKLEIKRAD---------*
+
+>P1;6fabH
+structure:6fabH:    1: :  121: :::-1.00:-1.00
+----------------EVQLQQSGVELVRAGSSVKMSCKASGYTFTSNGINWVKQRPGQGLEWI-GYNNPGNGIA
+YNEKFKGKTTLTVDKSSSTAYMQLRSLTSEDSAVYFCAREYYGKFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;7fabL
+structure:7fabL:    4: :  103: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQ-PPSVSGAPGQRVTISCTGSSSAGHNVKWYQQLPGTAPKLLIFHNN-------ARFSVSKSGTSATLAITG
+LQAEDEADYYCQSYDSLRVFGGGTKLTVLR-----------*
+
+>P1;7fabH
+structure:7fabH:    2: :  117: :::-1.00:-1.00
+-----------------VQLEQSGPGLVRPSQTLSLTCTVSGTSFDDYYWTWVRQPPGRGLEWIGYVFYTGT-TL
+LDPSLRGRVTMLVNTSKNQFSLRLSSVTAADTAVYYCARNLIGGIDVWGQGSLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;8fabA
+structure:8fabA:    1: :  103: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ELTQ-PPSVSVSPGQTARITCSANALPNQYAYWYQQKPGRAPVMVIYKDTQRPSGIPQRFSSSTSGTTVTLTISG
+VQAEDEADYYCQAWDSASIFGGGTKLTV-------------*
+
+>P1;8fabB
+structure:8fabB:    2: :  121: :::-1.00:-1.00
+-----------------VKLVQAGGGVVQPGRSLRLSCIASGFTFSNYGMHWVRQAPGKGLEWVAVIWYNGSRTY
+YGDSVKGRFTISRDNSKRTLYMQMNSLRTEDTAVYYCARDTAFSFDYWGQGVLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1fbiH
+structure:1fbiH:    1: :  122: :::-1.00:-1.00
+----------------QVQLQQPGAELVKPGASVKLSCKASGYTFTSYWMHWVKQGPGQGLEWIGEIDPSDSYPN
+YNEKFKGKATLTVDKSSSTAYMQLSSLTSEDSAVYYCASLYYGVLDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;2fb4L
+structure:2fb4L:    4: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQPPSA-SGTPGQRVTISCSGTSSNSSTVNWYQQLPGMAPKLLIYRDAMRPSGVPDRFSGSKSGASASLAIGG
+LQSEDETDYYCAAWDNAYVFGTGTKVTV-------------*
+
+>P1;2fb4H
+structure:2fb4H:    1: :  227: :::-1.00:-1.00
+----------------EVQLVQSGGGVVQPGRSLRLSCSSSGFIFSSYAMYWVRQAPGKGLEWVAIIWDDGSDQH
+YADSVKGRFTISRNDSKNTLFLQMDSLRPEDTGVYFCARDFCSSADYWGQGTPVTVSS--------ASTKGPSVF
+PL--APSSKSTS-GGTAALGCLVK-------DYFPQ-----PVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKRVEPK------------*
+
+>P1;2fbjH
+structure:2fbjH:    1: :  118: :::-1.00:-1.00
+----------------EVKLLESGGGLVQPGGSLKLSCAASGFDFSKYWMSWVRQAPGKGLEWIGEI-HPDSGTI
+YTPSLKDKFIISRDNAKNSLYLQMSKVRSEDTALYYCARHYYGYNAYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ngzA
+structure:1ngzA:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EL
+VMTQTPKFMSTSVGDRVSITCKASQNVGTAVAWYQQKPGQSPKLLIYSASNRYTGVPDRFTGSGSGTDFTLTISN
+MQSEDLADYFCQQSSYPLTFGGGTKVEIKRT----------*
+
+>P1;1ngzB
+structure:1ngzB:    1: :  218: :::-1.00:-1.00
+----------------QVQLLESGAELVKPGASVKLSCKASGYTFTSYWMHWVKQRPGRGLEWIGRIDPNSGGTK
+YNEKFKSKATLTVDKPSSTAYMQLSSLTSEDSAVYYCTR---RDSDYWGAGTTVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPKSCD---------*
+
+>P1;1fe8H
+structure:1fe8H:    1: :  115: :::-1.00:-1.00
+----------------DVKLVQSGPGLVAPSQSLSITCTVSGFSLTTYGVSWVRQPPGKGLEWL-GVIWGDGNTT
+YHSALISRLSISKDNSRSQVFLKLNSLHTDDTATYYCAGNYYG-MDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1fe8L
+structure:1fe8L:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+AMTQTTSSLSASLGQKVTISCRASQDIGNYLNWYQQKPDGTVRLLIYYTSRLHSGVPSRFSGSGSGTDYSLTISN
+LESEDIATYFCQNGGTPWTFGGGTKLEVKRAD---------*
+
+>P1;1fgvL
+structure:1fgvL:    1: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCRASQDINNYLNWYQQKPGKAPKLLIYYTSTLESGVPSRFSGSGSGTDYTLTISS
+LQPEDFATYYCQQGNTPPTFGAGTKVEIK------------*
+
+>P1;1fgvH
+structure:1fgvH:    1: :  120: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGGSLRLSCATSGYTFTEYTMHWMRQAPGKGLEWVAGINPKNGGTS
+YADSVKGRFTISVDKSKNTLYLQMNSLRAEDTAVYYCARWRVRYFDVWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;2fgwH
+structure:2fgwH:    1: :  220: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGGSLRLSCATSGYTFTEYTMHWMRQAPGKGLEWVAGINPKNGGTS
+HNQRFMDRFTISVDKSTSTAYMQMNSLRAEDTAVYYCAR-WRRYFDVWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPKSCD---------*
+
+>P1;1fh5H
+structure:1fh5H:    1: :  108: :::-1.00:-1.00
+----------------------SGGGLVKPAGSLKLSCAASGFTFSSYYMYWVRQTPDKRLEWVATISDGGSYTY
+YPDSVKGRFTISRDNAKNNLYLQMSSLKSEDTAMYYCARD---AMDYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1figL
+structure:1figL:    4: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQSPAIMSASPGEKVTMACRASSSVSSYLHWYQQKSGASPKLLIYSTSNLASGVPARFSGSGSGTSYSLTISS
+VEAEDAATYYCQQSGYPLTFGAGTKLELKRAD---------*
+
+>P1;1figH
+structure:1figH:    1: :  119: :::-1.00:-1.00
+----------------DVQLQQSGPELEKPGASVKISCKASGFSLPGHNINWIVQRNGKSLEWIGNIDPYYGGTN
+FNPKFKGKATLTVDKSSSTLYMHLTSLQSEDSAVYYCARRRDGNFTYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1fj1A
+structure:1fj1A:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSATLGGKVTITCKASQDINKYIAWYQHKPGKGPRLLIHYTSTLQPGNPSRFSGSGSGRDYSFSISN
+LEAEDIAIYYCLQYDNQRTFGGGTKVEIKRAD---------*
+
+>P1;1fj1B
+structure:1fj1B:    1: :  113: :::-1.00:-1.00
+----------------QIQLVQSGPELKKPGETVKISCKASGYTFTDYSMYWVKQAPGKGLKRMGWINTETGEPT
+YADDFKGRFALSLDTSASTAYLHISNLKNEDTATYFCAR----GLDSWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ub5H
+structure:1ub5H:    1: :  114: :::-1.00:-1.00
+----------------EVKLLESGGGLVKPGGSLKLSCTASGITFSRYIMSWVRQIPEKRLEWVASIS-SGGITY
+YPDSVAGRFTISRDNVRNILYLQMSSLRSEDTALYYCARGQ--GRPYWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ub6L
+structure:1ub6L:    3: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQSPVSNPVTLGTSASISCRSTKSLITYLYWYLQKPGQSPQLLIYQMSNLASGVPNRFSSSGSGTDFTLRINT
+VEAEDVGVYYCAQNELPPTFGAGTKLELKRAD---------*
+
+>P1;1fl5H
+structure:1fl5H:    1: :  218: :::-1.00:-1.00
+----------------QVQLVESGGGLVQPGGSLRLSCATSGFTFTDYYMSWVRQPPGKALEWLGFIRNKANGTE
+YSASVKGRFTISRDNSQSILYLQMNTLRAEDSATYYCARDGSYAMDYWGQGTSVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVE--------------*
+
+>P1;1fn4A
+structure:1fn4A:    1: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+KLTQSPSLLSASVGDRVTLSCKGSQNINNYLAWYQQKLGEAPKLLIYNTNSLQTGIPSRFSGSGSGTDYTLTISS
+LQPEDVATYFCYQYNNGYTFGAGTKLELKRT----------*
+
+>P1;1fn4B
+structure:1fn4B:    1: :  123: :::-1.00:-1.00
+----------------QVQLLESGPGLVRPSETLSLTCTVSGFSLTSFSVSWVRHPSGKGPEWMGRMWYDGY-TA
+YNSALKSRLSISRDTSKNQVFLKMNSLQTDDTGTYYCTRDLYGGFDFWGPGTMVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1fnsL
+structure:1fnsL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASLGDRVTISCSASQDINKYLNWYQQKPDGAVKLLIFYTSSLHSGVPSRFSGSGSGTDYSLTISN
+LEPEDIATYYCQQYELPWTFGGGTKLEVKRAD---------*
+
+>P1;1fnsH
+structure:1fnsH:    1: :  122: :::-1.00:-1.00
+----------------QVQLKESGPGLVAPSQSLSITCTVSGFSLTDYGVDWVRQPPGKGLEWL-GMIWGDGSTD
+YNSALKSRLSITKDNSKSQVFLKMNSLQTDDTARYYCVRDYDYALDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1fo0A
+structure:1fo0A:   28: :  113: :::-1.00:-1.00
+---------------------------------------------SSYFLFWYKQASGEIVFLIRQDSYKKE---
+--NATVGHYSLNFQKPKSSIGLIITATQIEDSAVYFCAMDYSGNKLIFGTGTLLSV-------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1fo0B
+structure:1fo0B:   12: :  112: :::-1.00:-1.00
+--------------------------LVPRGQAVNLRCILKNSQYPW--MSWYQQDLQKQLQWL--FTLRSPGDK
+EVKSLPGADYLATRVTDTELRLQVANMSQGRTLYCTCSADRVGNTLYFGEGSRLIV-------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1forL
+structure:1forL:    2: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+VLTQSPAIMSAFPGEKVTITCSATSSV-NYMHWFQQKPGTSPKLWIYSSSNLASGVPARFSGSGSGTSYSLTISR
+MEAEDAATYYCQQSSYPITFGSGTKLEIKRAD---------*
+
+>P1;1forH
+structure:1forH:    3: :  119: :::-1.00:-1.00
+------------------QLQQSGAELVRPGSSVKISCKASGYAFSSFWVNWVKQRPGQGLEWIGQI-YPGDGNK
+YNGKFKGKATLTADKSSTTAYMQLYSLTSEDSAVYFCARNYPYAMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1qkzL
+structure:1qkzL:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------NI
+VMTQTPLSLPVSLGDQASISCRSSQSLNTYLHWYLQKPGQSPKLLIYTVSNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYFCSQSTHFPTFGGGTKLEIKRAD---------*
+
+>P1;1fptH
+structure:1fptH:    1: :  120: :::-1.00:-1.00
+----------------QVQLQQSGAELVRPGTSVKVSCKASGYAFTNYLIQWIKQRPGQGLEWIGVINPGSGGTD
+YNANFKGKATLTADKSSSIVYMQLSSLTSDDSAVYFCARDYDVGFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1hilA
+structure:1hilA:    1: :  116: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSPSSLTVTAGEKVTMSCTSSQSLKNYLTWYQQKPGQPPKVLIYWASTRESGVPDRFTGSGSGTDFTLTISS
+VQAEDLAVYYCQNDSNPLTFGGGTKLELKRAD---------*
+
+>P1;1frgH
+structure:1frgH:    1: :  120: :::-1.00:-1.00
+----------------EVLLVESGGDLVKPGGFLKLSCAASGFTFSSFGMSWVRHTPDKRLEWVATISNGGGYTY
+YQDSVKGRFTISRDNAKNTLFLEMTSLKSEDAGLYYCARDEKG-FAYWGRGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1fskB
+structure:1fskB:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------NI
+VLTQSPKSMSVSVGERVTLSCKASENVDTYVFWFQQKPDQSPKLLLYGPSNRYTGVPDRFTGSGSTTDFTLTISS
+VQAEDLADYHCGQSSYPYTFGGGTKLEIKRAD---------*
+
+>P1;1fskC
+structure:1fskC:    1: :  117: :::-1.00:-1.00
+----------------QVQLQQPGTELVRPGASVILSCKASGYTFTSYWINWVKQRPGQGLEWVGNIFPSDSYTN
+YNQKFKDKATLTVDKSSSTAYMQVNSPTSEDSAVYYCTR---GARDYWGQGTLVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1fvcA
+structure:1fvcA:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCRASQDVNTAVAWYQQKPGKAPKLLIYSASFLYSGVPSRFSGSRSGTDFTLTISS
+LQPEDFATYYCQQHTTPPTFGQGTKVEIKRT----------*
+
+>P1;1fvcB
+structure:1fvcB:    1: :  120: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGGSLRLSCAASGFNIKDTYIHWVRQAPGKGLEWVARIYPTNGYTR
+YADSVKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCSRDGFYAMDYWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1fvdA
+structure:1fvdA:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCRASQDVNTAVAWYQQKPGKAPKLLIYSASFLESGVPSRFSGSRSGTDFTLTISS
+LQPEDFATYYCQQHTTPPTFGQGTKVEIKRT----------*
+
+>P1;1fvdB
+structure:1fvdB:    1: :  221: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGGSLRLSCAASGFNIKDTYIHWVRQAPGKGLEWVARIYPTNGYTR
+YADSVKGRFTISADTSKNTLYLQMNSLRAEDTAVYYCSRDGFYAMDVWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1j8hD
+structure:1j8hD:    3: :  112: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VTQLGSHVSVSEGALVLLRCNYSSSVPPYLFWYVQYPNQGLQLLLTSAATLVKGINGEAEFKKSETSFHLTKPS
+AHMSDAAEYFCAVSESPLTFGTGTRLTI-------------*
+
+>P1;1j8hE
+structure:1j8hE:    1: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------V
+KVTQSSRYLVKRTGEKVFLECVQDMDHEN-MFWYRQDPGLGLRLIYYDVKMKEKGIPEGYSVSREKKEFSLILES
+ASTNQTSMYLCASSSTGYTFGSGTRLTV-------------*
+
+>P1;1g9mL
+structure:1g9mL:    1: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EL
+ELTQSPATLSVSPGERATLSCRASESVSSDLAWYQQKPGQAPRLLIYGASTRATGVPARFSGSGSGAEFTLTISS
+LQSEDFAVYYCQQNNWPPTFGQGTRLEIKRT----------*
+
+>P1;1g9mH
+structure:1g9mH:    1: :  229: :::-1.00:-1.00
+----------------QVQLLESGAEVKKPGSSVKVSCKASGDTFIRYSFTWVRQAPGQGLEWMGRIITILDVAH
+YAPHLQGRVTITADKSTSTVYLELRNLRSDDTAVYFCAGVYEGEADHWGQGTLVTVTS--------ASTKGPSVF
+PL--APSSKSTS-GGTAALGCLVK-------DYFPQ-----PVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1hcv
+structure:1hcv:    1: :  116: :::-1.00:-1.00
+-----------------VQLQESGGGLVQAGGSLRLSCAASGRTGSTYDMGWFRQAPGKERESVAAINWDSARTY
+YASSVRGRFTISRDNAKKTVYLQMNSLKPEDTAVYTCGAGEGGTWDSWGQGTQVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;2gfbA
+structure:2gfbA:    2: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+QMTQSPSSLSASLGERVSLTCRASQEISGYLSWLQQKPDGTIKRLIYAASTLDSGVPKRFSGSRSGSDYSLTISS
+LESEDFADYYCQYASSPYTFGGGTKLEILR-----------*
+
+>P1;2gfbB
+structure:2gfbB:    1: :  119: :::-1.00:-1.00
+----------------DVKLVESGGGLVQPGGSRKLSCAASGFTFSSFGMHWVRQAPEKGLEWVAYISSGSSTIY
+YADTVKGRFTISRDNPKNTLFLQMTSLRSEDTAMYYCARDYYGSRGYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ggbH
+structure:1ggbH:    1: :  115: :::-1.00:-1.00
+----------------QVQLQESGPGILQPSQTLSLTCSFSGFSLSTYGMGWIRQPSGKGLEWLAHIFWDGD-KR
+YNPSLKSRLKISKDTSNNQVFLKITSVDTADTATYYCVQEYI----YWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ghfH
+structure:1ghfH:    1: :  114: :::-1.00:-1.00
+-----------------VQLQQSGPELKKPGETVKISCKL-WYTFTDYGMNWVKQAPGKGLKWMGWIQTNTEEPT
+YGAEFKGRFAFSLETSAFTAYKQINNLKNEDMATYFCARVEAG-FDYWAQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1gigH
+structure:1gigH:    1: :  122: :::-1.00:-1.00
+----------------QVQLKESGPGLVAPSQSLSITCTVSGFLLISNGVHWVRQPPGKGLEWL-GVIWAGGNTN
+YNSALMSRVSISKDNSKSQVFLKMKSLQTDDTAMYYCARDFYDAMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1gpoL
+structure:1gpoL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+ELTQSPATLSVTPGNSVSISCRASQSLNTYLFWYQQKSHESPRLLIKYASQSISGIPSRFSGSGSGTDFTLSINS
+VETEDLAVYFCQQTDWPFTFGGGTKLEIKRAD---------*
+
+>P1;1gpoH
+structure:1gpoH:    1: :  113: :::-1.00:-1.00
+----------------EVKLQESGPSLVKPSQTLSLTCSVTGDSITSDFWSWIRQFPGNRLEYMGFVQYSGE-TA
+YNPSLKSRISITRDTSKNQYYLDLNSVTTEDTAVYYCA-NWHG--DYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;2h1pH
+structure:2h1pH:    1: :  120: :::-1.00:-1.00
+----------------DVKLVESGGGLVKLGGSLKLSCAASGFTFSSYFLSWVRQTPEKRLELVATINSNGDKTY
+HPDTMKGRFTISRDNAKNTLYLQMSSLKSEDTALYYCARDSSASLDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1h5bA
+structure:1h5bA:    3: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+QVEQSPSALSLHEGTDSALRCNFTTTMRS-VQWFRQNSGSLISLFYLASGTKENGRLKSAFDSERARYSTLHIRD
+AQLEDSGTYFCAAEASSGSFGSGTQLTV-------------*
+
+>P1;1h8nA
+structure:1h8nA:    2: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSHKFMSTSVGDRVSITCKASQDVGTAVAWYQQKPGQSPKLLIYWASTRHTGVPDRFTGSGSGTDFTLTISN
+VQSEDLADYFCQQSSYPLTFGAGTKLELQ------------*
+
+>P1;3hfmH
+structure:3hfmH:    1: :  113: :::-1.00:-1.00
+----------------DVQLQESGPSLVKPSQTLSLTCSVTGDSITSDYWSWIRKFPGNRLEYMGYVSYSGS-TY
+YNPSLKSRISITRDTSKNQYYLDLNSVTTEDTATYYCA-NWDG--DYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1hilB
+structure:1hilB:    1: :  120: :::-1.00:-1.00
+----------------EVQLVESGGDLVKPGGSLKLSCAASGFSFSSYGMSWVRQTPDKRLEWVATISNGGGYTY
+YPDSVKGRFTISRDNAKNTLYLQMSSLKSEDSAMYYCARRYDENFAYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;2hmiC
+structure:2hmiC:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQTTSSLSASLGDRVTISCSASQDISSYLNWYQQKPEGTVKLLIYYTSSLHSGVPSAFSGSGSGTDYSLTISN
+LEPEDFATYYCQQSKFPWTFGGGTKLEIKRAD---------*
+
+>P1;2hmiD
+structure:2hmiD:    1: :  123: :::-1.00:-1.00
+----------------QITLKESGPGIVQPSQPFRLTCTFSGFSLSTSGIGWIRQPSGKGLEWLATIWWDDDNR-
+YNPSLKSRLTVSKDTSNNQAFLNMMTVETADTAIYYCAQSAITSMDHWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;2hrpL
+structure:2hrpL:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DT
+VLTQSPASLAVSLGQRATISCRASESVKSFMNWFQQKPGQPPKLLIYAASNQGSGVPARFSGSGSGTDFSLHIHP
+MEEDDSAMYFCQQSEVPWTFGGGTKLEIKRAD---------*
+
+>P1;2hrpH
+structure:2hrpH:    1: :  125: :::-1.00:-1.00
+----------------DVQLVESGGGLVQPGGSRKLSCAASGFTFMRFGMHWVRQAPEKGLEWVAYISSGSSTIY
+YADTVKGRFTISRDNPKNTLFLQMTSLRSEDTALYYCARSYDGTMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1hxmA
+structure:1hxmA:   13: :  117: :::-1.00:-1.00
+---------------------------VSIGVPATLRCSMKGEAIGNYYINWYRKTQGNTMTFI-----YREKDI
+YGPGFKDNFQGDIDIAKNLAVLKILAPSERDEGSYYCACDTLGGGEYFGKGTRVTV-------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1hxmB
+structure:1hxmB:   20: :  122: :::-1.00:-1.00
+----------------------------------RLECVVSGITISATSVYWYRERPGEVIQFLVSISYDGTVRK
+ESGIPSGKFEVDRIPETSTSTLTIHNVEKQDIATYYCAQELGKKIKVFGPGTKLIIT------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1hyxL
+structure:1hyxL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EL
+VMTQTPLSLPVSLGDQASISCRSSQTIDTYLDWFLQKPGQSPKLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYYCQGSHVPPTFGGGTKLEIKRAD---------*
+
+>P1;1hyxH
+structure:1hyxH:    1: :  122: :::-1.00:-1.00
+----------------EVKLLESGGGLVKPGGSLKLSCAASGFTFSNYAMSWVRQTPEKRLEWVVSIS-SGGSIY
+YLDSVKGRFTVSRDNARNILYLQMTSLRSEDTAMYFCARHYDGSRDWWGAGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1hzhH
+structure:1hzhH:    1: :  234: :::-1.00:-1.00
+----------------QVQLVQSGAEVKKPGASVKVSCQASGYRFSNFVIHWVRQAPGQRFEWMGWINYNGNKEF
+SA-KFQDRVTFTADTSANTAYMELRSLRSADTAVYYCAR--VGYMDVWGKGTTVIVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKAEPKSCD-KTH-----*
+
+>P1;1n0xL
+structure:1n0xL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EI
+VLTQSPGTLSLSPGERATFSCRSSHSISRRVAWYQHKPGQAPRLVIHGVSNRASGISDRFSGSGSGTDFTLTITR
+VEPEDFALYYCQVYGASSTFGQGTKLERKRT----------*
+
+>P1;1i3gL
+structure:1i3gL:    1: :  106: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSHKFMSTSVGDRVSITCKASQDVGTAVAWYQQKPGQSPKLLIYWASTRHTGVPDRFTGSGSGTDFTLTISN
+VQSEDLADYFCQQSSYPLTFGAGTKLEL-------------*
+
+>P1;1i3gH
+structure:1i3gH:    1: :  111: :::-1.00:-1.00
+----------------QVQLQQPGAELVRPGASVKLSCKASGYTFTSYWINWVKQRPGQGLEWIGNIYPSDSYTN
+YNQKFKDKATLTVDKSSSTAYMQLSSLTSEDSAVYFCAR-----WGYWGQGTLVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1i3uA
+structure:1i3uA:    1: :  126: :::-1.00:-1.00
+-----------------VQLQESGGGLVQAGDSLKLSCEASGDSIGTYVIGWFRQAPGKERIYLATIGRNLVGTR
+YADSVKGRFAVSRDNAKNTVNLQMNSLKPEDTAVYYCAAKTTNNWNYWGQGTQVTV-------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1i7zA
+structure:1i7zA:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DL
+VLTQSPASLAVSLGQRATISCRASKSVSNYMHWYQQKPGQPPKLLIYLASNLASGVPARFSGSGSGTDFTLNIHP
+VEEEDAATYYCLYSRPPWTFGGGTKLEIKRT----------*
+
+>P1;1i7zB
+structure:1i7zB:    1: :  218: :::-1.00:-1.00
+----------------QVQLQQSGPELKKPGETVKISCKTSGYSFTNYGMNWVKQAPGKGLKWMGWITYTGEPT-
+YADDFRGRFAFSLATSASTAYLQIINLKNEDTATYFC-ETYDSPLDYWGQGTTVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1i8kA
+structure:1i8kA:    1: :  106: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+ELTQSPASLSVATGEKVTIRCMTSTDIDDDMNWYQQKPGEPPKFLISEGNTLRPGVPSRFSSSGTGTDFVFTIEN
+TLSEDVGDYYCLQSNVPLTFGCGTKLEI-------------*
+
+>P1;1i8kB
+structure:1i8kB:    1: :  119: :::-1.00:-1.00
+----------------QVKLQQSGGGLVKPGASLKLSCVTSGFTFRKFGMSWVRQTSDKCLEWVASISTGGYNTY
+YSDNVKGRFTISRENAKNTLYLQMSSLKSEDTALYYCTRGYSSTMDYWGQGTTVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1p7kL
+structure:1p7kL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EL
+QMTQSPASLSASVGETVTITCRASENIYSYLAWYQQKQGKSPQLLVYNAKTLAEGVPSRFSGSGSGTQFSLKINS
+LQPEDFGSYYCQHHGTPLTFGAGTKLELKRAD---------*
+
+>P1;1p7kH
+structure:1p7kH:    1: :  120: :::-1.00:-1.00
+----------------QVKLLESGPELVKPGASVKMSCKASGYTFTSYVMHWVKQKPGQGLEWIGYINPYNDGTK
+YNEKFKGKATLTSDKSSSTAYMELSSLTSEDSAVYYCVRPYYA-MDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1i9eA
+structure:1i9eA:    3: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VTQPDARVTVSEGASLQLRCKYSYSATPYLFWYVQYPRQGLQLLLYSGDPVVQGVEAEFSKSNS--SFHLRKAS
+VHWSDSAVYFCAVSGFASTFGSGTKV---------------*
+
+>P1;1l7tH
+structure:1l7tH:    1: :  118: :::-1.00:-1.00
+----------------EVKLVESGGGLVKPGGSLKLSCAASGFTFSRYALSWVRQTADKRLEWVASI-VSGGNTY
+YSGSVKGRFTISRDIARNILYLQMSSLRSEDTAMYYCARAYYGGLVHWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1i9rH
+structure:1i9rH:    1: :  219: :::-1.00:-1.00
+----------------QVQLVQSGAEVVKPGASVKLSCKASGYIFTSYYMYWVKQAPGQGLEWIGEINPSNGDTN
+FNEKFKSKATLTVDKSASTAYMELSSLRSEDTAVYYCTRDGRNDMDSWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1i9rL
+structure:1i9rL:    1: :  113: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPATLSVSPGERATISCRASQRVSSYMHWYQQKPGQPPKLLIKYASNLESGVPARFSGSGSGTDFTLTISS
+VEPEDFATYYCQHSEIPPTFGGGTKLEIKRT----------*
+
+>P1;1iaiL
+structure:1iaiL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSHKFMSTSVGDRVSITCKASQDVSTAVAWYQQKPGQSPKLLIYSASYQYTGVPDRFTGSGSRTDFTFTINS
+VQAEDLAVYYCHQHSTPFTFGSGTKLEIKRAD---------*
+
+>P1;1iaiH
+structure:1iaiH:    1: :  121: :::-1.00:-1.00
+----------------QIQLVQSGPELKKPGETVKISCKASGYTFTNYGMNWVKQAPGKGLKWMAWITYTGEPT-
+YADDFKGRFAFSLETSASTAYLQINNLKNEDTATYFCARDYYENMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ibgL
+structure:1ibgL:    1: :  113: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+VLTQSPASLAVSLGQRATISCRASKSVSSHIHWYQQKPGQPPKLLIYLASILESGVPARFSGSGSGTDFTLNIHP
+VEEEDAATYYCQHSEYPLTFGAGTELELKRAD---------*
+
+>P1;1ibgH
+structure:1ibgH:    1: :  170: :::-1.00:-1.00
+-----------------VHLVQSGPGLVAPSQSLSITCTVSGFSLTTYGVHWFRQPPGKGLEWL-GLIWAGGNTD
+YNSALMSRLSINKDNSKSQVFLKMNSLQADDTAMYYCARDYA--VDYWGQGTSVTVSSAGCGDTTGSSVTSGEPV
+TVTWNSGSLSSSV--------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1iehA
+structure:1iehA:    1: :  117: :::-1.00:-1.00
+----------------DVQLQASGGGLVQPGGSLRVSCAASGFTFSSYHMAWVRQAPGKGLEWVSTINPGDGSTY
+YADSVKGRFTISRDNAKNTLYLQMNSLKSEDTAVYYCAKYSGGALDAWGQGTQVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1uywL
+structure:1uywL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------NI
+VMTQSPKSMSMSVGERVTLTCKASENVVTYVSWYQQKPEQSPKLLIYGASNRYTGVPDRFTGSGSATDFTLTISS
+VQAEDLADYHCGQGSYPYTFGGGTKLELKRAD---------*
+
+>P1;1igcH
+structure:1igcH:    1: :  120: :::-1.00:-1.00
+----------------DVQLVESGGGLVQPGGSRKLSCAASGFTFSSFGMHWVRQAPEKGLEWVAYISSGSSTLH
+YADTVKGRFTISRDNPKNTLFLQMTSLRSEDTGMYYCAR--WGNMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1igfH
+structure:1igfH:    1: :  119: :::-1.00:-1.00
+----------------EVQLVESGGDLVKPGGSLKLSCAASGFTFSRCAMSWVRQTPEKRLEWVAGISSGGSYTF
+YPDTVKGRFIISRNNARNTLSLQMSSLRSEDTAIYYCTR-YSSDFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1igjB
+structure:1igjB:    1: :  118: :::-1.00:-1.00
+-----------------VQLQQSGPELVKPGASVRMSCKSSGYIFTDFYMNWVRQSHGKSLDYIGYISYSGV-TG
+YNQKFKGKATLTVDKSSSTAYMELRSLTSEDSAVYYCAGS-SGNMDYWGHGASVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1igmL
+structure:1igmL:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCQASQDISNYLAWYQQKPGKAPELRIYDASNLETGVPSRFSGSGSGTDFTFTISS
+LQPEDIATYYCQQQNLPLTFGPGTKVDIKRT----------*
+
+>P1;1igmH
+structure:1igmH:    1: :  126: :::-1.00:-1.00
+----------------EVHLLESGGNLVQPGGSLRLSCAASGFTFNIFVMSWVRQAPGKGLEWVSGVFGSGGNTD
+YADAVKGRFTITRDNSKNTLYLQMNSLRAEDTAIYYCAKHRVSGFDSWGQGTLVTVSSGSASA------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1rjlA
+structure:1rjlA:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMNQSPSSLSASLGDTITITCHASQNINVWLNWFQQKPGSIPKLLIYMASNLHTGVPSRFSGSGSGTGFTLTISS
+LQPEDIATYYCQQGQSPLTFGGGTKLEIKRAD---------*
+
+>P1;1igtB
+structure:1igtB:    1: :  118: :::-1.00:-1.00
+----------------EVKLQESGGGLVQPGGSLKLSCATSGFTFSDYYMYWVRQTPEKRLEWVAYISNGGGSTY
+YPDTVKGRFTISRDNAKNTLYLQMSRLKSEDTAMYYCARGYYA-MDYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1igyB
+structure:1igyB:    1: :  114: :::-1.00:-1.00
+-----------------VKLQESGAELARPGASVKMSCKASGYTFTTYTIHWIKQRPGQGLEWIGYINPSSVYTN
+YNQRFKDKATLTRDRSSNTANIHLSSLTSDDSAVYYCVRE--GEVPYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ikfH
+structure:1ikfH:    1: :  126: :::-1.00:-1.00
+----------------EVKLVESGGGLVQPGGSLKLSCATSGFTFSDYYMYWVRQNSEKRLEWVAFISNGGGSAF
+YADIVKGRFTISRDNAKNTLYLQMSRLKSEDTAMYYCTRHTLYDTLYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1il1A
+structure:1il1A:    1: :  119: :::-1.00:-1.00
+------------------QLQQSGAELVRSGASVKLSCATSDFNIKDYYIHWVRQRPEQGLEWIGWLDPENGDTE
+SAPKFQGKATMTADTSSNTAYLQLSSLTSEASAVYYCTRDYYA-LDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1sbsL
+structure:1sbsL:    1: :  116: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMSQSPSSLAVSVGEKVTMTCKSSQSLMNYLAWYQQKPGQSPKLLIYWASTRESGVPDRFTGSGSGTDFTLTISS
+VEAEDLAVYYCQQYHSPFTFGSGTKLEIKRAD---------*
+
+>P1;2imn
+structure:2imn:    1: :  113: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSPSSLSVSAGERVTMSCKSSQSLKNFLAWYQQKPGQPPKLLIYGASTRESGVPDRFTGSGSGTDFTLTISS
+VQAEDLAVYYCQNDHSPLTFGAGTKLELKR-----------*
+
+>P1;1indH
+structure:1indH:    1: :  114: :::-1.00:-1.00
+----------------EVTLVESGGDSVKPGGSLKLSCAASGFTLSGETMSWVRQTPEKRLEWVATTLSGGGFTF
+YSASVKGRFTISRDNAQNNLYLQLNSLRSEDTALYFCASH---RFVHWGHGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1iqdA
+structure:1iqdA:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+ALTQSPGTLSLSPGERATLSCRASQSFSSYLAWYQQKPGQAPRLLIYGASTRATGIPDRFSGSGSGTDFTLTISR
+LEPEDFAVYYCQKYGTSATFGQGTRLEIKGT----------*
+
+>P1;1iqdB
+structure:1iqdB:    1: :  117: :::-1.00:-1.00
+----------------QVQLVQSGAEVKKPGASVKVSCKVSGYTLTELPVHWVRQAPGKGLEWVGSFDPESGESI
+YAREFQGSVTMTADTSTNIAYMELSSLRSDDTAVYYCAVPDPDAFDIWGQGTMVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1iqwH
+structure:1iqwH:    1: :  121: :::-1.00:-1.00
+----------------QVQLQQPGAELVKPGASVKLSCKASGYTFTSYWMQWVKQRPGQGLEWIGEIDPSDSYTN
+YNQKFKGKATLTVDTSSSTAYMQLSSLTSEDSAVYYCARDYSNNFDVWGTGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1it9L
+structure:1it9L:    1: :  113: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EI
+VLTQSPGTLSLSPGERATLSCKASQSVDSYMNWYQQKPGQAPRLLIYAASNLESGIPDRFSGSGSGTDFTLTISR
+LEPEDFAVYYCQQSEDPRTFGQGTKLEIKRT----------*
+
+>P1;1it9H
+structure:1it9H:    1: :  218: :::-1.00:-1.00
+----------------QVQLVQSGAEVKKPGASVKVSCKASGYTFTSYWMQWVKQAPGQGLEWMGEIDPSDSYTN
+YNQKFKGKATLTVDTSTSTAYMELSSLRSEDTAVYYCARDYSNNFDVWGEGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPS----NTKVDKK------------*
+
+>P1;1ivlA
+structure:1ivlA:    1: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+ELTQSPATLSVTPGNSVSISCRASQSIGNRLFWYQQKSHESPRLLIKYASQSISGIPSRFSGSGSGTDFTLSINS
+VETEDLAVYFCQQSEWPFTFGGGTKLEIK------------*
+
+>P1;2jelL
+structure:2jelL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+LMTQTPLSLPVSLGDQASISCRSSQSINTYLEWYLQKPGQSPKLLIYKISNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYYCQGSHVPYTFGGGTKLEIKRAD---------*
+
+>P1;2jelH
+structure:2jelH:    1: :  138: :::-1.00:-1.00
+----------------QVQLAQSGPELVRPGVSVKISCKGSGYTFTTYAMHWVKQSHAKSLEWIGLISTYSGYTN
+YNQKFKGKATMTVDKSSSTAYMELARLTSEDSAIYYCAR-VMGEFDVWGAGTTVIVSSAAPGSGGQGN-------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1jglH
+structure:1jglH:    1: :  111: :::-1.00:-1.00
+----------------QIQLVQSGPELKKPGETVRISCKASDYMTS--GMQWVQQMPGKGLKWIGWLNTQSGVPE
+YAEDFKGRFAFSLE---TTAYLQINNLKNEDTATYFCA-TWGGNSAYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1jguH
+structure:1jguH:    1: :  118: :::-1.00:-1.00
+----------------EVKLVESRGGLVKPGGSLQLSCAASGFTFSGYAMSWFRLTPEKRLEWVASI-YNGFRIH
+YLDSVKGRFTISSDYARNILYLQMSTLRSEDTAMYYCSRGYSRYFDVWGAGTTVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1jhlL
+structure:1jhlL:    1: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+ELTQSPSYLVASPGETITINCRASKSISKSLAWYQEKPGKTNNLLIYSGSTLQSGIPSRFSGSGSGTDFTLTISS
+LEPEDFAMYICQQNEYPWTFGGGTKLEIKR-----------*
+
+>P1;1jhlH
+structure:1jhlH:    1: :  116: :::-1.00:-1.00
+----------------QVQLQQSGAELVRPGASVKLSCKASGYTFISYWINWVKQRPGQGLEWIGNIYPSDSYTN
+YNQKFKDKATLTVDKSSSTAYMQLSSPTSEDSAVYYCTRDNYGAMDYWGQGTTVTV-------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1jn6A
+structure:1jn6A:    8: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+------SALTTSPGETVTLTCRSSSTTSHYANWIQEKPDHLFTGLISGTNNRAPGVPARFSGSLIGDKAALTITG
+AQTEDEAIYICAWFSNQFIFGSGTKVTVK------------*
+
+>P1;1jn6B
+structure:1jn6B:    1: :  119: :::-1.00:-1.00
+----------------EVQLQQSGAELARPGASVKLSCRTSGYSFTTYWMQWVRQRPGQGLEWIAAIYPGDDDAR
+YTQKFKGKATLTADRSSSIVYLQLNSLTSEDSAVYSCSRSLYYTMDYWGQGTSVTVTT-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1jnlL
+structure:1jnlL:    2: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+VMTQTPASLSASVGETVTITCRASGNIYNYLAWYQQKQGKSPQLLVYNAKTLVDGVPLRFSGSGSGTQYSLKINS
+LQPEDFGNYYCHHFNTPYTFGGGTKLEIKRAD---------*
+
+>P1;1jnlH
+structure:1jnlH:    1: :  113: :::-1.00:-1.00
+----------------EVQLQQSGAELVKPGASVRLSCSASGFNIKDTYMFWVKQRPEQGLDWIGRINPANGISK
+YDPRFQGKATLTADTSSNTAYLQLDNLTSEDTAVYYCAIE--KDLP-WGQGTLVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1svzA
+structure:1svzA:    1: :  124: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+LMTQTPLYLPVSLGDQASISCRSSQTINTYLEWYLQKPGQSPQLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGIYYCQGSHFPPTFGGGTKLEIKEVQLQQSGPELK*
+
+>P1;1jpsL
+structure:1jpsL:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCRASRDIKSYLNWYQQKPGKAPKVLIYYATSLAEGVPSRFSGSGSGTDYTLTISS
+LQPEDFATYYCQHGESPWTFGQGTKVEIKRT----------*
+
+>P1;1jpsH
+structure:1jpsH:    1: :  212: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGGSLRLSCAASGFNIKEYYMHWVRQAPGKGLEWVGLIDPEQGNTI
+YDPKFQDRATISADNSKNTAYLQMNSLRAEDTAVYYCARDTAAYFDYWGQGTLVTVSSAS---------------
+--TKGPSPLAPSSGGTAALGC----LVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVE--------------*
+
+>P1;1jrhL
+structure:1jrhL:    2: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------V
+EMTQSPSSFSVSLGDRVTITCKASEDIYNRLAWYQQKPGNAPRLLISGATSLETEVPSRFSGSGSGKDYTLSITS
+LQTEDVATYYCQQYWSTWTFGGGTKLEIKRAD---------*
+
+>P1;1jrhH
+structure:1jrhH:    2: :  122: :::-1.00:-1.00
+-----------------VKLQESGPGILKPSQTLSLTCSFSGFSLTTYGMGWIRQSSGKGLEWLAHIWWD-DDKY
+YNPSLKSRLTISKDTSRNQVFLKITSVATADTATYYCARPFYGNMDYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1xfpA
+structure:1xfpA:    1: :  131: :::-1.00:-1.00
+-----------------VQLQASGGGSVQAGGSLRLSCAASGYTIGPYCMGWFRQAPGKEREGVAAINSGGGSTY
+YADSVKGRFTISQDNAKNTVYLLMNSLEPEDTAIYYCAADYASGYDSWGQGTQVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1jv5B
+structure:1jv5B:    1: :  117: :::-1.00:-1.00
+----------------QVQLQQPGAELVKPGTSVKLSCKASGYNFTSYWINWVKLRPGQGLEWIGDI-YPGSGTN
+YNEKFKSKATLTVDTSSSTAYMQLSSLASEDSALYYCAGQY-GNLAYWGQGTLVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1jvkA
+structure:1jvkA:    3: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQ-PASVSGSPGQSITVSCTGVSSIGSYVSWYQQHPGKAPKLLTYEVNKRPSGVSDRFSGSKSGNSASLTISG
+LQAEDEADYYCSSYDGSSTFGGGTKLTV-------------*
+
+>P1;1kb5A
+structure:1kb5A:    2: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+QVRQSPQSLTVWEGETAILNCSYEDSTFNYFPWYQQFPGEGPALLISIRSVSDKKEDGRFTFNKREKKLSLHITD
+SQPGDSATYFCYQGGRALIFGTGTTVSV-------------*
+
+>P1;1kb5H
+structure:1kb5H:    1: :  119: :::-1.00:-1.00
+----------------EVQLQQSGPELEKPGASVKISCKASGYSFTGYNMNWVKQSNGKSLEWIGNIDPYYGGIS
+YNQKFKGRATLTVDKSSSTAYMQLKSLTSEDSAVYYCARSRTDYFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1kcrL
+structure:1kcrL:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPKSMSMSVGERVTLSCKASENVGTYVSWYQQKPEQSPKLLIYGASNRYTGVPDRFTGSGSATDFTLKISS
+VQAEDLADYHCGQTYSYPTFGGGTKLAIKRAD---------*
+
+>P1;1kcrH
+structure:1kcrH:    1: :  116: :::-1.00:-1.00
+----------------QVALQESGPGLVKPSQSLSLTCTVTGYSISDYAWNWIRQFPGNKLEWM-GYIRNGGSTT
+YNPSLASRISITRDTSKNQFFLQLNSVTTEDTATYYCARGGTG-FTYWGAGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1kcvL
+structure:1kcvL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSPKSMGMSVGEAVTLNCKASENVGTYVSWYQQKPGQSPVLLIYGASNRYTGVPDRFTGSGSATDFTLTISS
+VQADDDADYYCGQSSSPLTFGGGTKLELKRAD---------*
+
+>P1;1kcvH
+structure:1kcvH:    1: :  116: :::-1.00:-1.00
+----------------QVTLSQSGPGLVKPSQSLSLTCTVTSYSISDYAWNWIRQFAGQSLEWMGYISYSGS-TS
+YNPSLKSRISITRDTSKNQFFLQLNSVTTDDTATYYCARGGTG-FPYWGTGTNVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1kcuL
+structure:1kcuL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPKSMSMSVGEKVTLSCKASENVDTYVSWYQQRPEQPPALLIYGASNRYTGVPDRFTGSGSATDFTLTISS
+VQAEDLADYHCGQSSYPLTFGGGTKLELKRAD---------*
+
+>P1;1kcuH
+structure:1kcuH:    1: :  116: :::-1.00:-1.00
+----------------QVKLQQSGPGLVKPSQSLSLTCTVTGYSISDYAWNWIRQFPGNKLEWMAYISYSGS-TT
+YNPSLKSRISITRDTSKNQFFLQLNSVTTEDTAIYYCARGGTG-FDYWGAGTTLTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1kelH
+structure:1kelH:    1: :  119: :::-1.00:-1.00
+----------------EVKLVESGGGLGQPGGSLRLSCATSGFTFTDYYFNWARQPPGKALEWLGFIRNKAKGTE
+YSASVKGRFTISRDNSQGILYLQMNTLRAEDSATYYCARWGSYAMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1kenL
+structure:1kenL:    2: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+VLTQSPAIMSASPGEKVTLTCSASSTISSFLYWYQQKPGSSPKLWIYSTSNLASGVPARFSGSGSGTSYSLTISS
+LEAEDGASYFCHQWETPRTFGGGTKLEIKRAD---------*
+
+>P1;1kenH
+structure:1kenH:    1: :  120: :::-1.00:-1.00
+----------------DVHLQESGPGLVKPSQSLSLTCYVTGYSISGYYWTWIRQFPGNKLEWMGYISYDGSNN-
+YNPSLKNRISITRDTSKNQFFLKLNSVTAEDTASYYCAADYDFFFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1kfaL
+structure:1kfaL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+VMTQTPLSLSVSLGDQASISCRSSQSLNTYLHWYLQKPGQSPKLLIYKVSSRFSGFPDRFSGSGSGTDFTLKISR
+VEAEDLGVYFCSQSHVPFTFGSGTKLEIKRAD---------*
+
+>P1;1kfaH
+structure:1kfaH:    1: :  119: :::-1.00:-1.00
+-----------------VMLVESGGGLVKPGGSLKLSCAASGFTFSSYAMSWVRQTPERRLEWVATITTRGY-TF
+YPDSVKGRFTVSRDNARNTLNLQMSSLRSEDTAMFYCTRDYF-TMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1kgcD
+structure:1kgcD:    2: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+--TTQPNSMESNEEEPVHLPCNHSTSGTDYIHWYRQLPSQGPEYVIH---GLTSNVNNRMASLAIAEDSTLILHR
+ATLRDAAVYYCGTSYGKLTFGQGTILTV-------------*
+
+>P1;1kgcE
+structure:1kgcE:    2: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VSQSPRYKVAKRGQDVALRC---DPISGHVSWYQQALGQGPEFLTYFQNEAQSGLPSDFAERPEGSVSTLKIQR
+TQQEDSAVYLCASSAYEQYFGPGTRLTV-------------*
+
+>P1;1yejH
+structure:1yejH:    1: :  123: :::-1.00:-1.00
+----------------EMQLQQSGAELLRPGTSVKLSCKTSGYIFTSYWIHWVKQRSGQGLEWIARI-YPGTGTY
+YNEKFKGKATLTADKSSSTAYMQLSTLKSEDSAVYFCTRDYV--MDYWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ktrL
+structure:1ktrL:    1: :  113: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+LMTQTPSSLPVSLGDQASISCRSSQSINTYLEWYLQKPGQSPKLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYYCQGSHVPFTFGSGTKLEIKR-----------*
+
+>P1;1ktrH
+structure:1ktrH:    1: :  114: :::-1.00:-1.00
+----------------QVQLQQSGPEDVKPGASVKISCKASGYTFTDYYMNWVKQSPGKGLEWIGDINPNNGGTS
+YNQKFKGRATLTVDKSSSTAYMELRSLTSEDSSVYYCESQ---SGAYWGQGTTVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ktkE
+structure:1ktkE:    4: :  117: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VSQHPSRVIAKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSAATYEQGVEKDLINHASLTLSTLTVTS
+AHPEDSSFYICSSSTDTQYFGPGTRLTV-------------*
+
+>P1;1ktkF
+structure:1ktkF:    1: :   97: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VSQHPSRVIAKSGTSVKIECRSLDFQATTMFWYRQFPKQSLMLMATSAGSKATGVEKKFINHASLTLSTLTVTS
+AHPEDSSFYICY-------FGPGTRLTV-------------*
+
+>P1;1kxqE
+structure:1kxqE:    1: :  120: :::-1.00:-1.00
+----------------QVQLVESGGGSVQAGGSLSLSCAASTYTDT---VGWFRQAPGKEREGVAAIYRRTGYTY
+SADSVKGRFTLSQDNNKNTVYLQMNSLKPEDTGIYYCATGNSVRLAYWGQGTQVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1kxtB
+structure:1kxtB:    1: :  123: :::-1.00:-1.00
+----------------QVQLVASGGGSVQAGGSLRLSCAAS--TFSSYPMGWYRQAPGKECELSARIFSDGSAN-
+YADSVKGRFTISRDNAANTAYLQMDSLKPEDTAVYYCAAPGSGKLNYWGQGTQVTV-------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1kxvC
+structure:1kxvC:    1: :  119: :::-1.00:-1.00
+-----------------VQLVESGGGTVPAGGSLRLSCAASGNTLCTYDMSWYRRAPGKGRDFVSGIDNDGT-TT
+YVDSVAGRFTISQGNAKNTAYLQMDSLKPDDTAMYYCKPSLRYGLPPWGQGTQVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1l7iL
+structure:1l7iL:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCKASQDVSIGVAWYQQKPGKAPKLLIYSASYRYTGVPSRFSGSGSGTDFTLTISS
+LQPEDFATYYCQQYYIPYTFGQGTKVEIKRT----------*
+
+>P1;1l7iH
+structure:1l7iH:    1: :  220: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGGSLRLSCAASGFTFTDYTMDWVRQAPGKGLEWVADVNPNSGGSI
+YNQRFKGRFTLSVDRSKNTLYLQMNSLRAEDTAVYYCARNLGPSFDYWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1l7tL
+structure:1l7tL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+VVTQTPLSLPVSLGDQASISCRSSEVINGYIEWYLQKPGQSPKLLIYKAYKRFPGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYYCFDGSTPPKFGGGTKLEIKRAD---------*
+
+>P1;1lilA
+structure:1lilA:    2: :  105: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+EVTQ-PPSLSVSPGQTARITCSGEKLGDAYVCWYQQRPGQSPVVVIYQDNRRPSGIPERFSGSSSGNTATLTISG
+TQTLDEADYYCQDSNASVVFGGGTKLTV-------------*
+
+>P1;1lk3L
+structure:1lk3L:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DT
+VLTQ-PPALTVSPGEKLTISCKASESVTSRMHWYQQKPGQQPKLLIYKASNLASGVPARFSGSGSGTDFTLTIDP
+VEADDTAIYFCQQSNGPLTFGAGTKLELKRAD---------*
+
+>P1;1lk3H
+structure:1lk3H:    1: :  119: :::-1.00:-1.00
+----------------QVNLLQSGAALVKPGASVKLSCKASGYTFTDFYIHWVKQSHGKSLEWIGYINPNSGYTN
+YNEKFKNKATLTVDKSTSTGYMELSRLTSEDSANYSCTRGVPGNFPYWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1lmkA
+structure:1lmkA:    1: :  238: :::-1.00:-1.00
+-----------------VQLQQSGTELMKPGRSLKISCKTTGYIFSNYWIEWVKQRPGHGLEWIGKILPGGGSNT
+YNDKFKGKATFTADTSSNIAYMQLSSLTSEDSAVYYCARDYYAYLDYWGQGTTVTVS----------SGGGGSDI
+ELTQSPLSLPVSLGDQASISCRSSQSLNTSLHWYLKKPGQSPKLLIYKVSTRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYFCSQSHVPFTFGSGTKLELK------------*
+
+>P1;1lo0X
+structure:1lo0X:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+LMTQTPLSLPVSLGDQVSIFCTSSQTINTYLEWYLQKPGQSPKLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VETEDLGIYYCQGSHFPLAFGAGTKLELKRAD---------*
+
+>P1;1lo0Y
+structure:1lo0Y:    1: :  118: :::-1.00:-1.00
+----------------EVKLVESGGGLVKPGGSLKLSCAASGFSFRNYGMSWVRQTPEKRLEWVASISYGGL-IY
+YPDSIKGRFTISRDIAQNILYLQMSSLRSEDTAMYHCIRSFLVWFTFWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1lo4H
+structure:1lo4H:    1: :  118: :::-1.00:-1.00
+----------------ELKLVETGGDLVKPGGSLTLSCEASGFTLRTYGMSWVRQTPQMRLEWVASISYGGL-LY
+FSDSVKGRFTISRDIVRNILTLQMSRLRSEDTAIYYCARSFVRYFDVWGAGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1lp9E
+structure:1lp9E:    4: :  112: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VTQTEGLVTLTEGLPVMLNCTYQSTYSPFLFWYVQHLNEAPKLLLKSFTDNKRPEHQGFHATKSSSSFHLQKSS
+AQLSDSALYYCSSSFSKLVFGQGTSLSV-------------*
+
+>P1;1lp9F
+structure:1lp9F:    4: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VTQSPRSKVAVTGGKVTLSCHQTNN-HDYMYWYRQDTGHGLRLISYVADSTEKGIPDGYKASPSQENFSLILEL
+ASLSQTAVYFCASSDWVSYFGPGTRLTV-------------*
+
+>P1;1maj
+structure:1maj:    1: :  113: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+VMTQTPLSLPVSLGDQASISCRSSQSLNTYLNWYLQKAGQSPKLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGIYFCSQTHVPPTFGGGTKLEIKR-----------*
+
+>P1;1mamH
+structure:1mamH:    1: :  119: :::-1.00:-1.00
+----------------EVKLVESGGGLVQPGGSLRLSCATSGFTFTDYYMSWVRQPPGKALEWLGFIRNKADGTE
+YSASVKGRFTISRDNSQSILYLQMNTLRAEDSATYYCTRDPYGPAAYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mcoH
+structure:1mcoH:    4: :  207: :::-1.00:-1.00
+-------------------LQESGPGLVKPSEALSLTCTVSGDSINLYYWSWIRQPPGKGLEWIGYIYYSGS-TY
+GNPSLKSRVTISVNTSKNQFYSKLSSVTAADTAVYYCARVPL-VVNPWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTS-GGTAALGCLVK-------DYFPQ-----PVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPS-----------------------*
+
+>P1;1mcpL
+structure:1mcpL:    1: :  116: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSPSSLSVSAGERVTMSCKSSQSLKNFLAWYQQKPGQPPKLLIYGASTRESGVPDRFTGSGSGTDFTLTISS
+VQAEDLAVYYCQNDHSPLTFGAGTKLEIKRAD---------*
+
+>P1;1mcpH
+structure:1mcpH:    1: :  122: :::-1.00:-1.00
+----------------EVKLVESGGGLVQPGGSLRLSCATSGFTFSDFYMEWVRQPPGKRLEWIAASRNKGNTTE
+YSASVKGRFIVSRDTSQSILYLQMNALRAEDTAIYYCARNYYGSFDVWGAGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mcwW
+structure:1mcwW:    3: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQ-PASVSGSPGQSITVSCAGHTSDSNSISWFQQHPDKAPKLLIYAVTFRPSGIPLRFSGSKSGNTASLTISG
+LLPDDEADYFCMSSDASFVFGSGTKVTVLR-----------*
+
+>P1;1mexL
+structure:1mexL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSQKFMSTSLGNRVSVTCKASQNVGTNVAWFQQKPGQSPKTLIYSASYRYSGVPDRFTGSGSGTDFTLTINN
+VQSEDLAEYFCQQYNSPYTFGGGTKLEIKRAD---------*
+
+>P1;1mexH
+structure:1mexH:    1: :  114: :::-1.00:-1.00
+----------------QVQLQQSDAELVKPGASVKISCKASGYTFTDHAIHWVKQKP--GLEWIGYISPGNGDIK
+YNEKFKGKATLTADKSSSTAYMQLNSLTSEDSAVYFCKMEY---LDYWGQGTTLTVSSGG---------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mfa
+structure:1mfa:  110: :  230: :::-1.00:-1.00
+------------GQPGEVQVQQSGTVVARPGASVKMSCKASGYTFTNYWMHWIKQRPGQGLEWIGAIYPGNSATF
+YNHKFRAKTKLTAVTSTTTAYMELSSLTSEDSAVYYCTRGYYG--DYWGQGASLTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mfeL
+structure:1mfeL:    7: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+------SALTTSPGETVTLTCRSSTTSGNHANWVQEKPDHLFTGLIGDTNNRAPGVPARFSGSLIGDKAALTITG
+AQPEDEAIYFCAWCNNHWIFGGGTKLTV-------------*
+
+>P1;1mfeH
+structure:1mfeH:    1: :  117: :::-1.00:-1.00
+----------------EVQVQQSGTVLARPGASVKMSCKASGYTFTNYWMHWIKQRPG-GLEWIGAIYPGNSATF
+YNHKFRAKTKLTAVTSTITAYMELSSLTNEDSAVYYCTRGYYG--DYWGQGASLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1nlbL
+structure:1nlbL:    1: :  116: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMSQSPSSLAVSAGEKVTMSCKSSQSLKNYLAWYQQKPGQSPKVLIYWASTRESGVPDRFTGRGSGTDFTLTISS
+VQAEDQAVYYCKQAYIPPTFGAGTKLELKRAD---------*
+
+>P1;1nlbH
+structure:1nlbH:    1: :  118: :::-1.00:-1.00
+----------------QIQLVQSGPELKKPGETVKISCKASGYTFTDFSMHWVNQAPGKGLNWMGWVNTETGEPT
+YADDFKGRFAFSLETSASTAYLQINSLKNEDTATYFCARFLLRQFDVWGAGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mhpH
+structure:1mhpH:    1: :  219: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGGSLRLSCAASGFTFSRYTMSWVRQAPGKGLEWVATIS-GGGHTY
+YLDSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCTRGFGGYFDVWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1mhpL
+structure:1mhpL:    1: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+QLTQSPSSLSASVGDRVTITCSASSSV-NHMFWYQQKPGKAPKPWIYLTSNLASGVPSRFSGSGSGTDYTLTISS
+LQPEDFATYYCQQSGNPWTFGQGTKVEIKRT----------*
+
+>P1;1mhpX
+structure:1mhpX:    1: :  118: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGGSLRLSCAASGFTFSRYTMSWVRQAPGKGLEWVATIS-GGGHTY
+YLDSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCTRGFGGYFDVWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mhpY
+structure:1mhpY:    1: :  105: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+QLTQSPSSLSASVGDRVTITCSASSSV-NHMFWYQQKPGKAPKPWIYLTSNLASGVPSRFSGSGSGTDYTLTISS
+LQPEDFATYYCQQSGNPWTFGQGTKVEIK------------*
+
+>P1;1mj8H
+structure:1mj8H:    1: :  118: :::-1.00:-1.00
+-----------------VQLQQPGAELVKPGASVKLSCKASGYTFTSNWINWVKQRPGQGLEWIGNI-YPGSGTN
+YNERFKSKATLTVDTSSSTAYMQLSSLTSDDSAVYYCARKFYDGVVYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mimL
+structure:1mimL:    2: :  106: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+VSTQSPAIMSASPGEKVTMTCSASSS-RSYMQWYQQKPGTSPKRWIYDTSKLASGVPARFSGSGSGTSYSLTISS
+MEAEDAATYYCHQRSS-YTFGGGTKLEIKRT----------*
+
+>P1;1mimH
+structure:1mimH:    1: :  205: :::-1.00:-1.00
+------------------QLQQSGTVLARPGASVKMSCKASGYSFTRYWMHWIKQRPGQGLEWIGAIYPGNSDTS
+YNQKFEGKAKLTAVTSASTAYMELSSLTHEDSAVYYCSRDYGYYFDFWGQGTTLTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPS-----------------------*
+
+>P1;1mjuH
+structure:1mjuH:    1: :  115: :::-1.00:-1.00
+-----------------VQLQQPGAELVKPGASVKLSCKASGYTFTNYWINWVKQRPGQGLEWIGNIYPGSSYTH
+YNEKFKNKATLTVDTSSSTAYMQLSSLTSDDSAVYYCA-NKLGWFPYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mlbB
+structure:1mlbB:    1: :  116: :::-1.00:-1.00
+----------------QVQLQESGAEVMKPGASVKISCKATGYTFSTYWIEWVKQRPGHGLEWIGEILPGSGSTY
+YNEKFKGKATFTADTSSNTAYMQLSSLTSEDSAVYYCARG-DGNYGYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mnuH
+structure:1mnuH:    1: :  121: :::-1.00:-1.00
+----------------EVNLQQSGTVLARPGASVRMSCKASGYSFTSYWLHWIKQRPGQGLEWIGGIYPGNRDTR
+YTQRFKDKAKLTAVTSANTAYMELSSLTNEDSAVYYCSIIYFDYMDYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1moeA
+structure:1moeA:    1: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPASLAVSLGQRATMSCRAGESVDGFLHWYQQKPGQPPKLLIYRASNLESGIPVRFSGTGSRTDFTLIIDP
+VEADDVATYYCQQNEDPYTFGGGTKLEIK------------*
+
+>P1;1mrdH
+structure:1mrdH:    1: :  112: :::-1.00:-1.00
+-----------------VQLQQSGAELVKPGASVKLSCKASGYTFTSYWMQWVKQRPGQGLEWIGEIDPSDSYTN
+YNQKFKGKATLTVD---STAYMQLSSLTSEDSAVYYCA-NLRGYFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1mvfA
+structure:1mvfA:    1: :  126: :::-1.00:-1.00
+----------------QVQLVESGGGSVQAGGSLRLSCAASGFTYSRKYMGWFRQAPGKEREGVAAIFIDNGNTI
+YADSVQGRFTISQDNAKNTVYLQMNSLKPEDTAMYYCAMDYAKAYNSWGQGTQVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1nakL
+structure:1nakL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+VMTQSPVSLPVSLGDQASISCRSSQSLNTYLHWFLQKPGQSPKLLIYKVSNRFSGVPDRFSGSGSGTDFTFKISR
+VEAEDLGVYFCQTTHDPYTFGGGTKLEIKRAD---------*
+
+>P1;1nakH
+structure:1nakH:    1: :  113: :::-1.00:-1.00
+----------------EVQLQESGPSLVKPSQTLSLTCSVTGVSITSGYWNWIRKFPGNKFEYMGYISKSGS-AY
+YNPSLKSRISFTRDTSKNQFYLKLNSVTTEDTATYYCAID---DFDIWGAGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ncaL
+structure:1ncaL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSPKFMSTSVGDRVTITCKASQDVSTAVVWYQQKPGQSPKLLIYWASTRHIGVPDRFAGSGSGTDYTLTISS
+VQAEDLALYYCQQHYSPPTFGGGTKLEIKRAD---------*
+
+>P1;1ncaH
+structure:1ncaH:    1: :  120: :::-1.00:-1.00
+----------------QIQLVQSGPELKKPGETVKISCKASGYTFTNYGMNWVKQAPGKGLKWMGWINTNTGEPT
+YGEEFKGRFAFSLETSASTANLQINNLKNEDTATFFCARDNFGSLDYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ncwL
+structure:1ncwL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+VMTQSPKTISVTIGQPASISCKSSQRLKTFLNWLLQRPGQSPKRLIYLGTKLDSGVPDRFTGSGSGTDFTLKISR
+VEAEDLGVYYCQGTHFPYTFGGGTKLEIKRAD---------*
+
+>P1;1ncwH
+structure:1ncwH:    2: :  119: :::-1.00:-1.00
+-----------------VQLQQSGPGLVKPSQSLSLTCTVTGYSISDFAWNWIRQFPGNKLEWMGYINYSGF-TS
+HNPSLKSRISITRDTSKNQFFLQLNSVTTEDTATYYCALWYDGGAGSWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1nc2A
+structure:1nc2A:    8: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+------SALTTSPGETVTLTCRSSTTTSNYANWVQEKPDHLFTGLIGGNNNRPPGVPARFSGSLIGDKAALTIAG
+TQTEDEAIYFCAWYSNHWVFGGGTRLTV-------------*
+
+>P1;1nc2B
+structure:1nc2B:    1: :  118: :::-1.00:-1.00
+-----------------VKLQESGPGLVQPSQSLSITCTVSGFSLTDYGVHWVRQSPGKGLEWL-GVIWSGGGTA
+YTAAFISRLNIYKDNSKNQVFFEMNSLQANDTAMYYCARSYPYNFDVWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ndgB
+structure:1ndgB:    1: :  113: :::-1.00:-1.00
+----------------EVQLQESGPSLVKPSQTLSLTCSVTGDSIIRDYWSWIRKFPGNKLEYMGYISFSGN-TF
+YHPSLKSRISITRDTSKNQHYLQLSSVTTEDTATYYCA-----NWDYWGEGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1nfdA
+structure:1nfdA:    3: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VTQTEGLVTVTEGLPVKLNCTYQ---TTYLTWYVQYLNEAPQVLLKSSTDNKRTEHQGFHATKSSSSFHLQKSS
+AQLSDSALYYCALSEGGNVFGAGTRLKV-------------*
+
+>P1;1nfdB
+structure:1nfdB:    1: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DS
+GVVQSPRHIIKEKGGRSVLTC---IPISGHSNWYQQTLGKELKFLIYEKVERDKGLPSRFSVQ-QFDDYEMNMSA
+LELEDSAMYFCASSGDEQYFGPGTRLTV-------------*
+
+>P1;1nfdE
+structure:1nfdE:    6: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-----PSSASVTVGETVKITCSGDQLPKNFAYWFQQKSDKNILLLIYMDNKRPSGIPERFSGSTSGTTATLTISG
+AQPEDEAAYYCLSSNNDLVFGSGTQLTVLR-----------*
+
+>P1;1nfdF
+structure:1nfdF:    1: :  120: :::-1.00:-1.00
+----------------EVYLVESGGDLVQPGSSLKVSCAASGFTFSDFWMYWVRQAPGKGLEWVGRIKNNNYATE
+YADSVRGRFTISRDDSRNSIYLQMNRLRVDDTAIYYCTRGRFDHFDYWGQGTMVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ngpH
+structure:1ngpH:    1: :  120: :::-1.00:-1.00
+----------------QVQLQQPGAELVKPGASVKLSCKASGYTFTSYWMHWVKQRPGRGLEWIGRIDPNSGGTK
+YNEKFKSKATLTVDKPSSTAYMQLSSLTSEDSAVYYCARDYYGSFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1nj9L
+structure:1nj9L:    8: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+------SALTTSPGETVTLTCRSSTTSDNYANWVQEKPDHLFSGLIGVNNARPPGVPARFSGSLTGDKAVLTITG
+AQTEDEAIYFCAWYSNHWVFGGGTKLTV-------------*
+
+>P1;1nj9H
+structure:1nj9H:    1: :  116: :::-1.00:-1.00
+----------------EVQLQQSGPELVKPGASVKVSCKASGYSFTDYNMYWVKQNHGESLEWIAYIDPSNGDTF
+YNQKFQGKATVTLDKSSSTAFMHLNSLTSEDSAVYYCARG-GGLFAFWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1nldH
+structure:1nldH:    1: :  211: :::-1.00:-1.00
+----------------QVKLQQSGPGLVQPSQSLSITCTVSGFSLTCYGVHWVRQSPGKGLEWL-GVIWSGGDTD
+YNAAFISRLSITKDNSKSQVFFKMNSLQPNDRAIYYCAR---RGGDFWGQGTTVTVSSAS---------------
+--TTAPSPLAPVSGDQTNSSVTLGCLVKGYF--------PEPVTLTWNSGSLSSGVPAVLQSDLYTLSSSVTVTS
+-SPWPSETITCNVAHPASSTKVDKKIE--------------*
+
+>P1;1nl0L
+structure:1nl0L:    4: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQ-PPSVSAAPGQKVTISCSGSTSNNNYVSWYQQHPGKAPKLMIYDVSKRPSGVPDRFSGSKSGNSASLDISG
+LQSEDEADYYCAAWDSEFLFGTGTKLTV-------------*
+
+>P1;1nl0H
+structure:1nl0H:    2: :  216: :::-1.00:-1.00
+-----------------VQLVESGGGVVQPGRSLRLSCAASGFTFSTYAMHWVRQAPGKGLEWVAIISYDGSKKY
+YADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARASIAALDYWGRGTMVTVSS---------ASTKGPSV
+FPLAPTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVT-VPS----SSLGTQ-------
+-------TYICNVNHKPSNTKVDKKVEPKSCD---------*
+
+>P1;1nqbA
+structure:1nqbA:    1: :  232: :::-1.00:-1.00
+-----------------VQLQQSGAELVKPGASVKLSCKASGYTFTSYWMHWVKQRPGRGLEWIGRIDPNSGGTK
+YNEKFKSKATLTVDKPSSTAYMQLSSLTSEDSAVYYCARDYYGSFDYWGQGTTVTVS---------------SDI
+ELTQTPLSLPVSLGDQASISCRSSQSINTYLEWYLQKPGQSPKLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYYCQGSHVPYTFGGGTKLEIKR-----------*
+
+>P1;1nsnL
+structure:1nsnL:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPSSLAVSLGQRATISCRASQSVSTYMHWYQQKPGQPPRLLIKYASNLESGVPARFSGSGSGTDFTLNIHP
+VEEEDTATYYCQHSEIPYTFGGGTKLEIKRAD---------*
+
+>P1;1nsnH
+structure:1nsnH:    1: :  113: :::-1.00:-1.00
+----------------DVQLQESGPGLVKPSQSLSLTCTVTGYSISDYAWNWIRQFPGNKLEWMGYITYSGT-TS
+YNPSLKSRISISRDTSKNQFFMQLNSVTTEDTGTFYCTR---GNGD-WGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1oaqH
+structure:1oaqH:    1: :  120: :::-1.00:-1.00
+----------------EVQLQQSGAELVKPGASVKLSCKASGYTFTSYWMHWVKQRPGRGLEWIGRIDPNGGGTK
+YNEKFKSKATLTVDKPSSTAYMQLSSLTSEDSAVYYCARMYYGTFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1oarI
+structure:1oarI:    1: :   86: :::-1.00:-1.00
+-----------------------------PGASVKLSCKASGYTFTSYWMHWVKQR----LEWIGRI----DGTK
+YNEKFKSKATL----TVSTAYMQLSSL---DSAVYYCARMYYGTFDYWGQGT-----------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ob1B
+structure:1ob1B:    1: :  120: :::-1.00:-1.00
+----------------ELQLVQSGPQLKKPGETVRISCKASGYTFTTAGIQWVQRLPGKDLKWIGWINTHSGVPQ
+YADDFKGRFAFSLETSASTAFLQIINLKNEDTATYFCARNYYGGMDFWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ohqA
+structure:1ohqA:    1: :  120: :::-1.00:-1.00
+----------------EVQLLESGGGLVQPGGSLRLSCAASGFRISDEDMGWVRQAPGKGLEWVSSIYGPSGSTY
+YADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAEPLSEPLGFWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ol0A
+structure:1ol0A:    1: :  121: :::-1.00:-1.00
+----------------QVQLVESGGGLVQPGGSLRLSCAASGFTFSSYAMSWFRQAPGKEREIVSAVSGSGGSTY
+YADSVRGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARERPPSFDYWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1op3L
+structure:1op3L:    1: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------V
+VMTQSPSTLSASVGDTITITCRASQSIETWLAWYQQKPGKAPKLLIYKASTLKTGVPSRFSGSGSGTEFTLTISG
+LQFDDFATYHCQHAGYSATFGQGTRVEIKRT----------*
+
+>P1;1op3H
+structure:1op3H:    1: :  224: :::-1.00:-1.00
+----------------EVQLVESGGGLVKAGGSLILSCGVSNFRISAHTMNWVRRVPGGGLEWVASISTSSTYRD
+YADAVKGRFTVSRDDLEDFVYLQMHKMRVEDTAIYYCARKGSDRLDAWGPGTVVTVSP--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1op9A
+structure:1op9A:    1: :  121: :::-1.00:-1.00
+----------------QVQLQESGGGSVQAGGSLRLSCSASGYT---YISGWFRQAPGKEREGVAAIRSSDGTTY
+YADSVKGRFTISQDNAKNTVYLQMNSLKPEDTAMYYCAATEVGIYDYWGQGTEVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1orqB
+structure:1orqB:    1: :  118: :::-1.00:-1.00
+----------------DVQLQESGPGLVKPSQSLSLTCTVTGYSISLYAWNWIRQFPGNKLEWMGYINYSGY-TS
+YNPSLKSRISITRDTSKNQFFLQLHSVTTEDTATYSCTRDYFA-MDYWGQGASVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1orsB
+structure:1orsB:    1: :  118: :::-1.00:-1.00
+----------------DVQLQESGPGLVKPSQSLSLTCTVTGYSINNYAWNWIRQFPGNKLEWMGYINYSGT-TS
+YNPSLKSRISITRDTSKNQFFLQLNSVTTEDTATYFCVRGYYFAMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ospL
+structure:1ospL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMSQSSSSFSVSLGDRVTITCKASEDIYSRLAWYQQKPGNAPRLLISGATSLETWVPSRFSGSDSGKDYTLSITS
+LQTEDVATYFCQQYSPPPTFGGGTKLEIKRAD---------*
+
+>P1;1ospH
+structure:1ospH:    1: :  120: :::-1.00:-1.00
+----------------EVQLQESGPSLVKPSQTLSLTCSVTGEPITSGFWDWIRKFPGNKLEFMGYIRY-GGGTY
+YNPSLKSPISITRDTSKNHYYLQLNSVVTEDTATYYCARDYYGSFAFWGEGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1otsC
+structure:1otsC:    1: :  120: :::-1.00:-1.00
+-----------------VRLLESGGGLVQPGGSLKLSCAASGFDYSRYWMSWVRQAPGKGLKWIGEINPVSSTIN
+YTPSLKDKFIISRDNAKDTLYLQISKVRSEDTALYYCARLYYGYFDVWGAGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1otsD
+structure:1otsD:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPAIMSAAPGDKVTMTCSASSSV-SYIHWYQQKSGTSPKRWIYDTSKLTSGVPVRFSGSGSGTSYSLTINT
+MEAEDAATYYCQQSSHPQTFGGGTKLEILRAD---------*
+
+>P1;1p2cB
+structure:1p2cB:    1: :  160: :::-1.00:-1.00
+----------------EVQLQESGAELMKPGASVKISCKATGYTFTTYWIEWIKQRPGHSLEWIGEILPGSDSTY
+YNEKVKGKVTFTADASSNTAYMQLSSLTSEDSAVYYCARG-DGFYVYWGQGTTLTVSSAS---------------
+--TTPPSVYPLAPGSMVTLGC----LVKGYF--------PEPVTVTWNSGSLSSGV-------------------
+-----------------------------------------*
+
+>P1;2pcpB
+structure:2pcpB:    1: :  117: :::-1.00:-1.00
+----------------EVQLQQSGPELVKPGASVKMSCKASGYTFTDYYIHWNKQSHGKSLEWIGYIYPNNGGNG
+YNHKFKGKATLTVDKSSSTAYMDVRTLTSEDSAVYYCGRSTWDDFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1pg7W
+structure:1pg7W:    8: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+------SALTSSPGETVTLTCRSSTTTSNYANWVQEKPDHLFTGVIGGTNNRAPGVPARFSGSLIGDKAALTITG
+AQTEDEAIYFCAWYSNHWVFGGGTKLTV-------------*
+
+>P1;1pg7X
+structure:1pg7X:    1: :  120: :::-1.00:-1.00
+----------------EVQLQQSGPELVKPGASVKISCKASGYSFTGHLLNWVKQSHGKNLEWIGLVHPHNGAIT
+YNQKFKDKATLTVDRSSTTAYIELVRLTSNDSAVYYCAREYHYSMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1pkqA
+structure:1pkqA:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+ELTQSPSSLAVSAGEKVTMSCKSSQSLKNYLAWYQQKPGLPPKLLIYGASTRESGVPDRFTGSGSGTDFTLTISS
+VQAEDLAVYYCQNDHSPLTFGAGTKLEIKRT----------*
+
+>P1;1pkqB
+structure:1pkqB:    1: :  219: :::-1.00:-1.00
+----------------EVKLHESGAGLVKPGASVEISCKATGYTFSSFWIEWVKQRPGHGLEWIGEILPGRGRTN
+YNEKFKGKATFTAETSSNTAYMQLSSLTSEDSAVYYCATNTMVNMPYWGQGTTVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1plgH
+structure:1plgH:    1: :  117: :::-1.00:-1.00
+----------------QIQLQQSGPELVRPGASVKISCKASGYTFTDYYIHWVKQRPGEGLEWIGWI-YPGSGTK
+YNEKFKGKATLTVDTSSSTAYMQLSSLTSEDSAVYFCARGGKFAMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1pskL
+structure:1pskL:    2: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+VLTQSPAIMSASPGEKVTITCSASSSVSN-IHWFQQKPGTFPKLWIYSTSTLASGVPGRFSGSGSGTSYSLTISR
+MGAEDAATYYCQQSGYPFTFGSGTKLEIKRAD---------*
+
+>P1;1pskH
+structure:1pskH:    1: :  114: :::-1.00:-1.00
+----------------EVQLQQSGPELVKPGASVKISCKTSGYTFTKYTMHWVKQSHGKSLEWIGDINPNNGGTN
+YNQKFKGTATLTVHKSSTTAYMELRSLTSEDSAVYYCTSK---SFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1pz5B
+structure:1pz5B:    1: :  120: :::-1.00:-1.00
+----------------EVKVEESGGGLVQPGGSMKLSCVASGFTFSNYWMEWVRQSPEKGLEWVAEIRLKSNATH
+YAESVKGRFTISRDDSKSSVYLQMNNLRAEDTGIYYCTRGAVGAMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1wejH
+structure:1wejH:    1: :  117: :::-1.00:-1.00
+----------------EVQLQQSGAELVKPGASVKLSCTASGFNIKDTYMHWVKQRPEKGLEWIGRIDPASGNTK
+YDPKFQDKATITADTSSNTAYLQLSSLTSEDTAVYYCAGYDYGNFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1qd0A
+structure:1qd0A:    1: :  128: :::-1.00:-1.00
+----------------QVQLQESGGGLVQAGGSLRLSCAASGRAASHYGMGWFRQVPGKEREFVAAIRWSGKETW
+YKDSVKGRFTISRDNAKTTVYLQMNSLKGEDTAVYYCAARPVRGFDYWGQGTQVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1qfuH
+structure:1qfuH:    1: :  122: :::-1.00:-1.00
+----------------QVQLQQPGAELVRPGASVKLSCKASGYTLTTYWMNWFKQRPDQGLEWIGRIDPYDSETH
+YNQKFKDKAILTVDRSSSTAYMQLSSLTSEDSAVYYCTRTIIYGMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1qfwL
+structure:1qfwL:    1: :  112: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+ELTQSPDSLAVSLGQRATISCRASEDSNSFMQWYQQKPGQPPKLLIYRASNLESGIPARFSGTGSRTDFTLTINP
+VEADDVATYYCQQSDEMYTFGGGTKLEIKR-----------*
+
+>P1;1qfwH
+structure:1qfwH:    1: :  112: :::-1.00:-1.00
+------------------QLQQSGAELVKPGASVKLSCKASDYTFTSYWMHWVKQRPGQGLEWIGEINPTNGRTY
+YNEK-KATLTVAA--SASTAAMQASSLTSEDSAVYYCARRYGNSFDYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1qfwM
+structure:1qfwM:    1: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+ELTQSPKSMSMSVGERVTLSCKASETVDSFVSWYQQKPEQSPKLLIFGASNRFSGVPDRFTGSGSATDFTLTISS
+VQAEDFADYHCGQTNHPYTFGGGTKLEIKR-----------*
+
+>P1;1qfwI
+structure:1qfwI:    1: :  121: :::-1.00:-1.00
+----------------QVQLQESGGHLVKPGGSLKLSCAASGFAFSSFDMSWIRQTPEKRLEWVASITNVGTYTY
+YPGSVKGRFSISRDNARNTLNLQMSSLRSEDTALYFCARQGTAYFDVWGAGTTVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1qkzH
+structure:1qkzH:    1: :  119: :::-1.00:-1.00
+----------------DVKLVESGGGLVKPGRSLKLSCAASGFTFSDYYMFWVRQTPEQRLEWVATISDGGAYTY
+YPDSVKGRFTISRDNAKNNLYLQMNSLKSEDTGMYYCARDYYG-MDYWGQGTSVAVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1qnzL
+structure:1qnzL:    1: :  112: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPASLAVSLGQRATISCKASQSVDSYMNWYQQKPGQPPKLLIYAASNLESGIPARFSGSGSRTDFTLNIHP
+VEEEDAATYYCQQSEDPFTFGSGTKLEIKR-----------*
+
+>P1;1qnzH
+structure:1qnzH:    1: :  119: :::-1.00:-1.00
+----------------QVQLQQSGAELVKPGASVKMSCKASGYTFTTYPIEWMKQNHGKSLEWIGNFHPYSDDTN
+YNEKFKGKAKLTVEKSSSTVYLEFSRLTSDDSAVYYCAIHYAYAMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1qokA
+structure:1qokA:    1: :  227: :::-1.00:-1.00
+----------------QVKLQQSGAELVRSGTSVKLSCTASGFNIKDSYMHWLRQGPEQGLEWIGWIDPENGDTE
+YAPKFQGKATFTTDTSSNTAYLQLSSLTSEDTAVYYCNEGTPTGFDYWGQGTTVTVSSG--------------EN
+VLTQSPAIMSASPGEKVTITCSASSSV-SYMHWFQQKPGTSPKLWIYSTSNLASGVPARFSGSGSGTSYSLTISR
+MEAEDAATYYCQQSSYPLTFGAGTKLELK------------*
+
+>P1;1qrnD
+structure:1qrnD:    2: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+EVEQNSGPLSVPEGAIASLNCTYSDRGSQSFFWYRQYSGKSPELIIYSNGDKEDG---RFTANKASQYVSLLIRD
+SQPSDSATYLCTDSWGKLQFGAGTQVVV-------------*
+
+>P1;1q72L
+structure:1q72L:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQAAPSVPVTPGESVSISCRSSKSLYTYLHWFLQRPGQSPQLLIYRVSNLASGVPDRFSGSGSGTAFTLRFSR
+VEAEDVGVYYCMQHEYPFTFGSGTKLEIKRAD---------*
+
+>P1;1q72H
+structure:1q72H:    1: :  141: :::-1.00:-1.00
+----------------EVTLQESGGGLVQPGGSMKLSCAASGFTFSDAWVDWVRQSPGKGLEWVAEIKANNHATK
+YTESVKGRFTISRDDSKSSVYLQMNSLRAEDTGIYYCTSPQLGGFAYWGQGTLVTVSAAAPGSGGAGS-------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1r24A
+structure:1r24A:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQITSSLSVSLGDRVIISCRASQDIGNFLNWYQQKPDGSLKLLIYYTSRLQSGVPSRFSGWGSGTDYSLTISN
+LEEEDIATFFCQQGKTPYTFGGGTKLEIKRAD---------*
+
+>P1;1r24B
+structure:1r24B:    1: :  122: :::-1.00:-1.00
+----------------DVQLVESGGGLVQPGGSRKLSCAASGFTFSNFGMHWVRQAPEKGLEWVAYISSGGSSIN
+YADTVKGRFTISRDNPKNTLFLQMTSLRSEDTAIYYCTRGGTGTFDYWGQGATLIVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;2rhe
+structure:2rhe:    4: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQPPSA-SGTPGQRVTISCTGSATDSNSVIWYQQVPGKAPKLLIYYNDLLPSGVSDRFSASKSGTSASLAISG
+LESEDEADYYCDSLDEPG-FGGGTKLTV-------------*
+
+>P1;1rhhA
+structure:1rhhA:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EL
+VLTQSPGTLSLSAGERATLSCRASQSVSSSLAWYQQKPGQAPRLLIYGASTRATGIPDRFSGSGSGTDFTLTIGR
+LEPEDLAVYYCQQYGTPYTFGQGTKLEIKRT----------*
+
+>P1;1rhhB
+structure:1rhhB:    1: :  231: :::-1.00:-1.00
+------------------QLLESGAEVKKPGSSVQVSCKASGGTFSMYGFNWVRQAPGHGLEWMGGIIPIFGTSN
+YAQKFRGRVTFTADQATSTAYMELTNLRSDDTAVYYCARDFRGFFDFWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1rihH
+structure:1rihH:    1: :  169: :::-1.00:-1.00
+----------------QVQLQQSGNELAKPGASMKMSCRASGYSFTSYWIHWLKQRPDQGLEWIGYIDPATAYTE
+SNQKFKDKAILTADRSSNTAFMYLNSLTSEDSAVYYCAREYYYAMDYWGQGTTVTVSSA----------------
+-KTTPPSVYPLAPGSMVTLGC----LVKGYF--------PEPVTVTWNSGSLSSGV-------------------
+-----------------------------------------*
+
+>P1;1ri8A
+structure:1ri8A:    1: :  124: :::-1.00:-1.00
+-----------------VQLVESGGGSVQAGGSLRLSCAVSGYKDRNYCMGWFRRAPGKEREGVAVIDSSGR-TA
+YADSVKGRFTISRDVALDTAYLQMNSLKPEDTAMYYCAAGWSNRYNYWGQGTQVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1rmfH
+structure:1rmfH:    1: :  119: :::-1.00:-1.00
+----------------QVQLQQSGPELVRPGVSVKISCKGSGYTFIDYAIHWVKESHAKSLEWIGVISAYSGDTN
+YNQKFKGKATMTVDKSSNTAYLELARLTSEDSAIYYCARGLLLSFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1rvfL
+structure:1rvfL:    2: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+VLTQSPAIMSAFPGEKVTITCSATSSV-NYMHWFQQKPGTSPKLWIYSSSNLASGVPARFSGSGSGTSYSLTISR
+MEAEDAATYYCQQSSYPITFGSGTKLEIKRAD---------*
+
+>P1;1rvfH
+structure:1rvfH:    3: :  119: :::-1.00:-1.00
+------------------QLQQSGAELVRPGSSVKISCKASGYAFSSFWVNWVKQRPGQGLEWIGQI-YPGDGNK
+YNGKFKGKATLTADKSSTTAYMQLYSLTSEDSAVYFCARNYPYAMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1rz7L
+structure:1rz7L:    1: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+QMTQSPSSVSASVGDRVTITCRASQDISTWLAWYQQKPGKAPKLLIYAASTLQSGVPSRFSGSGSGTDFSLTINS
+LQPEDFATYYCQQANSFFTFGGGTKVEIKRT----------*
+
+>P1;1rz7H
+structure:1rz7H:    1: :  218: :::-1.00:-1.00
+----------------EVQLVQSGAEVKKPGATVKISCKASGYTFSDFYMYWVRQAPGKGLEWMGLIDPEDADTM
+YAEKFRGRVTITADTSTDTGYLELSSLRSEDTAVYYCAADELNAFNVWGQGTLVSVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVE--------------*
+
+>P1;1rzfL
+structure:1rzfL:    4: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQ-PPSVSAAPGQKVTISCSGSSSNNNDVSWYQQFPGTVPKLVIYENNERPSGIPDRFSGSKSGTSATLGITG
+LQTGDEADYYCGTWDSSLSFGGGSKVTV-------------*
+
+>P1;1rzfH
+structure:1rzfH:    1: :  218: :::-1.00:-1.00
+-----------------VQLVQSGAEVNKPGSSVKVSCQASGATLNSHAFSWVRQAPGQGLEWMAGIIPIFGSSH
+YAQKFRGRVTISADESTRTVYLHLRGLRSDDTAVYYCASNYYYDMDVWGQGTTVTVSSAS---------------
+--TKGPSPLAPTSGGTAALGC----LVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKRVEPK------------*
+
+>P1;1rzgA
+structure:1rzgA:    1: :  223: :::-1.00:-1.00
+----------------EVQLVQSGAEVKKPGSSVKVSCKASGGTFSNYAINWVRQAPGQGLEWMGGIIPIFNIAH
+YAQRFQGRVSITADESTSTAYMELSSLRSEDTAVFYCASPYPNDFDLWGRGTLVTVSP--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1rzgB
+structure:1rzgB:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSTLSASVGDRVTITCRASQSISNWLAWYQQKPGRAPKLLMYKASSLKSGVPSRFSGSGSGTEFTLTISS
+LQSDDFATYYCQQHDSPYTFGQGTKLEIKRT----------*
+
+>P1;1rziB
+structure:1rziB:    1: :  215: :::-1.00:-1.00
+----------------QVQLLQSGAEVKKPGSSVKVSCKASGGTFSSYAISWVRQAPGQGLEWMGGIIPVFGSAN
+YAQKFQGRVTITADEATSTTYMELSSLRSEDTAVYFCAKGGHG-MDVWGQGTTVTVAS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVE--------------*
+
+>P1;1sbsH
+structure:1sbsH:    1: :  123: :::-1.00:-1.00
+----------------EVNLEESGGGLVQPGGSMKLSCVASGFTFSNYWMNWVRQSPEKGLEWVADIRLKSNATL
+YAESVKGRFTISRDDSKSSVYLQMNNLRAEDTGIYYCTRDYA--MDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1seqL
+structure:1seqL:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPAIMSASLGSSVTLTCSASSSV-SYMHWYQQKSGTSPVLLIYTTSNLASGVPSRFSGSGSGTFYSLTISS
+VEASDAADYYCHQSSYPWTFGGGTKLEIKRAD---------*
+
+>P1;1seqH
+structure:1seqH:    1: :  123: :::-1.00:-1.00
+----------------EVKLVESGGGLVQPGGSLKLSCAASGFTFSTYTMSWARQTPEKKLEWVAYISKGGGSTY
+YPDTVKGRFTISRDNAKNTLYLQMSSLKSEDTALYYCARDFKYPMDRWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1shmA
+structure:1shmA:    1: :  118: :::-1.00:-1.00
+-----------------VQLQESGGGLVQAGGSLRLSCAASGATGSTYDMGWFRQAPGKERESVAAINWGSAGTY
+YASSVRGRFTISRDNAKKTVYLQMNSLKPEDTAVYTCGAGRIREVTWWGQGTQVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1sjvA
+structure:1sjvA:    1: :  102: :::-1.00:-1.00
+-----------------------GGGLVQAGESLKLSCAASGGF-----MGWYRQAPGKQRELVATINSRGI-TN
+YADFVKGRFTISRDNAKKTVYLEMNSLEPEDTAVYYCYTHYFRS--YWGQGTQVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1sjxA
+structure:1sjxA:    1: :  119: :::-1.00:-1.00
+----------------QVQLQESGGGLVQAGGSLRLSCQASGNIFRINDMGWYRQAPGTQRELVAAIT-SGGSTK
+YADSVKGRFTISKDNAKNTVYLQMNSLKPEDTAVYYCARHRIGTVGYWGQGTQVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1sm3H
+structure:1sm3H:    1: :  117: :::-1.00:-1.00
+----------------QVQLQESGGGLVQPGGSMKLSCVASGFTFSNYWMNWVRQSPEKGLEWVAEIRLKSNATH
+YAESVKGRFTISRDDSKSSVYLQMNNLRAEDTGIYYCTG--VGQFAYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1sq2N
+structure:1sq2N:    1: :   82: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+RVDQTPRSVTKETGESLTINCDASYALGSTC-WYRKKSGEGNE------ESISKGVETVNSGSKS---FSLRIND
+LTVEDGGTYRC------------------------------*
+
+>P1;1sy6L
+structure:1sy6L:    2: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------I
+VLTQSPAIMSASPGEKVTMTCSASSSV-SYMNWYQQKSGTSPKRWIYDTSKLASGVPAHFRGSGSGTSYSLTISG
+MEAEDAATYYCQQSSNPFTFGSGTKLEINRAD---------*
+
+>P1;1sy6H
+structure:1sy6H:    1: :  119: :::-1.00:-1.00
+----------------QVQLQQSGAELARPGASVKMSCKASGYTFTRYTMHWVKQRPGQGLEWIGYINPSRGYTN
+YNQKFKDKATLTTDKSSSTAYMQLSSLTSEDSAVYYCARYYDDHLDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1tetL
+structure:1tetL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+LMTQTPLSLPVSLGDQASISCKSSQSINTYFEWYLQKPGQSPKLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGVYYCQGSHIPFTFGSGTKLEIKRAD---------*
+
+>P1;1tetH
+structure:1tetH:    1: :  160: :::-1.00:-1.00
+----------------QIQLVQSGPELKTPGETVRISCKASGYTFTTYGMSWVKQTPGKGFKWMGWITYSGVPT-
+YADDFKGRFAFSLETSASTAYLQINNLKNEDTATYFCAR-RSWYFDVWGTGTTVTVSSA----------------
+-KTTPPSVYPLAPGSMVTLGC----LVKGYF--------PEPVTVTWNSGSLSSGV-------------------
+-----------------------------------------*
+
+>P1;1tqbB
+structure:1tqbB:    1: :  113: :::-1.00:-1.00
+----------------QIQLVQSGPELKKPGETVKISCKASGYTFTNYGMNLVKQAPGKGFEWMGWITFTGEPT-
+YADDFKGRFVFSLDTSASTAYLQINNLKNEDTATYFFTR----GTDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1tqbC
+structure:1tqbC:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DV
+VMSQTPLTLSVTIGQPASISCKSSQSLKTYLNWLLQRPGQSPKRLIYLVSRLDSGVPDRFTGSGSGTDFTLKISR
+VEAEDLGIYFCQGSHFPQTFGGGTKLEIKRAD---------*
+
+>P1;1tvdA
+structure:1tvdA:    2: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+KVTQSSPDQTVASGSEVVLLCTYDTVYSNDLFWYRIRPDYSFQFVFYGDDSRSEGTQGRFSVKHILTQFHLVISP
+VRTEDSATYYCAFTLPPPTFGKGTRVTVE------------*
+
+>P1;1txvL
+structure:1txvL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+LMTQSPSSMSVSLGDTVSITCHASQGISSNIGWLQQKPGKSFMGLIYYGTNLVDGVPSRFSGSGSGADYSLTISS
+LDSEDFADYYCQYAQLPYTFGGGTKLEIKRAD---------*
+
+>P1;1txvH
+structure:1txvH:    1: :  119: :::-1.00:-1.00
+----------------EVQLQQSGAELVKPGASVKLSCTASGFNIKDTYVHWVKQRPEQGLEWIGRIDPANGYTK
+YDPKFQGKATITADTSSNTAYLQLSSLTSEDTAVYYCVRDYYA-MDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1tzhA
+structure:1tzhA:    1: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCRASQASYSSVAWYQQKPGKAPKLLIYAASYLYSGVPSRFSGSGSGTDFTLTISS
+LQPEDFATYYCQSSASPATFGQGTKVEIKRT----------*
+
+>P1;1tzhB
+structure:1tzhB:    1: :  221: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGGSLRLSCAASGFDIYDDDIHWVRQAPGKGLEWVAYIAPSYGYTD
+YADSVKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCSRSSDASMDYWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVE--------------*
+
+>P1;1tziB
+structure:1tziB:    1: :  221: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGGSLRLSCAASGFAIYDYDIHWVRQAPGKGLEWVADIAPYAGATA
+YADSVKGRFTISADTSKNTAYLQMNSLRAEDTAVYYCSRSYYAAMDYWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1tzgL
+structure:1tzgL:    1: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EI
+VLTQSPGTQSLSPGERATLSCRASQSVNNKLAWYQQRPGQAPRLLIYGASSRPSGVADRFSGSGSGTDFTLTISR
+LEPEDFAVYYCQQGQSLSTFGQGTKVEVKRT----------*
+
+>P1;1tzgH
+structure:1tzgH:    1: :  231: :::-1.00:-1.00
+----------------QVQLVQSGAEVKRPGSSVTVSCKASGGSFSTYALSWVRQAPGRGLEWMGGVIPLLTITN
+YAPRFQGRITITADRSTSTAYLELNSLRPEDTAVYYCAREPIGAFAHWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPKSCD---------*
+
+>P1;1uz8A
+structure:1uz8A:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQAAFSNPVTLGTSASISCRSSKSLITYLYWYLQKPGQSPQLLIYQMSNLASGVPDRFSSSGSGTDFTLRISR
+VEAEDVGVYYCAQNEVPWTFGGGTKLEIKRAD---------*
+
+>P1;1um5H
+structure:1um5H:    1: :  216: :::-1.00:-1.00
+-----------------VQLQQSGPVLVKPGGSVKMSCKASEYTLTSYLFQWVKQKSGQGLEWIGYIYPYNGGTR
+YNEKFRGKATLTSDKSSNTAYLELSSLTSEDSAVYYCARSSMSDPGNWGPGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVE--------------*
+
+>P1;1uweH
+structure:1uweH:    2: :  216: :::-1.00:-1.00
+-------------------LAQSGPELVKPGASVKISCAASAYSITDFTIYWVKQSHGDSLEWIGGIDPHNGGGA
+YNQKFRVKATLTVDTSSSTAYIHLNSLTSEDSAVYYCAIFYGNFFDYWGQGTTVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTAVDKAVEPK------------*
+
+>P1;1uweL
+structure:1uweL:    2: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DN
+VMTQSPSFMSTSVGDRVSVTCAASQNVGTNVAWYQQKPGQPPKALIYSTSYRYSGVPDRFTGSGSGTDFTLTISN
+VNSEDLAEYFCQQYNIPVTFGGGTKLEIKRT----------*
+
+>P1;1uwgH
+structure:1uwgH:    1: :  115: :::-1.00:-1.00
+------------------QLLESGPELVEPGASVKVSCKASAYSITDFNIYWVKQSHGKNLEWIGGIDPHNGGPV
+YNQKFNGKATLTVDKSSSTAFMHLNSLTSEDSAVYYCAIFYGNFFDYWGPGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1uwgL
+structure:1uwgL:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EL
+VMTQSPKFMSTSVGDRVSVTCKASQNVGTHVAWYQQKPGQSPKTLIYSASYRYSGVPDRFTGSGSGTDFTLTIRD
+VQSEDAAEYFCQQYNLPVTFGGGTKLEIKRT----------*
+
+>P1;1uywH
+structure:1uywH:    1: :  118: :::-1.00:-1.00
+-----------------VQLQQSGPELVKPGTSVKISCKTSGYTFTEYTIHWVKEAGGKSLAWIGGIDPNSGGTN
+YSPNFKGKATLTVDKSSSTAYMDLRSLSSEDSAVYFCARHYDGYFDVWGAGTAVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1verA
+structure:1verA:   13: :   99: :::-1.00:-1.00
+----------------------------ETGESLTINCVLRDASYGLESTGWYR-------------TKLGSTNE
+QTISIGGRYVETVNKGSKSFSLRIRDLRVEDSGTYKCG---AFRLSEKGAGTVLTV-------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1vesA
+structure:1vesA:   13: :  112: :::-1.00:-1.00
+----------------------------ETGESLTINCVLRDASFELKDTGWYR-------------TKLGSTNE
+QSISIGGRYVETVNKGSKSFSLRISDLRVEDSGTYKCQAFYLGDYNYKGAGTALTV-------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1vgeL
+structure:1vgeL:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EL
+VMTQSPSSLSASVGDRVNIACRASQGISSALAWYQQKPGKAPRLLIYDASNLESGVPSRFSGSGSGTDFTLTISS
+LQPEDFAIYYCQQFNSPLTFGGGTKVEIKRT----------*
+
+>P1;1vgeH
+structure:1vgeH:    1: :  223: :::-1.00:-1.00
+----------------QVKLLESGAEVKKPGASVKVSCKASGYSFTSYGLHWVRQAPGQRLEWMGWISAGTGNTK
+YSQKFRGRVTFTRDTSATTAYMGLSSLRPEDTAVYYCARDPYGEFDYWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1vhp
+structure:1vhp:    1: :  117: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGGSLRLSCAASGFTFSSYAMSWVRQAPGKEREIVSAVSGSGGSTY
+YADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARLKKYAFDYWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1wioA
+structure:1wioA:    9: :   88: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-------------GDTVELTCTASQKKSIQFHWKNSNQGNQGSFLTKGPSKLNDRADSRRSLWDQG-NFPLIIKN
+LKIEDSDTYICEVED--------------------------*
+
+>P1;1wtlA
+structure:1wtlA:    1: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCRASQDITNYVNWFQQRPGQAPKVLIYGASILETGVPSRFSGSGSGTDFTFTISS
+LQPEDIATYYCQQYDTPLTFGGGTKVDIKR-----------*
+
+>P1;1xiwC
+structure:1xiwC:    2: :  107: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQTTSSLSASLGDRVTISCRASQDIRNYLNWYQQKPDGTVKLLIYYTSRLHSGVPSKFSGSGSGTDYSLTISN
+LEQEDIATYFCQQGNTPWTFAGGTKLEI-------------*
+
+>P1;1xiwD
+structure:1xiwD:    1: :  122: :::-1.00:-1.00
+----------------EVQLQQSGPELVKPGASMKISCKASGYSFTGYTMNWVKQSHGKNLEWMGLINYKGVST-
+YNQKFKDKATLTVDKSSSTAYMELLSLTSEDSAVYYCARSYYGDSDWWGQGTTLTVFS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1yecL
+structure:1yecL:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMTQSPLTLSVTIGQPASISCKSSQSLKTYLNWLLQRPGQSPKRLIHLVSKLDSGVPDRITGSGSGTDFTLKISR
+VEAADLGVYYCQGTHFPYTFGGGTKLEILRGD---------*
+
+>P1;1yedH
+structure:1yedH:    2: :  124: :::-1.00:-1.00
+-----------------VKLQQSGPELVRPGTSVKLSCKTSGYIFTSYWIHWLKQSSGQGLEWIARIYPGTGGTY
+YNEKFKGKATLTADKSSSTAYMQLSSLKSEDSAVYFCTRNYYA-MDYWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1yeeH
+structure:1yeeH:    1: :  123: :::-1.00:-1.00
+----------------EVKLQESGAELVRPGASVKLSCKTSGYIFTSYWIHWVKQRAAAGLEWIARI-YPGTGSY
+YNVKFKGKATLTADKSSSTAYMQLSSLKSDDSAVYFCVRDYV--LDYWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1yjdH
+structure:1yjdH:    1: :  119: :::-1.00:-1.00
+-----------------VQLQQSGPELVKPGTSVRISCEASGYTFTSYYIHWVKQRPGQGLEWIGCIYPGNVNTN
+YNEKFKDKATLIVDTSSNTAYMQLSRMTSEDSAVYFCTRSHYGNFDVWGAGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ymmD
+structure:1ymmD:    5: :   84: :::-1.00:-1.00
+---------------------------IQEGENATMNCS---YKTSINNLQWYRQNSGRGLVHLILIR-----SN
+EREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATD-----------------------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ymmE
+structure:1ymmE:    4: :  117: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-VSQHPSWVISKSGTSVKIECRSLDFQATTMFWYRQFPKQS--LMLMATSTYEQGVEKDLINHASLTLSTLTVTS
+AHPEDSSFYICSARDLTSFFGPGTRLTV-------------*
+
+>P1;1ypzE
+structure:1ypzE:    3: :  117: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+QVEQSPSALSLHEGTDSALRCNFTTTMRS-VQWFRQNSGSLISLFYLASGTKENGRLKSAFDSKERRYSTLHIRD
+AQLEDSGTYFC-AADTKLVFGQGTQVTVE------------*
+
+>P1;1ypzF
+structure:1ypzF:    3: :  127: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+KLEQPEISISRPRDETAQISCKVIESFRSVIHWYRQKPNQGLEFLLYVATPTHIFLDKEYSKNPSASTSILTIYS
+LEEEDEAIYYCSYGEGSSVFAEGTKLIVIPSD-KRLDAD--*
+
+>P1;1yuhH
+structure:1yuhH:    1: :  118: :::-1.00:-1.00
+----------------QVQFQQSGAELVKPGASVKLSCKASGYTFTSYLMHWIKQRPGRGLEWIGRIDPNNVVTK
+FNEKFKSKATLTVDKPSSTAYMELSSLTSEDSAVYYCARAYCRPMDYWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1yy8A
+structure:1yy8A:    1: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+LLTQSPVILSVSPGERVSFSCRASQSIGTNIHWYQQRTNGSPRLLIKYASESISGIPSRFSGSGSGTDFTLSINS
+VESEDIADYYCQQNNNPTTFGAGTKLELKRT----------*
+
+>P1;1yy8B
+structure:1yy8B:    1: :  220: :::-1.00:-1.00
+----------------QVQLKQSGPGLVQPSQSLSITCTVSGFSLTNYGVHWVRQSPGKGLEWL-GVIWSGGNTD
+YNTPFTSRLSINKDNSKSQVFFKMNSLQSNDTAIYYCARAYDYEFAYWGQGTLVTVSA--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKRVEPK------------*
+
+>P1;1za6A
+structure:1za6A:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMSQSPDSLAVSLGERVTLNCKSSQSLKNYLAWYQQKPGQSPKLLIYWASARESGVPDRFSGSGSGTDFTLTISS
+VQAEDVAVYYCQQYSYPLTFGAGTKLELKRT----------*
+
+>P1;1za6B
+structure:1za6B:    1: :  216: :::-1.00:-1.00
+----------------QVQLVQSGAEVVKPGASVKISCKASGYTFTDHAIHWVKQNPGQRLEWIGYFSPGNDDFK
+YNERFKGKATLTADTSASTAYVELSSLRSEDTAVYFCTRSL--NMAYWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1h0dB
+structure:1h0dB:    1: :  171: :::-1.00:-1.00
+----------------EVMLVESGGGLVKPGGSLKLSCAASGFTFSSYTMSWVRQTPEKRLEWVATISSGGGNTY
+YPDSVKGRFTISRDIAKNTLYLQMSSLRSEDTALYYCTRGYAYTMDYWGQGTSVTVSSAGGGGGGGAKGYFPEPV
+TVTWNSGSLSSGV--------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1h3pH
+structure:1h3pH:    1: :  116: :::-1.00:-1.00
+----------------EVQLVESGGGLVKPGGSLKLSCAASGFTFSSYAMSWVRQSPEKRLEWVAEVSSDGSYAY
+YPDTLTGRFTISRDNAKNTLYLEMTSLRSEDTAMYYCA-SFNWDVAYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1q9rA
+structure:1q9rA:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMSQSPSSLAVSAGEKVTMSCKSSQSLKNYLAWYQQKPGQSPKLLIYWASTRESGVPDRFTGSGSGTDFTLTITS
+VQAEDLAVYYCKQSYNLRTFGGGTKLEIKRAD---------*
+
+>P1;1j05L
+structure:1j05L:    1: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VLTQSPASLAVSLGQRATMSCRAGESVDGFLHWYQQKPGQPPKLLIYRASNLESGIPVRFSGTGSRTDFTLIIDP
+VEADDVATYYCQQNEDPYTFGGGTKLEIK------------*
+
+>P1;1j05H
+structure:1j05H:    1: :  121: :::-1.00:-1.00
+----------------EVQLQQSGAELVEPGASVKLSCTASGFNIKDTYMHWVKQRPEQGLEWIGRIDPANGNSK
+YVPKFQGKATITADTSSNTAYLQLTSLTSEDTAVYYCASDYA--MAYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1n0xH
+structure:1n0xH:    1: :  222: :::-1.00:-1.00
+----------------QVQLVQSGAEVKKPGASVKVSCQASGYRFSNFVIHWVRQAPGQRFEWMGWINYNGNKEF
+SA-KFQDRVTFTADTSANTAYMELRSLRSADTAVYYCAR--VGYMDVWGKGTTVIVSSAS---------------
+--TKGPSVFPLAPSSTAALGC----LVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1n4xL
+structure:1n4xL:    2: :  112: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+LMTQTPLYLPVSLGDQASISCRSSQTINTYLEWYLQKPGQSPQLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISR
+VEAEDLGIYYCQGSHFPPTFGGGTKLEI-------------*
+
+>P1;1p4bH
+structure:1p4bH:    1: :  112: :::-1.00:-1.00
+----------------DVQLQQSGPGLVAPSQSLSITCTVSGFSLTDYGVNWVRQSPGKGLEWL-GVIWGDGITD
+YNSALKSRLSVTKDNSKSQVFLKMNSLQSGDSARYYCV---TGLFDYWGQGTTLTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1ogaD
+structure:1ogaD:    3: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LEQSPQFLSIQEGENLTVYCNSS-SVFSSLQWYRQEPGEGPVLLVTVVTGGEVKKLKRFQFGDARKDSSLHITA
+AQPGDTGLYLCAGAGSQGNFGKGTKLSVK------------*
+
+>P1;1ogaE
+structure:1ogaE:    2: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-ITQSPKYLFRKEGQNVTLSCEQNLNHDA-MYWYRQDPGQGLRLIYYSVNDFQKGIAEGYSVSREKKEFPLTVTS
+AQKNPTAFYLCASSSRSSYFGPGTRLTV-------------*
+
+>P1;1q0xL
+structure:1q0xL:    1: :  108: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DA
+VVTQE-SALTTSPGETVTLTCRSSTTTSNYANWVQEKPDHLFTGLIGGTNNRAPGVPARFSGSLIGDKAALTITG
+AQTEDEAIYFCAWSNNKLVFGGGTKLTV-------------*
+
+>P1;1q0xH
+structure:1q0xH:    1: :  119: :::-1.00:-1.00
+----------------EVQLQQSGAELMKPGASVKISCKATGYTFSSYWIEWVKQRPGHGLEWIGEILPGSGDTI
+FNEKFKGKATFTADTSSNTAYMQLSSLTSEDSAVYYCARDYYG-MDYWGQGTSLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1q1jL
+structure:1q1jL:    4: :  110: :::-1.00:-1.00
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+-LTQ-PPSVSAAPGQKVTISCSGSSSNNNYVLWYQQFPGTAPKLLIYGNNKRPSGIPDRFSGSKSGTSATLGITG
+LQTGDEADYFCATWDSGLSFGGGTKLTV-------------*
+
+>P1;1q1jH
+structure:1q1jH:    1: :  231: :::-1.00:-1.00
+----------------EVQLVESGGGLVKPGGSLRLTCVASGFTFSDVWLNWVRQAPGKGLEWVGRIKTDGGTTD
+YAASVKGRFTISRDDSKNTLYLQMNSLKTEDTAVYSCTTDYYYYMDVWGKGTTVTVSS--------ASTKGPSVF
+PL--APCSRSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYTCNVNHKPSNTKVDKRVEL-------------*
+
+>P1;1uj3B
+structure:1uj3B:    1: :  117: :::-1.00:-1.00
+----------------QVQLLESGAVLARPGTSVKISCKASGFNIKDYYMHWVKQRPGQGLEWIGGNDPANGHSM
+YDPKFQGRVTITADTSTSTVFMELSSLRSEDTAVYYCARDSGYAMDYWGQGTLVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1q9rB
+structure:1q9rB:    1: :  122: :::-1.00:-1.00
+----------------EVKLVESGGGLVQSGGSLRLSCATSGFTFTDYYMSWVRQPPGKALEWLGFIRNKANGTE
+YSPSVKGRFTISRDNSQSILYLQMNTLRAEDSATYYCARDHDGRFSYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1q9wA
+structure:1q9wA:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+VMSQFPSSLAVSAGEKVTMSCKSSQSLKSYLAWYQQKPGQFPKLLIYWAATRESGVPDRFTGSGSGTDFTLTISS
+VQAEDLAVYYCKQSYNLRTFGGGTKLEIKRAD---------*
+
+>P1;1q9wB
+structure:1q9wB:    1: :  124: :::-1.00:-1.00
+----------------EVILVESGGGLVQPGGSLRLSCSTSGFTFTDYYMSWVRQPPGKALEWLGFIRNKPKGTE
+YSASVKGRFTISRDNSQSILYLQMNTLRAEDSATYYCVRDIYSGMDYWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1rjlB
+structure:1rjlB:    1: :  120: :::-1.00:-1.00
+----------------QVQLQQPGSVLVRPGASVKLSCKASGFTFTSSWMHWAKQRPGQGLEWIGEIHPNSGNTH
+YNEKFKGKATLTVDTSSSTAYVDLSSLTSEDSAVYYCARMRYGDMDNWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1rjcA
+structure:1rjcA:    1: :  123: :::-1.00:-1.00
+-----------------VQLQASGGGSVQAGQSLRLSCATSA-TSSSNCMGWFRQAPGKEREGVAVIDTGRGNTA
+YADSVQGRLTISLDN--NTLYLQMNSLKPEDTAMYYCAADYCGTFSYWGQGTQVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1v7mL
+structure:1v7mL:    2: :  109: :::-1.00:-1.00
+---------------------------------------------------------------------------
+--------------------------------------------------------------------------V
+VLTQSPGIMSASPGEKVTITCSASSSV-SYMYWFQQKPGTSPKLWIYSTSNLASGVPARFRGSGSGTSYSLTISR
+MEAEDAATYYCQQSGYPRTFGGGTKLEIKRAD---------*
+
+>P1;1v7mH
+structure:1v7mH:    1: :  116: :::-1.00:-1.00
+----------------EVKLEESGGGLVQPGGSMKLSCAASGFTFSDAWMDWVRQSPEKGLEWVAEIKVNNHAIH
+YAESVKGRFTVSRDDSKSSVYLQMNSLRAEDTGIYYCSG---WSFLYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1s3kL
+structure:1s3kL:    1: :  114: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLSASVGDRVTITCRSSQRINTYLEWYQQTPGKAPKLLIYKVSNRFSGVPSRFSGSGSGTDFTFTISS
+LQPEDIATYYCQGSHVPFTFGQGTKLQITRT----------*
+
+>P1;1s3kH
+structure:1s3kH:    1: :  211: :::-1.00:-1.00
+----------------EVQLVESGGGVVQPGRSLRLSCSTSGFTFSDYYMYWVRQAPGKGLEWVAYMSNVGAITD
+YPDTVKGRFTISRDNSKNTLFLQMDSLRPEDTGVYFCAR---GTRDYWGQGTPVTVSS--------ASTKGPSVF
+PLAPGTAALGCLVKDYFPQPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVT-VPS----SSLGTQ-------
+-------TYICNVNHKPSNTKVDKKVE--------------*
+
+>P1;1uz8B
+structure:1uz8B:    1: :  117: :::-1.00:-1.00
+----------------EVKLLESGGGLVQPGGSQKLSCAASGFDFSGYWMSWVRQAPGKGLEWIGEINPDSSTIN
+YTPSLKDKFIISRDNAKNTLYLQMSKVRSEDTALYYCARETGTRFDYWGQGTTLTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1t3fB
+structure:1t3fB:    1: :  217: :::-1.00:-1.00
+-----------------VQLVQSGAELKKPGSSVKVSCKASGYIFTSSWINWVKQAPGQGLEWIGRIDPSDGEVH
+YNQDFKDKATLTVDKSTNTAYMELSSLRSEDTAVYYCARGFLPWFADWGQGTLVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1t2jA
+structure:1t2jA:    1: :  116: :::-1.00:-1.00
+----------------QVQLQESGGGLVQPGGSLRLSCAASGFTFSNSAMSWVRQAPGKGLEWVSSISGSGGNTY
+SADSVKGRFTISRDNAKNSLYLQMNSLRAEDTAVYYCARDWYG-MDVWGQGTTVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1t66H
+structure:1t66H:    1: :  118: :::-1.00:-1.00
+----------------EVKLDETGGGLVQPGRPMKLSCVASGFTFSDYWMNWVRQSPEKGLEWVAQIRNKNYETY
+YSDSVKGRFTISRDDSKSSVYLQMNNLRAEDMGIYYCT-SYGYHGAYWGQGTLVTVSA-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1t4kA
+structure:1t4kA:    1: :  115: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------DI
+QMTQSPSSLAVSPGEKVTMSCRSSQSLKNYLAWYQQKPGQSPTKLIYWASTRESGVPDRFTGSGSGTDFTLTISS
+VQAEDLAIYYCKQSYDLPTFGAGTKLELKRSD---------*
+
+>P1;1t4kB
+structure:1t4kB:    1: :  117: :::-1.00:-1.00
+----------------EVMLVESGPGLVAPSQSLSITCTVSGFSLSDYGVSWIRQPPGKGLEWL-GVIWGDGSTY
+YASALKFRLTISKDSSKSQVFLNMHSLQTDDSAMYYCAKTYGGPGDSWGQGTSVTVSS-----------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1x9qA
+structure:1x9qA:  116: :  231: :::-1.00:-1.00
+-----------------VKLDETGGGLVQPGGAMKLSCVTSGFTFGHYWMNWVRQSPEKGLEWVAQFRNKNYETY
+YSDSVKGRFTISRDDSKSSVYLQMNNLRVEDTGIYYCTGASYG-MEYLGQGTSVTVS------------------
+---------------------------------------------------------------------------
+-----------------------------------------*
+
+>P1;1w72H
+structure:1w72H:    1: :  223: :::-1.00:-1.00
+----------------EVQLVESGGGLVQPGRSLRLSCAASGFTFDDYAMHWVRQAPGKGLEWVSGISWNSGSIG
+YADSVKGRFTISRDNAKNSLYLQMNSLRAEDTAVYYCARGYYYGMDIWGQGTTVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
+
+>P1;1y0lL
+structure:1y0lL:    1: :  111: :::-1.00:-1.00
+---------------------------------------------------------------------------
+-------------------------------------------------------------------------EL
+VVTQE-SALTTSPGETVTLTCRSSSTTSNYATWVQEKPDHLFTGLIGGTNKRAPGVPARFSGSLIGDRAALTITG
+AQTEDEAIYFCAWNSNHLVFGGGTKLEIKRT----------*
+
+>P1;1y0lH
+structure:1y0lH:    1: :  224: :::-1.00:-1.00
+----------------EVKLLESGGGLAQPGGSLKLSCAASGFDFRRYWMTWVRQAPGKGLEWIGEINPDSRTIN
+YMPSLKDKFIISRDNAKNSLYLQLSRLRSEDSALYYCVRNHYYVLDYWGQGTSVTVSS--------ASTKGPSVF
+PL--APSSKSTSGG-----TAALGCLVKDYF--------PEPVTVSWNSGALTSGVPAVLQSSGLSSVVTVPSSS
+LGTQ---TYICNVNHKPSNTKVDKKVEPK------------*
