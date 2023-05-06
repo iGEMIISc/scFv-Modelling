@@ -1,0 +1,99 @@
+combine_models {
+  input_files {
+    pdb_in = "alphafold.pdb"
+    pdb_in_atom_selection = None
+    second_pdb_in = "mod.pdb"
+    second_pdb_in_atom_selection = None
+    map_in = None
+    mtz_in = None
+    map_coeff_labels = None
+    seq_file = None
+    ncs_file = None
+  }
+  output_files {
+    pdb_out = "combine_models.pdb"
+    log = "combine_models.log"
+    params_out = "combine_models_params.eff"
+    linkage_output_file = "linkage_output.pkl"
+    output_directory = None
+  }
+  crystal_info {
+    chain_type = *PROTEIN DNA RNA
+    resolution = None
+    solvent_content = None
+    space_group = None
+    unit_cell = None
+    map_inside_box = True
+    use_sg_symmetry = None
+  }
+  directories {
+    output_dir = ""
+  }
+  crossing {
+    high_resolution = None
+    match_distance = 1.5
+    merge_by_segment_correlation = False
+    keep_all_of_first_model = None
+    optimize_ncs = False
+    trim_to_au = True
+    weight_rms = 1
+    cc_cut = 0.9
+    weight_cc = 0.1
+    weight_rad_gyr = 0.1
+    n_substitutions = 3
+    n_consider = 20
+    n_random_opt = 0
+    max_optimize_tries = 500
+    overlap_tolerance = None
+    ncs_overlap_tolerance_factor = 1.5
+    very_good_protein_score = 20
+    very_good_protein_cc = 0.75
+    very_good_rna_score = 7
+    very_good_rna_cc = 0.6
+    min_fractional = 0.05
+    min_fractional_multiple_chain_types = 0.35
+    max_residues_in_score = 20
+    weight_by_ss = False
+    assignment_weight = None
+    extra_weight_h_bonds = 1
+    min_absolute = 5
+    merge_remainder = True
+    dump_remainder = False
+    ncs_in_cell_only = True
+    remove_only_if_centers_outside = False
+    remove_outside_cell = False
+    merge_segments = False
+    min_segment_length = 5
+    merge_second_model = True
+    merge_both_models = False
+    trim_in_merge = False
+    remove_bad_fragments_in_merge = True
+    extend_in_merge = False
+    fragment_length = 10
+    use_cc_in_combine_extend = None
+    matching = True
+    non_matching = True
+    check_sequence = None
+    preserve_connectivity = None
+    merge_only = None
+    standard_merge = None
+    wang_radius = 5
+    cc_min = 0.2
+    cc_ratio_min = None
+    combine_models_score_min = None
+    cc_min_rna = 0.25
+    map_inside_box = None
+  }
+  control {
+    verbose = False
+    nproc = 1
+    multiprocessing = *multiprocessing sge lsf pbs condor pbspro slurm
+    queue_run_command = None
+    raise_sorry = False
+    return_on_failure = False
+    debug = False
+    dry_run = False
+    i_ran_seed = 351219
+    resolve_command_list = None
+  }
+}

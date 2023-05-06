@@ -1,0 +1,42 @@
+data_manager {
+  phil_files = None
+  default_phil = None
+}
+search_type = *programs tests
+search_text = None
+case_sensitive_search = False
+all_search_terms_required = True
+try_splitting_text = True
+ignore_hyphens = True
+number_to_display = 20
+find_programs_without_tests = None
+input_files {
+  program_data_file_name = None
+  read_program_data_if_available = True
+  phenix_test_database_file = None
+}
+output_files {
+  program_data_file_name = None
+  files_with_tests_file_name = files_with_tests.txt
+  files_with_no_tests_file_name = files_with_no_tests.txt
+  modules_with_tests_file_name = modules_with_tests.txt
+  modules_with_no_tests_file_name = modules_with_no_tests.txt
+}
+programs {
+  include_program_description = True
+}
+tests {
+  search_tests_by = *test_name function_called
+}
+job_title = """combine"""
+gui {
+  output_dir = None
+}
+output {
+  filename = None
+  file_name = None
+  prefix = None
+  suffix = None
+  serial = 0
+  overwrite = False
+}

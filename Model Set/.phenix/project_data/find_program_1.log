@@ -1,0 +1,122 @@
+Starting phenix.bat
+on Sat May  6 20:26:57 2023 by mriga
+===============================================================================
+
+Processing files:
+-------------------------------------------------------------------------------
+
+  Found phil, C:\Users\mriga\iGEM\IL8 + scFv\scFv models\Model Set\.phenix\project_data/find_program_1.eff
+
+Processing PHIL parameters:
+-------------------------------------------------------------------------------
+
+  Adding PHIL files:
+  ------------------
+    C:\Users\mriga\iGEM\IL8 + scFv\scFv models\Model Set\.phenix\project_data/find_program_1.eff
+
+Final processed PHIL parameters:
+-------------------------------------------------------------------------------
+  data_manager {
+    phil_files = "C:\\Users\\mriga\\iGEM\\IL8 + scFv\\scFv models\\Model Set\\.phenix\\project_data/find_program_1.eff"
+    default_phil = "C:\\Users\\mriga\\iGEM\\IL8 + scFv\\scFv models\\Model Set\\.phenix\\project_data/find_program_1.eff"
+  }
+  job_title = """combine"""
+
+
+Starting job
+===============================================================================
+Validating inputs
+Searches will match any text (search_text=ANY)
+
+************************************************************
+          PHENIX find_program  Sat May  6 20:26:57 2023
+************************************************************
+
+Working directory:  C:\Users\mriga\iGEM\IL8 + scFv\scFv models\Model Set\FindProgram_1 
+
+PHENIX VERSION:  1.20.1-4487 
+
+
+Input parameters for find_program:
+
+search_type = *programs tests
+search_text = "ANY"
+case_sensitive_search = False
+all_search_terms_required = True
+try_splitting_text = True
+ignore_hyphens = True
+number_to_display = 20
+find_programs_without_tests = None
+input_files {
+  program_data_file_name = None
+  read_program_data_if_available = True
+  phenix_test_database_file = None
+}
+output_files {
+  program_data_file_name = None
+  files_with_tests_file_name = "files_with_tests.txt"
+  files_with_no_tests_file_name = "files_with_no_tests.txt"
+  modules_with_tests_file_name = "modules_with_tests.txt"
+  modules_with_no_tests_file_name = "modules_with_no_tests.txt"
+}
+programs {
+  include_program_description = True
+}
+tests {
+  search_tests_by = *test_name function_called
+}
+gui {
+  output_dir = None
+}
+
+Running find_program
+Text strings to search for: ['ANY']
+
+Searching for programs
+Saved program data to C:\Users\mriga\AppData\Roaming\Phenix\program_data_file.pkl
+
+Programs matching search text:
+
+
+    ** GUI Other tools tab **
+
+MtzAsCif (phenix.mtz_as_cif, Converting data Convert MTZ file to mmCIF)
+
+SplitModels (iotbx.pdb.split_models, Processing PDB file Split multi-model PDB file)
+
+SymmetrySearch (mmtbx.search_pdb_symmetry, Searching local database of PDB CRYST1 records Search PDB for similar crystal symmetry)
+
+mmCIFConversion (iotbx.gui_tools.cif_conversions, Converting model file Convert between mmCIF and PDB)
+
+Reindex (phenix.reindex, Reindexing reflections Reindex MTZ file)
+
+DistanceDifference (mmtbx.distance_difference, Calculating distances Calculate distance-difference matrix)
+
+PDBToolsLite (phenix.pdbtools, Modifying atoms in PDB file Modify PDB file)
+
+TrimPDB (phenix.trim_pdb, Removing hydrogens from PDB file Strip hydrogens from model)
+
+ImportPDB (phenix.fetch_pdb, Downloading files from PDB archive... Download PDB structure)
+
+ADPStatistics (phenix.b_factor_statistics, Processing PDB file ADP statistics)
+
+Remediator (iotbx.pdb_remediator, Updating PDB format (PDB remediation) PDB remediator)
+
+BPlot (mmtbx.bfactor_plot, Extracting average isotropic B-factors... Show B-factor plot)
+
+    ** GUI " Modification, minimization and dynamics" tab **
+
+PDBTools (phenix.pdbtools, Utility for simple modifications of models)
+
+    ** Command-line programs **
+
+None (None)
+
+To cut and paste in GUI, use 'Run status' tab to select text
+
+Finished with find_program
+
+===============================================================================
+Job complete
+usr+sys time: 0.67 seconds
+wall clock time: 16.67 seconds
