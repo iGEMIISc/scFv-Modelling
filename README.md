@@ -80,3 +80,12 @@ The top four templates from PDB, in decreasing order of _score_, are
 3. [6G8R: Entity 1](https://www.rcsb.org/structure/6G8R#entity-1)
 4. [6YYE: Entity 2](https://www.rcsb.org/structure/6YYE#entity-2)
 
+Templates from PDB showed a much higher expected quality. 
+
+On checking alignment of `6Y6C` with our target sequence, it turned out that the best template for our antibody is chain-C of `6Y6C`. We then used modeller to produce the following structures for the antibody, in decreasing order of confidence.
+
+1. [Rank 1](https://github.com/iGEMIISc/scFv-Modelling/blob/main/modeller/TvLDH.B99990001.pdb) (This model was further also run through an energy optimizer)
+2. [Rank 2](https://github.com/iGEMIISc/scFv-Modelling/blob/main/modeller/TvLDH.B99990002.pdb)
+3. [Rank 3](https://github.com/iGEMIISc/scFv-Modelling/blob/main/modeller/TvLDH.B99990003.pdb)
+4. [Rank 4](https://github.com/iGEMIISc/scFv-Modelling/blob/main/modeller/TvLDH.B99990004.pdb)
+5. [Rank 5](https://github.com/iGEMIISc/scFv-Modelling/blob/main/modeller/TvLDH.B99990005.pdb)
