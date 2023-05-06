@@ -61,8 +61,22 @@ We will use both of these templates to generate structures for the antibody, sin
 
 The structure generated from the AlphaFold DB model of Q65ZC9_HUMAN is available [here](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/models/01/model.pdb). 
 
-![](https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/models/01/01.png)
+<img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/models/01/01.png"  width="150" height="150">
 
 The structure generated from the Crystal Structure of spFv GLK1 HL is available [here](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/models/02/model.pdb).
 
-![](https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/models/02/02.png)
+<img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/models/02/02.png"  width="150" height="150">
+
+---
+## Modeller 
+Modeller is a software package for protein structure modelling. We will use Modeller to generate structures for the antibody using templates obtained from querying BLAST and PDB. 
+
+In terms of the _Max Score_ parameter, the best template from Smart BLAST among natural proteins is [immunoglobulin heavy variable 4-38-2-like](https://www.ncbi.nlm.nih.gov/protein/XP_011544500.1?report=genbank&log$=protalign&blast_rank=1&RID=5BXFUSF5011). The best template among synthetic constructs is [single-chain variable fragment antibody, partial](https://www.ncbi.nlm.nih.gov/protein/QNB92943.1?report=genbank&log$=protalign&blast_rank=4&RID=5BXFUSF5011). Note that the synthetic construct has a much higher expected quality than the natural protein.
+
+The top four templates from PDB, in decreasing order of _score_, are
+
+1. [6Y6C: Entity 2](https://www.rcsb.org/structure/6Y6C#entity-2)
+2. [6YMQ: Entity 1](https://www.rcsb.org/structure/6YMQ#entity-1)
+3. [6G8R: Entity 1](https://www.rcsb.org/structure/6G8R#entity-1)
+4. [6YYE: Entity 2](https://www.rcsb.org/structure/6YYE#entity-2)
+
