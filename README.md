@@ -1,19 +1,40 @@
 # scFv Structure Modelling
-This repository lays out our process of predicting the structure for the anti-IL8 scFv format antibody. The amino acid sequence for the antibody is
+This repository lays out our process of predicting the structure for the anti-IL8 scFv format antibody. The amino acid sequence for the antibody has the following parts.
+
+1. A signal peptide sequence to ensure that the antibody is secreted from the cell.
 
 ```
-AEVQLLESGGGLVQPGGSLRLSCAASGFTFSYYGMGWVRQAPGKGLEWVS
-GISYSGSGTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARD
-YVGNLDYWGQGTLVTVSSGGGGSGGGGSGGGGSDIQMTQSPSSLSASVGD
-RVTITCRASQSISSYLNWYQQKPGKAPKLLIYAASSLQSGVPSRFSGSGS
-GTDFTLTISSLQPEDFATYYCQQSDTPSTFGQGTKLEIKRTDYKDHDGDYK
+MPLLLLLPLLWAGALA
 ```
 
-We attach a signal peptide to our sequence to ensure that the antibody is secreted from the cell. The signal peptide sequence is
+2. The variable heavy chain (VH) of the antibody.
 
 ```
-MPLLLLLPLLWAGAL
+EVQLLESGGGLVQPGGSLRLSCAASGFTFSYYGMGWVRQAPGKGLEWVSG
+ISYSGSGTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARDY
+VGNLDYWGQGTLVTVSS
 ```
+
+3. A linker sequence to connect the VH and VL chains.
+
+```
+GGGGSGGGGSGGGGS
+```
+
+4. The variable light chain (VL) of the antibody.
+
+```
+DIQMTQSPSSLSASVGDRVTITCRASQSISSYLNWYQQKPGKAPKLLIYA
+ASSLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSDTPSTFGQG
+TKLEIK
+```
+
+5. A 3xFLAG and a 6xHis-tag sequence to facilitate purification of the antibody.
+
+```
+RTDYKDHDGDYKDHDIDYKDDDDKAAALPETGGHHHHHH
+```
+
 
 Therefore, the full amino acid sequence that we will work with is
 
@@ -23,10 +44,14 @@ GWVRQAPGKGLEWVSGISYSGSGTYYADSVKGRFTISRDNSKNTLYLQMN
 SLRAEDTAVYYCARDYVGNLDYWGQGTLVTVSSGGGGSGGGGSGGGGSDI
 QMTQSPSSLSASVGDRVTITCRASQSISSYLNWYQQKPGKAPKLLIYAAS
 SLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSDTPSTFGQGTK
-LEIKRTDYKDHDGDYK
+LEIKRTDYKDHDGDYKDHDIDYKDDDDKAAALPETGGHHHHHH
 ```
 
-Note that we keep the signal peptide attached during the modelling process, because we do not know whether or not (and how) the signal peptide interacts with Interleukin-8 during docking.
+Note that we keep the signal peptide and the tags attached during the modelling process, because we do not know whether or not (and how) they interact with Interleukin-8 during docking.
+
+> Source
+> 
+> O-IL8-15 Biological Probe, in Structural Genomics Consortium: [thesgc.org/biological-probes/il-8](https://www.thesgc.org/biological-probes/il-8)
 
 ---
 ## AlphaFold2
