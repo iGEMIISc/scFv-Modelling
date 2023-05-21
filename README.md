@@ -57,7 +57,7 @@ Note that we keep the signal peptide and the tags attached during the modelling 
 ## AlphaFold2
 AlphaFold2 is a deep learning system that predicts protein structures from amino acid sequences. We used the open-source distribution of AlphaFold2, [ColabFold](https://github.com/sokrypton/ColabFold) to predict the structure of the antibody. In particular, we used the [AlphaFold2_mmseqs2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) notebook.
 
-AlphaFold generated 5 structures for the antibody, which in decreasing order of confidence are 
+<!-- AlphaFold generated 5 structures for the antibody, which in decreasing order of confidence are 
 
 1. [Rank 1](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_unrelaxed_rank_001_alphafold2_ptm_model_3_seed_000.pdb)
 
@@ -76,11 +76,11 @@ This can be seen through the PAE (Predicted Aligned Error) plots, and the pLDDT 
 
 ![](https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_pae.png)
 
-![](https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_plddt.png)
+![](https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_plddt.png) -->
 
 ---
 ## SWISS-MODEL
-SWISS-MODEL is a fully automated protein structure homology-modelling tool. The list of suggested templates can be found [here](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/templates.txt). The top 2 templates, in order of expected quality (GMQE score), are
+<!-- SWISS-MODEL is a fully automated protein structure homology-modelling tool. The list of suggested templates can be found [here](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/templates.txt). The top 2 templates, in order of expected quality (GMQE score), are
 
 1. AlphaFold DB model of Q65ZC9_HUMAN
 2. Crystal Structure of spFv GLK1 HL
@@ -93,13 +93,16 @@ The structure generated from the AlphaFold DB model of Q65ZC9_HUMAN is available
 
 The structure generated from the Crystal Structure of spFv GLK1 HL is available [here](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/models/02/model.pdb).
 
-<img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/models/02/02.png"  width="150" height="150">
+<img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/models/02/02.png"  width="150" height="150"> -->
+
+---
+## I-TASSER
 
 ---
 ## Modeller 
-Modeller is a software package for protein structure modelling. We will use Modeller to generate structures for the antibody using templates obtained from querying BLAST and PDB. 
+Modeller is a software package for protein structure modelling. We will use Modeller to generate structures for the antibody using templates obtained from querying <!--BLAST and -->PDB. 
 
-In terms of the _Max Score_ parameter, the best template from Smart BLAST among natural proteins is [immunoglobulin heavy variable 4-38-2-like](https://www.ncbi.nlm.nih.gov/protein/XP_011544500.1?report=genbank&log$=protalign&blast_rank=1&RID=5BXFUSF5011). The best template among synthetic constructs is [single-chain variable fragment antibody, partial](https://www.ncbi.nlm.nih.gov/protein/QNB92943.1?report=genbank&log$=protalign&blast_rank=4&RID=5BXFUSF5011). Note that the synthetic construct has a much higher expected quality than the natural protein.
+<!-- In terms of the _Max Score_ parameter, the best template from Smart BLAST among natural proteins is [immunoglobulin heavy variable 4-38-2-like](https://www.ncbi.nlm.nih.gov/protein/XP_011544500.1?report=genbank&log$=protalign&blast_rank=1&RID=5BXFUSF5011). The best template among synthetic constructs is [single-chain variable fragment antibody, partial](https://www.ncbi.nlm.nih.gov/protein/QNB92943.1?report=genbank&log$=protalign&blast_rank=4&RID=5BXFUSF5011). Note that the synthetic construct has a much higher expected quality than the natural protein.
 
 The top four templates from PDB, in decreasing order of _score_, are
 
@@ -121,4 +124,4 @@ On checking alignment of `6Y6C` with our target sequence, it turned out that the
 4. [Rank 4](https://github.com/iGEMIISc/scFv-Modelling/blob/main/modeller/TvLDH.B99990004.pdb)
 5. [Rank 5](https://github.com/iGEMIISc/scFv-Modelling/blob/main/modeller/TvLDH.B99990005.pdb)
 
----
+--- -->
