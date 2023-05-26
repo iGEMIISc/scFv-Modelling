@@ -2,7 +2,7 @@ from modeller import *
 
 env = environ()
 aln = alignment(env)
-mdl = model(env, file='6y6c', model_segment=('FIRST:A','LAST:A'))
+mdl = model(env, file='6y6c', model_segment=('FIRST:C','LAST:C'))
 aln.append_model(mdl, align_codes='6y6c', atom_files='6y6c.pdb')
 aln.append(file='query.ali', align_codes='TvLDH')
 aln.align2d()

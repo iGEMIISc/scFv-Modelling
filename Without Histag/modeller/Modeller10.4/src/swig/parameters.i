@@ -1,2 +1,0 @@
-struct mod_parameters {
-};

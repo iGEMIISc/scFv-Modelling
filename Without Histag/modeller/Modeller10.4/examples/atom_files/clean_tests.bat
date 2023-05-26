@@ -1,2 +1,0 @@
-del *.psa
-del *.sol
