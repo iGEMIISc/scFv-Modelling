@@ -109,6 +109,8 @@ The structure generated from the Crystal Structure of spFv GLK1 HL is available 
 
 <img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/SWISS%20MODEL/models/02/02.png"  width="150" height="150">
 
+More details about the models can be found in the `SWISS MODEL` directory.
+
 ### Citations
 
 1. Waterhouse, A., Bertoni, M., Bienert, S., Studer, G., Tauriello, G., Gumienny, R., Heer, F.T., de Beer, T.A.P., Rempfer, C., Bordoli, L., Lepore, R., Schwede, T. SWISS-MODEL: homology modelling of protein structures and complexes. Nucleic Acids Res. 46(W1), W296-W303 (2018).
@@ -119,6 +121,17 @@ The structure generated from the Crystal Structure of spFv GLK1 HL is available 
 
 ---
 ## I-TASSER
+I-TASSER (Iterative Threading ASSEmbly Refinement) is a protein structure prediction server, that identifies structural templates from the PDB by multiple threading approach (LOMETS), and constructs structures by iterative template-based fragment assembly simulations. I-TASSER used Crystal structure of SARS spike protein receptor, [2ghw](https://www.rcsb.org/structure/2ghw) as the template in its more reliable structure.
+
+<img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/I-TASSER/model1.png"  width="150" height="150">
+
+Other templates used by I-TASSER were also proteins whose structures are known through experimental techniques like X-ray diffraction or electron microscopy. More details about these models can be found in the `I-TASSER` directory.
+
+
+### Citations
+1. Wei Zheng, Chengxin Zhang, Yang Li, Robin Pearce, Eric W. Bell, Yang Zhang. Folding non-homology proteins by coupling deep-learning contact maps with I-TASSER assembly simulations. Cell Reports Methods, 1: 100014 (2021).
+2. Chengxin Zhang, Peter L. Freddolino, and Yang Zhang. COFACTOR: improved protein function prediction by combining structure, sequence and protein-protein interaction information. Nucleic Acids Research, 45: W291-299 (2017).
+3. Jianyi Yang, Yang Zhang. I-TASSER server: new development for protein structure and function predictions, Nucleic Acids Research, 43: W174-W181, 2015.
 
 ---
 ## Modeller 
