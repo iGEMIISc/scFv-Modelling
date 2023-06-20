@@ -70,7 +70,7 @@ The structure generated with PDB70 is available [here](https://raw.githubusercon
 
 <img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/AlphaFold%20Without%20Template/rank1.png"  width="150">
 
-Data for analysis is present in the ` AlphaFold Without Template` and `AlphaFold with PDB70` directories, along with other generated models. 
+Data for analysis is present in the `AlphaFold Without Template` and `AlphaFold with PDB70` directories, along with other generated models. 
 
 Both of these have very similar average predicted aligned errors, as well as predicted lDDT scores. For both of these, folding is poor near the ends where the signal peptide and flags were attached, and in the middle where the linker is present.
 
@@ -90,24 +90,32 @@ Both of these have very similar average predicted aligned errors, as well as pre
 6. Berman, H., Henrick, K., & Nakamura, H.. (2003). Announcing the worldwide Protein Data Bank.
 7. Eastman, P., Swails, J., Chodera, J., McGibbon, R., Zhao, Y., Beauchamp, K., Wang, L.P., Simmonett, A., Harrigan, M., Stern, C., Wiewiora, R., Brooks, B., & Pande, V. (2017). OpenMM 7: Rapid development of high performance algorithms for molecular dynamics. PLOS Comput. Biol., 13(7).
 
-
-
 ---
 ## SWISS-MODEL
-<!-- SWISS-MODEL is a fully automated protein structure homology-modelling tool. The list of suggested templates can be found [here](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/templates.txt). The top 2 templates, in order of expected quality (GMQE score), are
+SWISS-MODEL is a fully automated protein structure homology-modelling tool. SWISS-MODEL searches for templates against the SWISS-MODEL template library (STML). The list of suggested templates can be found [here](https://github.com/iGEMIISc/scFv-Modelling/blob/main/SWISS%20MODEL/templates.txt). The top 2 templates, in order of expected quality (GMQE score), are
 
-1. AlphaFold DB model of Q65ZC9_HUMAN
-2. Crystal Structure of spFv GLK1 HL
+1. AlphaFold DB model of Q65ZC9_HUMAN (Q65ZC9.1.A)
+2. Crystal Structure of spFv GLK1 HL (8dy0.1.A)
 
-We will use both of these templates to generate structures for the antibody, since they are obtained from drastically different methods: the former from deep learning, and the latter from X-ray crystallography.
+We used both of these templates to generate structures for the antibody, since they are obtained from drastically different paradigms–the former from deep learning, and the latter from X-ray crystallography. Both have nearly the same sequence identity with the antibody, as well as GMQE scores.
 
-The structure generated from the AlphaFold DB model of Q65ZC9_HUMAN is available [here](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/models/01/model.pdb). 
+### Q65ZC9.1.A
+The structure generated from the AlphaFold DB model of Q65ZC9_HUMAN is available [here](https://github.com/iGEMIISc/scFv-Modelling/blob/main/SWISS%20MODEL/models/01/model.pdb). 
 
-<img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/models/01/01.png"  width="150" height="150">
+<img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/SWISS%20MODEL/models/01/01.png"  width="150" height="150">
 
-The structure generated from the Crystal Structure of spFv GLK1 HL is available [here](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/models/02/model.pdb).
+### 8dy0.1.A
+The structure generated from the Crystal Structure of spFv GLK1 HL is available [here](https://github.com/iGEMIISc/scFv-Modelling/blob/main/SWISS%20MODEL/models/02/model.pdb)
 
-<img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20swissmodel/scFv_Structure_Prediction/models/02/02.png"  width="150" height="150"> -->
+<img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/SWISS%20MODEL/models/02/02.png"  width="150" height="150">
+
+### Citations
+
+1. Waterhouse, A., Bertoni, M., Bienert, S., Studer, G., Tauriello, G., Gumienny, R., Heer, F.T., de Beer, T.A.P., Rempfer, C., Bordoli, L., Lepore, R., Schwede, T. SWISS-MODEL: homology modelling of protein structures and complexes. Nucleic Acids Res. 46(W1), W296-W303 (2018).
+2. Bienert, S., Waterhouse, A., de Beer, T.A.P., Tauriello, G., Studer, G., Bordoli, L., Schwede, T. The SWISS-MODEL Repository - new features and functionality. Nucleic Acids Res. 45, D313-D319 (2017).
+3. Studer, G., Tauriello, G., Bienert, S., Biasini, M., Johner, N., Schwede, T. ProMod3 - A versatile homology modelling toolbox. PLOS Comp. Biol. 17(1), e1008667 (2021).  
+4. Studer, G., Rempfer, C., Waterhouse, A.M., Gumienny, G., Haas, J., Schwede, T. QMEANDisCo - distance constraints applied on model quality estimation. Bioinformatics 36, 1765-1771 (2020).
+5. Bertoni, M., Kiefer, F., Biasini, M., Bordoli, L., Schwede, T. Modeling protein quaternary structure of homo- and hetero-oligomers beyond binary interactions by homology. Scientific Reports 7 (2017).
 
 ---
 ## I-TASSER
