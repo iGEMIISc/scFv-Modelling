@@ -55,28 +55,21 @@ Note that we keep the signal peptide and the tags attached during the modelling 
 
 ---
 ## AlphaFold2
-AlphaFold2 is a deep learning system that predicts protein structures from amino acid sequences. We used the open-source distribution of AlphaFold2, [ColabFold](https://github.com/sokrypton/ColabFold) to predict the structure of the antibody. In particular, we used the [AlphaFold2_mmseqs2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) notebook.
+AlphaFold2 is a deep learning system that predicts protein structures from amino acid sequences. We used the open-source distribution of AlphaFold2, [ColabFold](https://github.com/sokrypton/ColabFold) to predict the structure of the antibody. In particular, we used the [AlphaFold2_mmseqs2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) notebook. This notebook differs from full AlphaFold2 and AlphaFold2 Colab in that it uses MMseqs2 (Many-against-Many sequence searching) in place of homology detection and MSA pairing.
 
-<!-- AlphaFold generated 5 structures for the antibody, which in decreasing order of confidence are 
+We used ColabFold with two different schemes: one without templates, and one with PDB70 as a database for templates. We also relaxed the top structure in either scheme wish AMBER.
 
-1. [Rank 1](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_unrelaxed_rank_001_alphafold2_ptm_model_3_seed_000.pdb)
+### With PDB70
 
-<img src="https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/SCFVSTRUCTUREPREDICTION_4F267_UNRELAXED_RANK_001_ALPHAFOLD2_PTM_MODEL_3_SEED_000.PDB.png"  width="150" height="150">
+The structure generated with PDB70 is available [here](https://github.com/iGEMIISc/scFv-Modelling/AlphaFold%20with%20PDB70/scFvModellingwithAlphaFoldwithpdb70_ee5cb_relaxed_rank_001_alphafold2_ptm_model_4_seed_000.pdb). The predicted alignment error is as below.
 
-2. [Rank 2](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_unrelaxed_rank_002_alphafold2_ptm_model_4_seed_000.pdb)
-3. [Rank 3](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_unrelaxed_rank_003_alphafold2_ptm_model_5_seed_000.pdb)
-4. [Rank 4](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_unrelaxed_rank_004_alphafold2_ptm_model_1_seed_000.pdb)
-5. [Rank 5](https://github.com/iGEMIISc/scFv-Modelling/blob/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_unrelaxed_rank_005_alphafold2_ptm_model_2_seed_000.pdb)
+<img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/AlphaFold%20with%20PDB70/pae-rank1.png"  width="150">
 
-The structure coverage plot for these models shows relatively high error near the ends, and in the middle. 
+### Without Templates
 
-![](https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_coverage.png)
+The structure generated with PDB70 is available [here](https://github.com/iGEMIISc/scFv-Modelling/AlphaFold%20Without%20Template/scFvModellingwithAlphaFoldwithpdb70_ee5cb_relaxed_rank_001_alphafold2_ptm_model_4_seed_000.pdb). The predicted alignment error is as below.
 
-This can be seen through the PAE (Predicted Aligned Error) plots, and the pLDDT plot as well.
-
-![](https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_pae.png)
-
-![](https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/(WITH%20SIGNAL%20PEPTIDE)%20scFvStructurePrediction_44a20_0%20alphafold%20(colabfold)%20latest%20version/scFvStructurePrediction_4f267_plddt.png) -->
+<img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/AlphaFold%20Without%20Template/pae-rank1.png"  width="150">
 
 ---
 ## SWISS-MODEL
