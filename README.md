@@ -66,7 +66,7 @@ The structure generated with PDB70 is available [here](https://raw.githubusercon
 
 ### Without Templates
 
-The structure generated with PDB70 is available [here](https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/AlphaFold%20Without%20Template/scFvModellingwithAlphaFoldnotemplate_ee5cb_relaxed_rank_001_alphafold2_ptm_model_4_seed_000.pdb). 
+The structure generated without templates is available [here](https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/AlphaFold%20Without%20Template/scFvModellingwithAlphaFoldnotemplate_ee5cb_relaxed_rank_001_alphafold2_ptm_model_4_seed_000.pdb). 
 
 <img src="https://raw.githubusercontent.com/iGEMIISc/scFv-Modelling/main/AlphaFold%20Without%20Template/rank1.png"  width="150">
 
