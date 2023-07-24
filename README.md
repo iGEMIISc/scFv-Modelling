@@ -156,7 +156,7 @@ More details about the modelling process can be found in the `Modeller` director
 
 ## Comparative Analysis with ProDy
 
-We select the 6 models discussed above for comparative analysis. Al data in this section has been generated using ProDy. The number of resolved atoms in given below.
+We select the 6 models discussed above for comparative analysis. All data in this section has been generated using ProDy. The number of resolved atoms in given below.
 
 | Model | Number of Resolved Atoms |
 |-------|--------------------------|
