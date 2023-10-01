@@ -54,10 +54,9 @@ O-IL8-15 Biological Probe, in Structural Genomics Consortium: [thesgc.org/biolog
 
 ---
 ## AlphaFold2
-AlphaFold2 is a deep learning system that predicts protein structures from amino acid sequences. We used the open-source distribution of AlphaFold2, [ColabFold](https://github.com/sokrypton/ColabFold) to predict the structure of the antibody. In particular, we used the [AlphaFold2_mmseqs2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) notebook. This notebook differs from full AlphaFold2 and AlphaFold2 Colab in that it uses MMseqs2 (Many-against-Many sequence searching) in place of homology detection and MSA pairing. MMseqs2
-can predict complex structures with great accuracy, as compared to AlphaFold2.
+AlphaFold2 is a deep learning system that predicts protein structures from amino acid sequences. We used the open-source distribution of AlphaFold2, [ColabFold](https://github.com/sokrypton/ColabFold) to predict the structure of the antibody. In particular, we used the [AlphaFold2_mmseqs2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) notebook. This notebook differs from full AlphaFold2 and AlphaFold2 Colab in that it uses MMseqs2 (Many-against-Many sequence searching) in place of homology detection and MSA pairing. MMseqs2 can predict complex structures with great accuracy, as compared to AlphaFold2.
 
-We used ColabFold with two different schemes: one without templates, and one with PDB70 as a database for templates. Template-based modelling compares the protein with its known homologue, as template, and presents the structure, whereas Template-free modelling predicts the structure without using any prior information from any template protein. We also relaxed the top structure in either scheme with AMBER. AMBER is a molecular dynamics software which also contains a set of forcefields which determines the potential energy as well as the interactions.
+We used ColabFold with two different schemes: one without templates, and one with PDB70 as a database for templates. We also relaxed the top structure in either scheme with AMBER. AMBER is a molecular dynamics software which also contains a set of forcefields which determines the potential energy as well as the interactions.
 
 ### With PDB70
 
