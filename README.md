@@ -156,7 +156,7 @@ More details about the modelling process can be found in the `Modeller` director
 
 ## Comparative Analysis with ProDy
 
-We select the 6 models discussed above for comparative analysis. All data in this section has been generated using ProDy. The number of resolved atoms in given below.
+We select the 6 models discussed above for comparative analysis, to determine the most accurate and reliable model. All data in this section has been generated using ProDy. It is a software package for protein dynamics, sequence and structural analysis. The analysis here, is based on the number of resolved atoms. Higher is the accuracy of the model, if the number of resolved atom is more. The number of resolved atoms for each model is given below.
 
 | Model | Number of Resolved Atoms |
 |-------|--------------------------|
@@ -171,7 +171,7 @@ This immediately places the I-TASSER model in a much more reliable position than
 
 ### Root Mean Square Deviation (RMSD)
 
-We now see the RMSD of the AlphaFold2 and I-TASSER models with respect to each other. This is done after superimposing the models on the same reference structure, through the Kabsch algorithm.
+We now see the RMSD of the AlphaFold2 and I-TASSER models with respect to each other. RMSD determines the similarity between the two models. It provides the average deviation of corresponding atoms in the two models. This is done after superimposing the models on the same reference structure, through the Kabsch algorithm. Kabsch algorithm is a method of calculating the optimal translation and rotation which produces least value of RMSD. Lesser the value of RMSD, more similar are the two models.
 
 | | AlphaFold2 with PDB70 | AlphaFold2 without Templates | I-TASSER |
 |---|---|---|---|
