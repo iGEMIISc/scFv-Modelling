@@ -54,9 +54,9 @@ O-IL8-15 Biological Probe, in Structural Genomics Consortium: [thesgc.org/biolog
 
 ---
 ## AlphaFold2
-AlphaFold2 is a deep learning system that predicts protein structures from amino acid sequences. We used the open-source distribution of AlphaFold2, [ColabFold](https://github.com/sokrypton/ColabFold) to predict the structure of the antibody. In particular, we used the [AlphaFold2_mmseqs2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) notebook. This notebook differs from full AlphaFold2 and AlphaFold2 Colab in that it uses MMseqs2 (Many-against-Many sequence searching) in place of homology detection and MSA pairing.
+AlphaFold2 is a deep learning system that predicts protein structures from amino acid sequences. We used the open-source distribution of AlphaFold2, [ColabFold](https://github.com/sokrypton/ColabFold) to predict the structure of the antibody. In particular, we used the [AlphaFold2_mmseqs2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) notebook. This notebook differs from full AlphaFold2 and AlphaFold2 Colab in that it uses MMseqs2 (Many-against-Many sequence searching) in place of homology detection and MSA pairing. MMseqs2 can predict complex structures faster as compared to MSA pairing, due to use of more parameters. Latter one may also require more resources to run in some cases.
 
-We used ColabFold with two different schemes: one without templates, and one with PDB70 as a database for templates. We also relaxed the top structure in either scheme with AMBER.
+We used ColabFold with two different schemes: one without templates, and one with PDB70 as a database for templates. We also relaxed the top structure in either scheme with AMBER. AMBER is a molecular dynamics software which also contains a set of forcefields which determines the potential energy as well as the interactions.
 
 ### With PDB70
 
@@ -89,6 +89,7 @@ Both of these have very similar average predicted aligned errors, as well as pre
 5. Steinegger, M., Meier, M., Mirdita, M., V"ohringer, H., Haunsberger, S., & S"oding, J. (2019). HH-suite3 for fast remote homology detection and deep protein annotation. BMC Bioinform., 20(1), 473.
 6. Berman, H., Henrick, K., & Nakamura, H.. (2003). Announcing the worldwide Protein Data Bank.
 7. Eastman, P., Swails, J., Chodera, J., McGibbon, R., Zhao, Y., Beauchamp, K., Wang, L.P., Simmonett, A., Harrigan, M., Stern, C., Wiewiora, R., Brooks, B., & Pande, V. (2017). OpenMM 7: Rapid development of high performance algorithms for molecular dynamics. PLOS Comput. Biol., 13(7).
+8. Mirdita, M., Schütze, K., Moriwaki, Y. et al. ColabFold: making protein folding accessible to all. Nat Methods 19, 679–682 (2022).
 
 ---
 ## SWISS-MODEL
@@ -156,7 +157,7 @@ More details about the modelling process can be found in the `Modeller` director
 
 ## Comparative Analysis with ProDy
 
-We select the 6 models discussed above for comparative analysis. All data in this section has been generated using ProDy. The number of resolved atoms in given below.
+We select the 6 models discussed above for comparative analysis, to determine the most accurate and reliable model. All data in this section has been generated using ProDy. It is a software package for protein dynamics, sequence and structural analysis. The analysis here, is based on the number of resolved atoms. Higher is the accuracy of the model, if the number of resolved atom is more. The number of resolved atoms for each model is given below.
 
 | Model | Number of Resolved Atoms |
 |-------|--------------------------|
@@ -171,7 +172,7 @@ This immediately places the I-TASSER model in a much more reliable position than
 
 ### Root Mean Square Deviation (RMSD)
 
-We now see the RMSD of the AlphaFold2 and I-TASSER models with respect to each other. This is done after superimposing the models on the same reference structure, through the Kabsch algorithm.
+We now see the RMSD of the AlphaFold2 and I-TASSER models with respect to each other. RMSD determines the similarity between the two models. It provides the average deviation of corresponding atoms in the two models. This is done after superimposing the models on the same reference structure, through the Kabsch algorithm. Kabsch algorithm is a method of calculating the optimal translation and rotation which produces least value of RMSD. Lesser the value of RMSD, more similar are the two models.
 
 | | AlphaFold2 with PDB70 | AlphaFold2 without Templates | I-TASSER |
 |---|---|---|---|
