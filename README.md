@@ -89,6 +89,7 @@ Both of these have very similar average predicted aligned errors, as well as pre
 5. Steinegger, M., Meier, M., Mirdita, M., V"ohringer, H., Haunsberger, S., & S"oding, J. (2019). HH-suite3 for fast remote homology detection and deep protein annotation. BMC Bioinform., 20(1), 473.
 6. Berman, H., Henrick, K., & Nakamura, H.. (2003). Announcing the worldwide Protein Data Bank.
 7. Eastman, P., Swails, J., Chodera, J., McGibbon, R., Zhao, Y., Beauchamp, K., Wang, L.P., Simmonett, A., Harrigan, M., Stern, C., Wiewiora, R., Brooks, B., & Pande, V. (2017). OpenMM 7: Rapid development of high performance algorithms for molecular dynamics. PLOS Comput. Biol., 13(7).
+8. Mirdita, M., Schütze, K., Moriwaki, Y. et al. ColabFold: making protein folding accessible to all. Nat Methods 19, 679–682 (2022).
 
 ---
 ## SWISS-MODEL
